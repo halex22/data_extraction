@@ -1,0 +1,2755 @@
+{
+    "aegislash": {
+        "pokedex_data": {
+            "National №": "0681",
+            "Type": " Steel Ghost ",
+            "Species": "Royal Sword Pokémon",
+            "Height": "1.7m (5′07″)",
+            "Weight": "53.0kg (116.8lbs)",
+            "Abilities": "1. Stance Change",
+            "Local №": "0119 (X/Y — Central Kalos)0332 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "60",
+            "Attack": "50",
+            "Defense": "140",
+            "Sp. Atk": "50",
+            "Sp. Def": "140",
+            "Speed": "60"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense, 1 Sp. Def ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "234",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Generations of kings were attended by these Pokémon, which used their spectral power to manipulate and control people and Pokémon.",
+            "YAlpha Sapphire": "Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king."
+        }
+    },
+    "amaura": {
+        "pokedex_data": {
+            "National №": "0698",
+            "Type": " Rock Ice ",
+            "Species": "Tundra Pokémon",
+            "Height": "1.3m (4′03″)",
+            "Weight": "25.2kg (55.6lbs)",
+            "Abilities": "1. RefrigerateSnow Warning (hidden ability)",
+            "Local №": "0066 (X/Y — Coastal Kalos)0245 (U.Sun/U.Moon — Alola dex)0085 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "77",
+            "Attack": "59",
+            "Defense": "50",
+            "Sp. Atk": "67",
+            "Sp. Def": "63",
+            "Speed": "46"
+        },
+        "trainig": {
+            "EV yield": " 1 HP ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "72",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Monster",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "30 (7,454–7,710 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "This ancient Pokémon was restored from part of its body that had been frozen in ice for over 100 million years.",
+            "YAlpha Sapphire": "This calm Pokémon lived in a cold land where there were no violent predators like Tyrantrum.",
+            "Ultra Sun": "It lived in cold areas in ancient times. It’s said that when Amaura whinnies, auroras appear in the night sky.",
+            "Ultra Moon": "Amaura was restored successfully, but it’s not expected to live long because of the heat of the current environment.",
+            "Sword": "This Pokémon was successfully restored from a fossil. In the past, it lived with others of its kind in cold lands where there were fewer predators.",
+            "Shield": "Amaura is an ancient Pokémon that has gone extinct. Specimens of this species can sometimes be found frozen in ice."
+        }
+    },
+    "aromatisse": {
+        "pokedex_data": {
+            "National №": "0683",
+            "Type": " Fairy ",
+            "Species": "Fragrance Pokémon",
+            "Height": "0.8m (2′07″)",
+            "Weight": "15.5kg (34.2lbs)",
+            "Abilities": "1. HealerAroma Veil (hidden ability)",
+            "Local №": "0130 (X/Y — Central Kalos)0213 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "101",
+            "Attack": "72",
+            "Defense": "72",
+            "Sp. Atk": "99",
+            "Sp. Def": "89",
+            "Speed": "29"
+        },
+        "trainig": {
+            "EV yield": " 2 HP ",
+            "Catch rate": " 140 (18.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "162",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It devises various scents, pleasant and unpleasant, and emits scents that its enemies dislike in order to gain an edge in battle.",
+            "YAlpha Sapphire": "Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.",
+            "Sword": "The scent that constantly emits from its fur is so powerful that this Pokémon’s companions will eventually lose their sense of smell.",
+            "Shield": "The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent’s will to fight."
+        }
+    },
+    "aurorus": {
+        "pokedex_data": {
+            "National №": "0699",
+            "Type": " Rock Ice ",
+            "Species": "Tundra Pokémon",
+            "Height": "2.7m (8′10″)",
+            "Weight": "225.0kg (496.0lbs)",
+            "Abilities": "1. RefrigerateSnow Warning (hidden ability)",
+            "Local №": "0067 (X/Y — Coastal Kalos)0246 (U.Sun/U.Moon — Alola dex)0086 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "123",
+            "Attack": "77",
+            "Defense": "72",
+            "Sp. Atk": "99",
+            "Sp. Def": "92",
+            "Speed": "58"
+        },
+        "trainig": {
+            "EV yield": " 2 HP ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "104",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Monster",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "30 (7,454–7,710 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit, surrounding its enemies and encasing them in ice.",
+            "YAlpha Sapphire": "Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent’s attack.",
+            "Ultra Sun": "An Aurorus was found frozen solid within a glacier, just as it appeared long ago, which became quite a big event in the news.",
+            "Ultra Moon": "This usually quiet and kindly Pokémon has a surface temperature of around –240 degrees Fahrenheit.",
+            "Sword": "Aurorus was restored from a fossil. It’s said that when this Pokémon howls, auroras appear in the night sky.",
+            "Shield": "When gripped by rage, Aurorus will emanate freezing air, covering everything around it in ice."
+        }
+    },
+    "avalugg": {
+        "pokedex_data": {
+            "National №": "0713",
+            "Type": " Ice ",
+            "Species": "Iceberg Pokémon",
+            "Height": "2.0m (6′07″)",
+            "Weight": "505.0kg (1113.3lbs)",
+            "Abilities": "1. Own Tempo2. Ice BodySturdy (hidden ability)",
+            "Local №": "0080 (X/Y — Mountain Kalos)0359 (Sword/Shield)0216 (Legends: Arceus)0364 (Scarlet/Violet)0143 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "95",
+            "Attack": "117",
+            "Defense": "184",
+            "Sp. Atk": "44",
+            "Sp. Def": "46",
+            "Speed": "28"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 55 (7.2% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "180",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral, Monster",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
+            "YAlpha Sapphire": "The way several Bergmite huddle on its back makes it look like an aircraft carrier made of ice.",
+            "Sword": "At high latitudes, this Pokémon can be found with clusters of Bergmite on its back as it swims among the icebergs.",
+            "Shield": "As Avalugg moves about during the day, the cracks in its body deepen. The Pokémon’s body returns to a pristine state overnight.",
+            "Scarlet": "As Avalugg walks along with Bergmite on its back, it comes across pods of Cetitan. It lets them pass to avoid conflict.",
+            "Violet": "This Pokémon uses its massive icy body to flatten anything that gets in its way. When it’s floating out on the ocean, it looks exactly like drift ice."
+        }
+    },
+    "barbaracle": {
+        "pokedex_data": {
+            "National №": "0689",
+            "Type": " Rock Water ",
+            "Species": "Collective Pokémon",
+            "Height": "1.3m (4′03″)",
+            "Weight": "96.0kg (211.6lbs)",
+            "Abilities": "1. Sniper2. Tough ClawsPickpocket (hidden ability)",
+            "Local №": "0022 (X/Y — Coastal Kalos)0235 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "72",
+            "Attack": "105",
+            "Defense": "115",
+            "Sp. Atk": "54",
+            "Sp. Def": "86",
+            "Speed": "68"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Water 3",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "When they evolve, two Binacle multiply into seven. They fight with the power of seven Binacle.",
+            "YAlpha Sapphire": "Barbaracle’s legs and hands have minds of their own, and they will move independently. But they usually follow the head’s orders.",
+            "Sword": "Seven Binacle come together to form one Barbaracle. The Binacle that serves as the head gives orders to those serving as the limbs.",
+            "Shield": "Having an eye on each palm allows it to keep watch in all directions. In a pinch, its limbs start to act on their own to ensure the enemy’s defeat."
+        }
+    },
+    "bergmite": {
+        "pokedex_data": {
+            "National №": "0712",
+            "Type": " Ice ",
+            "Species": "Ice Chunk Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "99.5kg (219.4lbs)",
+            "Abilities": "1. Own Tempo2. Ice BodySturdy (hidden ability)",
+            "Local №": "0079 (X/Y — Mountain Kalos)0358 (Sword/Shield)0215 (Legends: Arceus)0363 (Scarlet/Violet)0142 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "55",
+            "Attack": "69",
+            "Defense": "85",
+            "Sp. Atk": "32",
+            "Sp. Def": "35",
+            "Speed": "28"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral, Monster",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It blocks opponents’ attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.",
+            "YAlpha Sapphire": "Using air of -150 degrees Fahrenheit, they freeze opponents solid. They live in herds above the snow line on mountains.",
+            "Sword": "They chill the air around them to −150 degrees Fahrenheit, freezing the water in the air into ice that they use as armor.",
+            "Shield": "This Pokémon lives in areas of frigid cold. It secures itself to the back of an Avalugg by freezing its feet in place.",
+            "Legends: Arceus": "Lives on mountains blanketed in perennial snow. It freezes water vapor in the air to make the ice helmet that it dons for defense.",
+            "Scarlet": "They live in mountainous regions of frigid cold. On rare occasions, they ride on the back of an Avalugg to cross seas and move to new habitats.",
+            "Violet": "Bergmite protects itself by coating its body in ice formed by frigid air of −148 degrees Fahrenheit. It fights with Frigibax whenever they meet."
+        }
+    },
+    "binacle": {
+        "pokedex_data": {
+            "National №": "0688",
+            "Type": " Rock Water ",
+            "Species": "Two-Handed Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "31.0kg (68.3lbs)",
+            "Abilities": "1. Sniper2. Tough ClawsPickpocket (hidden ability)",
+            "Local №": "0021 (X/Y — Coastal Kalos)0234 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "42",
+            "Attack": "52",
+            "Defense": "67",
+            "Sp. Atk": "39",
+            "Sp. Def": "56",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Water 3",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
+            "YAlpha Sapphire": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
+            "Sword": "After two Binacle find a suitably sized rock, they adhere themselves to it and live together. They cooperate to gather food during high tide.",
+            "Shield": "If the two don’t work well together, both their offense and defense fall apart. Without good teamwork, they won’t survive."
+        }
+    },
+    "braixen": {
+        "pokedex_data": {
+            "National №": "0654",
+            "Type": " Fire ",
+            "Species": "Fox Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "14.5kg (32.0lbs)",
+            "Abilities": "1. BlazeMagician (hidden ability)",
+            "Local №": "0005 (X/Y — Central Kalos)0213 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "59",
+            "Attack": "59",
+            "Defense": "58",
+            "Sp. Atk": "90",
+            "Sp. Def": "70",
+            "Speed": "73"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "143",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",
+            "YAlpha Sapphire": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies."
+        }
+    },
+    "bunnelby": {
+        "pokedex_data": {
+            "National №": "0659",
+            "Type": " Normal ",
+            "Species": "Digging Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "5.0kg (11.0lbs)",
+            "Abilities": "1. Pickup2. Cheek PouchHuge Power (hidden ability)",
+            "Local №": "0010 (X/Y — Central Kalos)0048 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "38",
+            "Attack": "36",
+            "Defense": "38",
+            "Sp. Atk": "32",
+            "Sp. Def": "36",
+            "Speed": "57"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "47",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "They use their large ears to dig burrows. They will dig the whole night through.",
+            "YAlpha Sapphire": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
+            "Sword": "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",
+            "Shield": "It’s very sensitive to danger. The sound of Corviknight’s flapping will have Bunnelby digging a hole to hide underground in moments."
+        }
+    },
+    "carbink": {
+        "pokedex_data": {
+            "National №": "0703",
+            "Type": " Rock Fairy ",
+            "Species": "Jewel Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "5.7kg (12.6lbs)",
+            "Abilities": "1. Clear BodySturdy (hidden ability)",
+            "Local №": "0124 (X/Y — Coastal Kalos)0101 (Sun/Moon — Alola dex)0123 (U.Sun/U.Moon — Alola dex)0128 (The Crown Tundra)0167 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "50",
+            "Defense": "150",
+            "Sp. Atk": "50",
+            "Sp. Def": "150",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense, 1 Sp. Def ",
+            "Catch rate": " 60 (7.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "100",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy, Mineral",
+            "Gender": "Genderless",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Born from the temperatures and pressures deep underground, it fires beams from the stone in its head.",
+            "YAlpha Sapphire": "It has slept underground for hundreds of millions of years since its birth. It’s occasionally found during the excavation of caves.",
+            "Sun": "Born from the high temperatures and pressures deep underground, it defends itself by firing beams from the jewel part of its body.",
+            "Moon": "Although this Pokémon is not especially rare, its glittering, jewel-draped body draws attention from people.",
+            "Ultra Sun": "Some say that deep beneath the surface of the world, a pack of Carbink live with their queen in a kingdom of jewels.",
+            "Ultra Moon": "To keep the jewels on their bodies free of tarnish, packs of Carbink use their soft manes to polish one another’s jewels.",
+            "Sword": "When beset by attackers, Carbink wipes them all out by firing high-energy beams from the gems embedded in its body.",
+            "Shield": "It’s said that somewhere in the world, there’s a mineral vein housing a large pack of slumbering Carbink. It’s also said that this pack has a queen."
+        }
+    },
+    "chesnaught": {
+        "pokedex_data": {
+            "National №": "0652",
+            "Type": " Grass Fighting ",
+            "Species": "Spiny Armor Pokémon",
+            "Height": "1.6m (5′03″)",
+            "Weight": "90.0kg (198.4lbs)",
+            "Abilities": "1. OvergrowBulletproof (hidden ability)",
+            "Local №": "0003 (X/Y — Central Kalos)0211 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "88",
+            "Attack": "107",
+            "Defense": "122",
+            "Sp. Atk": "74",
+            "Sp. Def": "75",
+            "Speed": "64"
+        },
+        "trainig": {
+            "EV yield": " 3 Defense ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
+            "YAlpha Sapphire": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast."
+        }
+    },
+    "chespin": {
+        "pokedex_data": {
+            "National №": "0650",
+            "Type": " Grass ",
+            "Species": "Spiny Nut Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "9.0kg (19.8lbs)",
+            "Abilities": "1. OvergrowBulletproof (hidden ability)",
+            "Local №": "0001 (X/Y — Central Kalos)0209 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "56",
+            "Attack": "61",
+            "Defense": "65",
+            "Sp. Atk": "48",
+            "Sp. Def": "45",
+            "Speed": "38"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "63",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+            "YAlpha Sapphire": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn’t faze it."
+        }
+    },
+    "clauncher": {
+        "pokedex_data": {
+            "National №": "0692",
+            "Type": " Water ",
+            "Species": "Water Gun Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "8.3kg (18.3lbs)",
+            "Abilities": "1. Mega Launcher",
+            "Local №": "0032 (X/Y — Coastal Kalos)0349 (U.Sun/U.Moon — Alola dex)0339 (Scarlet/Violet)0196 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "53",
+            "Defense": "62",
+            "Sp. Atk": "58",
+            "Sp. Def": "63",
+            "Speed": "44"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk ",
+            "Catch rate": " 225 (29.4% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "66",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Water 1, Water 3",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
+            "YAlpha Sapphire": "Through controlled explosions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock.",
+            "Ultra Sun": "Its claws occasionally fall off, and it keeps a low profile until they grow back. The meat of its claws is so delicious!",
+            "Ultra Moon": "It moves around by jetting water from its right pincer. It has a poor sense of balance, so it’s terrible at swimming straight.",
+            "Sword": "Clauncher’s claws can fall off during battle, but they’ll regenerate. The meat inside the claws is popular as a delicacy in Galar.",
+            "Shield": "By detonating gas that accumulates in its right claw, this Pokémon launches water like a bullet. This is how Clauncher defeats its enemies.",
+            "Scarlet": "This Pokémon launches water by detonating gas inside its right claw. It snipes flying Pokémon.",
+            "Violet": "Clauncher’s claws will regrow if they fall off. The meat inside the claws is edible, but it has a distinct flavor that doesn’t appeal to all tastes."
+        }
+    },
+    "clawitzer": {
+        "pokedex_data": {
+            "National №": "0693",
+            "Type": " Water ",
+            "Species": "Howitzer Pokémon",
+            "Height": "1.3m (4′03″)",
+            "Weight": "35.3kg (77.8lbs)",
+            "Abilities": "1. Mega Launcher",
+            "Local №": "0033 (X/Y — Coastal Kalos)0350 (U.Sun/U.Moon — Alola dex)0340 (Scarlet/Violet)0197 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "71",
+            "Attack": "73",
+            "Defense": "88",
+            "Sp. Atk": "120",
+            "Sp. Def": "89",
+            "Speed": "59"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 55 (7.2% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "100",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Water 1, Water 3",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls.",
+            "YAlpha Sapphire": "By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.",
+            "Ultra Sun": "It compresses the water it has sucked up and then projects it with enough power to punch a hole right through a thick sheet of iron.",
+            "Ultra Moon": "Its right arm is packed with meat. When its pincer falls off, it’s exported to be used as a cooking ingredient.",
+            "Sword": "After using the feelers on its oversized claw to detect the location of prey, Clawitzer launches a cannonball of water at its target.",
+            "Shield": "Clawitzer’s right arm is a cannon that launches projectiles made of seawater. Shots from a Clawitzer’s cannon arm can sink a tanker.",
+            "Scarlet": "Clawitzer can move through the water at a speed of 60 knots by using gas inside its body to expel water from the back of its claw.",
+            "Violet": "The cannonballs of seawater that Clawitzer launches from its claw are powerful enough to punch through tanker hulls."
+        }
+    },
+    "dedenne": {
+        "pokedex_data": {
+            "National №": "0702",
+            "Type": " Electric Fairy ",
+            "Species": "Antenna Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "2.2kg (4.9lbs)",
+            "Abilities": "1. Cheek Pouch2. PickupPlus (hidden ability)",
+            "Local №": "0110 (X/Y — Coastal Kalos)0291 (U.Sun/U.Moon — Alola dex)0200 (Scarlet/Violet)0103 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "67",
+            "Attack": "58",
+            "Defense": "57",
+            "Sp. Atk": "81",
+            "Sp. Def": "67",
+            "Speed": "101"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 180 (23.5% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "151",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy, Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
+            "YAlpha Sapphire": "It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers.",
+            "Ultra Sun": "It sneaks into people’s homes and steals electricity from their outlets. When your electric bill seems off, it’s the handiwork of this rascal.",
+            "Ultra Moon": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity.",
+            "Sword": "A Dedenne’s whiskers pick up electrical waves other Dedenne send out. These Pokémon share locations of food or electricity with one another.",
+            "Shield": "Since Dedenne can’t generate much electricity on its own, it steals electricity from outlets or other electric Pokémon.",
+            "Scarlet": "It’s small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people’s homes and charge itself.",
+            "Violet": "Dedenne emit electrical waves from the whiskers on their cheeks to communicate with each other. When low on electricity, they curl up and sleep."
+        }
+    },
+    "delphox": {
+        "pokedex_data": {
+            "National №": "0655",
+            "Type": " Fire Psychic ",
+            "Species": "Fox Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "39.0kg (86.0lbs)",
+            "Abilities": "1. BlazeMagician (hidden ability)",
+            "Local №": "0006 (X/Y — Central Kalos)0214 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "75",
+            "Attack": "69",
+            "Defense": "72",
+            "Sp. Atk": "114",
+            "Sp. Def": "100",
+            "Speed": "104"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "267",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
+            "YAlpha Sapphire": "Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame."
+        }
+    },
+    "diancie": {
+        "pokedex_data": {
+            "National №": "0719",
+            "Type": " Rock Fairy ",
+            "Species": "Jewel Pokémon",
+            "Height": "0.7m (2′04″)",
+            "Weight": "8.8kg (19.4lbs)",
+            "Abilities": "1. Clear Body",
+            "Local №": "0151 (X/Y — Central Kalos)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "100",
+            "Defense": "150",
+            "Sp. Atk": "100",
+            "Sp. Def": "150",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense, 2 Sp. Def ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
+            "YAlpha Sapphire": "It can instantly create many diamonds by compressing the carbon in the air between its hands."
+        }
+    },
+    "diggersby": {
+        "pokedex_data": {
+            "National №": "0660",
+            "Type": " Normal Ground ",
+            "Species": "Digging Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "42.4kg (93.5lbs)",
+            "Abilities": "1. Pickup2. Cheek PouchHuge Power (hidden ability)",
+            "Local №": "0011 (X/Y — Central Kalos)0049 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "85",
+            "Attack": "56",
+            "Defense": "77",
+            "Sp. Atk": "50",
+            "Sp. Def": "77",
+            "Speed": "78"
+        },
+        "trainig": {
+            "EV yield": " 2 HP ",
+            "Catch rate": " 127 (16.6% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "148",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites.",
+            "YAlpha Sapphire": "As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it’s finished digging, it lounges lazily.",
+            "Sword": "With power equal to an excavator, it can dig through dense bedrock. It’s a huge help during tunnel construction.",
+            "Shield": "The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pokémon."
+        }
+    },
+    "doublade": {
+        "pokedex_data": {
+            "National №": "0680",
+            "Type": " Steel Ghost ",
+            "Species": "Sword Pokémon",
+            "Height": "0.8m (2′07″)",
+            "Weight": "4.5kg (9.9lbs)",
+            "Abilities": "1. No Guard",
+            "Local №": "0118 (X/Y — Central Kalos)0331 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "59",
+            "Attack": "110",
+            "Defense": "150",
+            "Sp. Atk": "45",
+            "Sp. Def": "49",
+            "Speed": "35"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 90 (11.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "157",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.",
+            "YAlpha Sapphire": "The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.",
+            "Sword": "Honedge evolves into twins. The two blades rub together to emit a metallic sound that unnerves opponents.",
+            "Shield": "The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey."
+        }
+    },
+    "dragalge": {
+        "pokedex_data": {
+            "National №": "0691",
+            "Type": " Poison Dragon ",
+            "Species": "Mock Kelp Pokémon",
+            "Height": "1.8m (5′11″)",
+            "Weight": "81.5kg (179.7lbs)",
+            "Abilities": "1. Poison Point2. Poison TouchAdaptability (hidden ability)",
+            "Local №": "0031 (X/Y — Coastal Kalos)0348 (U.Sun/U.Moon — Alola dex)0338 (Scarlet/Violet)0195 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "65",
+            "Attack": "75",
+            "Defense": "90",
+            "Sp. Atk": "97",
+            "Sp. Def": "123",
+            "Speed": "44"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Def ",
+            "Catch rate": " 55 (7.2% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory.",
+            "YAlpha Sapphire": "Tales are told of ships that wander into seas where Dragalge live, never to return.",
+            "Ultra Sun": "This vicious Pokémon sprays a poisonous liquid on opponents that come near. For whatever reason, it gets along really well with Dhelmise.",
+            "Ultra Moon": "It blends in with seaweed to ambush its prey and then takes them down with a poisonous liquid strong enough to melt metal.",
+            "Sword": "Dragalge uses a poisonous liquid capable of corroding metal to send tankers that enter its territory to the bottom of the sea.",
+            "Shield": "Dragalge generates dragon energy by sticking the plume on its head out above the ocean’s surface and bathing it in sunlight.",
+            "Scarlet": "Using a liquid poison, Dragalge indiscriminately attacks anything that wanders into its territory. This poison can corrode the undersides of boats.",
+            "Violet": "Since Finizen is the better swimmer, Dragalge will approach it under the cover of seaweed, then immobilize it with a poisonous attack."
+        }
+    },
+    "espurr": {
+        "pokedex_data": {
+            "National №": "0677",
+            "Type": " Psychic ",
+            "Species": "Restraint Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "3.5kg (7.7lbs)",
+            "Abilities": "1. Keen Eye2. InfiltratorOwn Tempo (hidden ability)",
+            "Local №": "0114 (X/Y — Central Kalos)0208 (Sword/Shield)0104 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "62",
+            "Attack": "48",
+            "Defense": "54",
+            "Sp. Atk": "63",
+            "Sp. Def": "60",
+            "Speed": "68"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "71",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.",
+            "YAlpha Sapphire": "It has enough psychic energy to blast everything within 300 feet of itself, but it has no control over its power.",
+            "Sword": "Though Espurr’s expression never changes, behind that blank stare is an intense struggle to contain its devastating psychic power.",
+            "Shield": "There’s enough psychic power in Espurr to send a wrestler flying, but because this power can’t be controlled, Espurr finds it troublesome."
+        }
+    },
+    "fennekin": {
+        "pokedex_data": {
+            "National №": "0653",
+            "Type": " Fire ",
+            "Species": "Fox Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "9.4kg (20.7lbs)",
+            "Abilities": "1. BlazeMagician (hidden ability)",
+            "Local №": "0004 (X/Y — Central Kalos)0212 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "45",
+            "Defense": "40",
+            "Sp. Atk": "62",
+            "Sp. Def": "60",
+            "Speed": "60"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+            "YAlpha Sapphire": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears."
+        }
+    },
+    "flabebe": {
+        "pokedex_data": {
+            "National №": "0669",
+            "Type": " Fairy ",
+            "Species": "Single Bloom Pokémon",
+            "Height": "0.1m (0′04″)",
+            "Weight": "0.1kg (0.2lbs)",
+            "Abilities": "1. Flower VeilSymbiosis (hidden ability)",
+            "Local №": "0068 (X/Y — Central Kalos)0100 (U.Sun/U.Moon — Alola dex)0145 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "44",
+            "Attack": "38",
+            "Defense": "39",
+            "Sp. Atk": "61",
+            "Sp. Def": "79",
+            "Speed": "42"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Def ",
+            "Catch rate": " 225 (29.4% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "0% male, 100% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body.",
+            "YAlpha Sapphire": "When it finds a flower it likes, it dwells on that flower its whole life long. It floats in the wind’s embrace with an untroubled heart.",
+            "Ultra Sun": "It’s not safe without the power of a flower, but it will keep traveling around until it finds one with the color and shape it wants.",
+            "Ultra Moon": "Flabébé wears a crown made from pollen it’s collected from its flower. The crown has hidden healing properties."
+        }
+    },
+    "fletchinder": {
+        "pokedex_data": {
+            "National №": "0662",
+            "Type": " Fire Flying ",
+            "Species": "Ember Pokémon",
+            "Height": "0.7m (2′04″)",
+            "Weight": "16.0kg (35.3lbs)",
+            "Abilities": "1. Flame BodyGale Wings (hidden ability)",
+            "Local №": "0015 (X/Y — Central Kalos)0159 (Sun/Moon — Alola dex)0193 (U.Sun/U.Moon — Alola dex)0020 (Scarlet/Violet)0023 (The Isle of Armor)0088 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "62",
+            "Attack": "73",
+            "Defense": "55",
+            "Sp. Atk": "56",
+            "Sp. Def": "52",
+            "Speed": "84"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "134",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
+            "YAlpha Sapphire": "The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.",
+            "Sun": "From its beak, it fires embers at its prey. Once it has caught them, it grills them at high heat before feasting upon them.",
+            "Moon": "It will not tolerate other Fletchinder entering its territory, which has a radius of several miles.",
+            "Ultra Sun": "It scatters embers in the tall grass. Then bug Pokémon, frightened by the flames, come flying out, and Fletchinder gobbles them up.",
+            "Ultra Moon": "Its speed right after takeoff already puts it in the top speed class of all bird Pokémon.",
+            "Sword": "Fletchinder launches embers into the den of its prey. When the prey comes leaping out, Fletchinder’s sharp talons finish it off.",
+            "Shield": "Fletchinder are exceedingly territorial and aggressive. These Pokémon fight among themselves over feeding grounds.",
+            "Scarlet": "Fletchinder scatters embers in tall grass where bug Pokémon might be hiding and then catches them as they come leaping out.",
+            "Violet": "Its territory has a radius of just over a mile. If any bird Pokémon should enter, it will show them no mercy."
+        }
+    },
+    "fletchling": {
+        "pokedex_data": {
+            "National №": "0661",
+            "Type": " Normal Flying ",
+            "Species": "Tiny Robin Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "1.7kg (3.7lbs)",
+            "Abilities": "1. Big PecksGale Wings (hidden ability)",
+            "Local №": "0014 (X/Y — Central Kalos)0158 (Sun/Moon — Alola dex)0192 (U.Sun/U.Moon — Alola dex)0019 (Scarlet/Violet)0022 (The Isle of Armor)0087 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "45",
+            "Attack": "50",
+            "Defense": "43",
+            "Sp. Atk": "40",
+            "Sp. Def": "38",
+            "Speed": "62"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+            "YAlpha Sapphire": "Despite the beauty of its lilting voice, it’s merciless to intruders that enter its territory.",
+            "Sun": "This amiable Pokémon is easy to train. But when battle is joined, it shows its ferocious side.",
+            "Moon": "When it’s excited, its temperature can double, spiking hormone production in its body.",
+            "Ultra Sun": "While it’s an amiable Pokémon, if you touch it unexpectedly, it will heat up its body in an instant, and you’ll be burned.",
+            "Ultra Moon": "Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.",
+            "Sword": "Its melodious cries are actually warnings. Fletchling will mercilessly peck at anything that enters its territory.",
+            "Shield": "When this Pokémon gets excited, its body temperature increases sharply. If you touch a Fletchling with bare hands, you might get burned.",
+            "Scarlet": "This Pokémon is normally calm, but once it enters battle, its hormonal balance changes and it becomes aggressive.",
+            "Violet": "Fletchling can be found in both rural and urban areas. They once had a huge territorial dispute with Squawkabilly. Fights broke out all over town."
+        }
+    },
+    "floette": {
+        "pokedex_data": {
+            "National №": "0670",
+            "Type": " Fairy ",
+            "Species": "Single Bloom Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "0.9kg (2.0lbs)",
+            "Abilities": "1. Flower VeilSymbiosis (hidden ability)",
+            "Local №": "0069 (X/Y — Central Kalos)0101 (U.Sun/U.Moon — Alola dex)0146 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "54",
+            "Attack": "45",
+            "Defense": "47",
+            "Sp. Atk": "75",
+            "Sp. Def": "98",
+            "Speed": "52"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Def ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "130",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "0% male, 100% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It flutters around fields of flowers and cares for flowers that are starting to wilt. It draws out the hidden power of flowers to battle.",
+            "YAlpha Sapphire": "When the flowers of a well-tended flower bed bloom, it appears and celebrates with an elegant dance.",
+            "Ultra Sun": "It raises flowers and uses them as weapons. The more gorgeous the blossom, the more power it contains.",
+            "Ultra Moon": "It gives its own power to flowers, pouring its heart into caring for them. Floette never forgives anyone who messes up a flower bed."
+        }
+    },
+    "florges": {
+        "pokedex_data": {
+            "National №": "0671",
+            "Type": " Fairy ",
+            "Species": "Garden Pokémon",
+            "Height": "1.1m (3′07″)",
+            "Weight": "10.0kg (22.0lbs)",
+            "Abilities": "1. Flower VeilSymbiosis (hidden ability)",
+            "Local №": "0070 (X/Y — Central Kalos)0102 (U.Sun/U.Moon — Alola dex)0147 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "78",
+            "Attack": "65",
+            "Defense": "68",
+            "Sp. Atk": "112",
+            "Sp. Def": "154",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Def ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "276",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "0% male, 100% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.",
+            "YAlpha Sapphire": "In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains.",
+            "Ultra Sun": "It controls the flowers it grows. The petal blizzards that Florges triggers are overwhelming in their beauty and power.",
+            "Ultra Moon": "Its life can span several hundred years. It’s said to devote its entire life to protecting gardens."
+        }
+    },
+    "froakie": {
+        "pokedex_data": {
+            "National №": "0656",
+            "Type": " Water ",
+            "Species": "Bubble Frog Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "7.0kg (15.4lbs)",
+            "Abilities": "1. TorrentProtean (hidden ability)",
+            "Local №": "0007 (X/Y — Central Kalos)0215 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "41",
+            "Attack": "56",
+            "Defense": "40",
+            "Sp. Atk": "62",
+            "Sp. Def": "44",
+            "Speed": "71"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "63",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Water 1",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+            "YAlpha Sapphire": "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings."
+        }
+    },
+    "frogadier": {
+        "pokedex_data": {
+            "National №": "0657",
+            "Type": " Water ",
+            "Species": "Bubble Frog Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "10.9kg (24.0lbs)",
+            "Abilities": "1. TorrentProtean (hidden ability)",
+            "Local №": "0008 (X/Y — Central Kalos)0216 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "54",
+            "Attack": "63",
+            "Defense": "52",
+            "Sp. Atk": "83",
+            "Sp. Def": "56",
+            "Speed": "97"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Water 1",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+            "YAlpha Sapphire": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute’s time."
+        }
+    },
+    "furfrou": {
+        "pokedex_data": {
+            "National №": "0676",
+            "Type": " Normal ",
+            "Species": "Poodle Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "28.0kg (61.7lbs)",
+            "Abilities": "1. Fur Coat",
+            "Local №": "0093 (X/Y — Central Kalos)0030 (U.Sun/U.Moon — Alola dex)"
+        },
+        "base_stats": {
+            "HP": "75",
+            "Attack": "80",
+            "Defense": "60",
+            "Sp. Atk": "65",
+            "Sp. Def": "90",
+            "Speed": "102"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 160 (20.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "165",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+            "YAlpha Sapphire": "Historically, in the Kalos region, these Pokémon were the designated guardians of the king.",
+            "Ultra Sun": "There was an era when aristocrats would compete to see who could trim their Furfrou’s fur into the most exquisite style.",
+            "Ultra Moon": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it."
+        }
+    },
+    "gogoat": {
+        "pokedex_data": {
+            "National №": "0673",
+            "Type": " Grass ",
+            "Species": "Mount Pokémon",
+            "Height": "1.7m (5′07″)",
+            "Weight": "91.0kg (200.6lbs)",
+            "Abilities": "1. Sap SipperGrass Pelt (hidden ability)",
+            "Local №": "0090 (X/Y — Central Kalos)0222 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "123",
+            "Attack": "100",
+            "Defense": "62",
+            "Sp. Atk": "97",
+            "Sp. Def": "81",
+            "Speed": "68"
+        },
+        "trainig": {
+            "EV yield": " 2 HP ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "186",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It can tell how its Trainer is feeling by subtle shifts in the grip on its horns. This empathic sense lets them run as if one being.",
+            "YAlpha Sapphire": "They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.",
+            "Scarlet": "It can sense the feelings of others by touching them with its horns. This species has assisted people with their work since 5,000 years ago.",
+            "Violet": "These Pokémon live in herds in mountainous places. The victor in their contests of clashing horns will become the leader of the herd."
+        }
+    },
+    "goodra": {
+        "pokedex_data": {
+            "National №": "0706",
+            "Type": " Dragon ",
+            "Species": "Dragon Pokémon",
+            "Height": "2.0m (6′07″)",
+            "Weight": "150.5kg (331.8lbs)",
+            "Abilities": "1. Sap Sipper2. HydrationGooey (hidden ability)",
+            "Local №": "0021 (X/Y — Mountain Kalos)0180 (Sun/Moon — Alola dex)0219 (U.Sun/U.Moon — Alola dex)0391 (Sword/Shield)0117 (Legends: Arceus)0174 (Scarlet/Violet)0062 (The Isle of Armor)0180 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "100",
+            "Defense": "70",
+            "Sp. Atk": "110",
+            "Sp. Def": "150",
+            "Speed": "80"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Def ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 35 (lower than normal) ",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "40 (10,024–10,280 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
+            "YAlpha Sapphire": "It attacks with retractable horns. It throws a punch that’s the equivalent of the force of a hundred pro boxers.",
+            "Sun": "An amazingly friendly Pokémon, but if left to itself, loneliness overcomes it, and it oozes gooey tears.",
+            "Moon": "It gets picked on because it’s meek. But then, whoever teased it gets to feel the full force of its horns and a good swatting from its thick tail.",
+            "Ultra Sun": "It’s very friendly toward people. If you grow close to it, Goodra will hug you with its sticky, slime-covered body. Don’t get mad.",
+            "Ultra Moon": "Underneath its slimy skin is a thick layer of fat, and the combination of the two makes enemies’ attacks slide right off.",
+            "Sword": "Sometimes it misunderstands instructions and appears dazed or bewildered. Many Trainers don’t mind, finding this behavior to be adorable.",
+            "Shield": "Its form of offense is forcefully stretching out its horns. The strikes land 100 times harder than any blow from a heavyweight boxer.",
+            "Scarlet": "It loves the rain. This mellow Pokémon can be seen walking around on the plains and in the mountains on rainy days.",
+            "Violet": "This Pokémon is uncontrollable when enraged. It rampages on and on, lashing its tail with enough power to send a dump truck flying."
+        }
+    },
+    "goomy": {
+        "pokedex_data": {
+            "National №": "0704",
+            "Type": " Dragon ",
+            "Species": "Soft Tissue Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "2.8kg (6.2lbs)",
+            "Abilities": "1. Sap Sipper2. HydrationGooey (hidden ability)",
+            "Local №": "0019 (X/Y — Mountain Kalos)0178 (Sun/Moon — Alola dex)0217 (U.Sun/U.Moon — Alola dex)0389 (Sword/Shield)0115 (Legends: Arceus)0172 (Scarlet/Violet)0060 (The Isle of Armor)0178 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "45",
+            "Attack": "50",
+            "Defense": "35",
+            "Sp. Atk": "55",
+            "Sp. Def": "75",
+            "Speed": "40"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Def ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 35 (lower than normal) ",
+            "Base Exp.": "60",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "40 (10,024–10,280 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn’t dry out.",
+            "YAlpha Sapphire": "It’s covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.",
+            "Sun": "The weakest of all Dragon-type Pokémon, it’s unable to breathe if its skin dries out, so it sticks to shady places.",
+            "Moon": "Its source of protection is its slimy, germ-laden mucous membrane. Anyone who touches it needs some thorough hand-washing.",
+            "Ultra Sun": "It uses its horns to check out its surroundings. They’re very sensitive, so if you grab them, it will feel a strong shock and be unable to move.",
+            "Ultra Moon": "Its body is mostly water. If it dries out, it will die, so it’s always sitting with perfect stillness in the shade.",
+            "Sword": "Because most of its body is water, it will dry up if the weather becomes too arid. It’s considered the weakest dragon Pokémon.",
+            "Shield": "Their horns are powerful sensors. As soon as Goomy pick up any sign of enemies, they go into hiding. This is how they’ve survived.",
+            "Legends: Arceus": "Goomy hides away in the shade of trees, where it’s nice and humid. If the slime coating its body dries out, the Pokémon instantly becomes lethargic.",
+            "Scarlet": "Most of a Goomy’s body is water. A membrane covers the whole Pokémon to prevent it from shriveling up in dry weather.",
+            "Violet": "Goomy’s horns are excellent sensory organs that cover all five of Goomy’s senses. Goomy picks up on danger from the movement of the air."
+        }
+    },
+    "gourgeist": {
+        "pokedex_data": {
+            "National №": "0711",
+            "Type": " Ghost Grass ",
+            "Species": "Pumpkin Pokémon",
+            "Height": "0.9m (2′11″)",
+            "Weight": "12.5kg (27.6lbs)",
+            "Abilities": "1. Pickup2. FriskInsomnia (hidden ability)",
+            "Local №": "0064 (X/Y — Mountain Kalos)0192 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "65",
+            "Attack": "90",
+            "Defense": "122",
+            "Sp. Atk": "58",
+            "Sp. Def": "75",
+            "Speed": "84"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 60 (7.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.",
+            "YAlpha Sapphire": "It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey."
+        }
+    },
+    "greninja": {
+        "pokedex_data": {
+            "National №": "0658",
+            "Type": " Water Dark ",
+            "Species": "Ninja Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "40.0kg (88.2lbs)",
+            "Abilities": "1. TorrentProtean (hidden ability)",
+            "Local №": "0009 (X/Y — Central Kalos)0217 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "72",
+            "Attack": "95",
+            "Defense": "67",
+            "Sp. Atk": "103",
+            "Sp. Def": "71",
+            "Speed": "122"
+        },
+        "trainig": {
+            "EV yield": " 3 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Water 1",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+            "YAlpha Sapphire": "It appears and vanishes with a ninja’s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water."
+        }
+    },
+    "hawlucha": {
+        "pokedex_data": {
+            "National №": "0701",
+            "Type": " Fighting Flying ",
+            "Species": "Wrestling Pokémon",
+            "Height": "0.8m (2′07″)",
+            "Weight": "21.5kg (47.4lbs)",
+            "Abilities": "1. Limber2. UnburdenMold Breaker (hidden ability)",
+            "Local №": "0089 (X/Y — Coastal Kalos)0096 (U.Sun/U.Moon — Alola dex)0320 (Sword/Shield)0301 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "78",
+            "Attack": "92",
+            "Defense": "75",
+            "Sp. Atk": "74",
+            "Sp. Def": "63",
+            "Speed": "118"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 100 (13.1% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Flying, Human-Like",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.",
+            "YAlpha Sapphire": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
+            "Ultra Sun": "It overwhelms opponents with quick moves, but sometimes it showboats for too long when it’s using a special move and gets itself into a pinch.",
+            "Ultra Moon": "In combat, Hawlucha leaps nimbly about, taking advantage of its opponents’ blind spots. It’s also skilled at using superb submission holds.",
+            "Sword": "It drives its opponents to exhaustion with its agile maneuvers, then ends the fight with a flashy finishing move.",
+            "Shield": "It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack.",
+            "Scarlet": "Its elegant finishing moves—performed by nimbly leaping around using its wings—are polished in the forest where it was born and raised.",
+            "Violet": "Hawlucha live quietly without flocking together. They fight constantly with their natural enemies: noisy groups of Primeape."
+        }
+    },
+    "heliolisk": {
+        "pokedex_data": {
+            "National №": "0695",
+            "Type": " Electric Normal ",
+            "Species": "Generator Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "21.0kg (46.3lbs)",
+            "Abilities": "1. Dry Skin2. Sand VeilSolar Power (hidden ability)",
+            "Local №": "0047 (X/Y — Coastal Kalos)0319 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "62",
+            "Attack": "55",
+            "Defense": "52",
+            "Sp. Atk": "109",
+            "Sp. Def": "94",
+            "Speed": "109"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk, 1 Speed ",
+            "Catch rate": " 75 (9.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Monster",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.",
+            "YAlpha Sapphire": "It stimulates its muscles with electricity, boosting the strength in its legs and enabling it to run 100 yards in five seconds.",
+            "Sword": "A now-vanished desert culture treasured these Pokémon. Appropriately, when Heliolisk came to the Galar region, treasure came with them.",
+            "Shield": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city."
+        }
+    },
+    "helioptile": {
+        "pokedex_data": {
+            "National №": "0694",
+            "Type": " Electric Normal ",
+            "Species": "Generator Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "6.0kg (13.2lbs)",
+            "Abilities": "1. Dry Skin2. Sand VeilSolar Power (hidden ability)",
+            "Local №": "0046 (X/Y — Coastal Kalos)0318 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "44",
+            "Attack": "38",
+            "Defense": "33",
+            "Sp. Atk": "61",
+            "Sp. Def": "43",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Monster",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
+            "YAlpha Sapphire": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
+            "Sword": "When spread, the frills on its head act like solar panels, generating the power behind this Pokémon’s electric moves.",
+            "Shield": "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness."
+        }
+    },
+    "honedge": {
+        "pokedex_data": {
+            "National №": "0679",
+            "Type": " Steel Ghost ",
+            "Species": "Sword Pokémon",
+            "Height": "0.8m (2′07″)",
+            "Weight": "2.0kg (4.4lbs)",
+            "Abilities": "1. No Guard",
+            "Local №": "0117 (X/Y — Central Kalos)0330 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "45",
+            "Attack": "80",
+            "Defense": "100",
+            "Sp. Atk": "35",
+            "Sp. Def": "37",
+            "Speed": "28"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 180 (23.5% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "65",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
+            "YAlpha Sapphire": "If anyone dares to grab its hilt, it wraps a blue cloth around that person’s arm and drains that person’s life energy completely.",
+            "Sword": "Honedge’s soul once belonged to a person who was killed a long time ago by the sword that makes up Honedge’s body.",
+            "Shield": "The blue eye on the sword’s handguard is the true body of Honedge. With its old cloth, it drains people’s lives away."
+        }
+    },
+    "hoopa": {
+        "pokedex_data": {
+            "National №": "0720",
+            "Type": " Psychic Ghost ",
+            "Species": "Mischief Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "9.0kg (19.8lbs)",
+            "Abilities": "1. Magician",
+            "Local №": "0152 (X/Y — Central Kalos)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "110",
+            "Defense": "60",
+            "Sp. Atk": "150",
+            "Sp. Def": "130",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 100 (higher than normal) ",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "X": "This troublemaker sends anything and everything to faraway places using its loop, which can warp space.",
+            "Y": "It gathers things it likes and passes them through its loop to teleport them to a secret place.",
+            "Omega Ruby": "In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.",
+            "Alpha Sapphire": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form."
+        }
+    },
+    "inkay": {
+        "pokedex_data": {
+            "National №": "0686",
+            "Type": " Dark Psychic ",
+            "Species": "Revolving Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "3.5kg (7.7lbs)",
+            "Abilities": "1. Contrary2. Suction CupsInfiltrator (hidden ability)",
+            "Local №": "0010 (X/Y — Coastal Kalos)0026 (U.Sun/U.Moon — Alola dex)0290 (Sword/Shield)0108 (The Isle of Armor)0080 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "53",
+            "Attack": "54",
+            "Defense": "53",
+            "Sp. Atk": "37",
+            "Sp. Def": "46",
+            "Speed": "45"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Water 1, Water 2",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Opponents who stare at the flashing of the light-emitting spots on its body become dazed and lose their will to fight.",
+            "YAlpha Sapphire": "It flashes the light-emitting spots on its body, which drains its opponent’s will to fight. It takes the opportunity to scuttle away and hide.",
+            "Ultra Sun": "It draws prey near with its blinking lights and then wraps them up in its long tentacles and holds them in place.",
+            "Ultra Moon": "When exchanging information with others of its kind, it flashes the light-emitting spots on its body in a complex rhythm.",
+            "Sword": "It spins while making its luminescent spots flash. These spots allow it to communicate with others by using different patterns of light.",
+            "Shield": "By exposing foes to the blinking of its luminescent spots, Inkay demoralizes them, and then it seizes the chance to flee."
+        }
+    },
+    "klefki": {
+        "pokedex_data": {
+            "National №": "0707",
+            "Type": " Steel Fairy ",
+            "Species": "Key Ring Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "3.0kg (6.6lbs)",
+            "Abilities": "1. PranksterMagician (hidden ability)",
+            "Local №": "0050 (X/Y — Mountain Kalos)0241 (Sun/Moon — Alola dex)0314 (U.Sun/U.Moon — Alola dex)0240 (Scarlet/Violet)0028 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "57",
+            "Attack": "80",
+            "Defense": "91",
+            "Sp. Atk": "80",
+            "Sp. Def": "87",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 75 (9.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "165",
+            "Growth Rate": "Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
+            "YAlpha Sapphire": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
+            "Sun": "This even-tempered Pokémon has a habit of collecting keys. It will sneak into people’s homes to steal their keys.",
+            "Moon": "It inserts its horn into chinks in metal, absorbing metal ions. For some reason, it collects keys.",
+            "Ultra Sun": "Although it’s unclear why it collects keys, giving it a key makes Klefki very happy. However, it apparently only likes master keys.",
+            "Ultra Moon": "Long ago it lived in mines, but once the minerals that make up its diet became scarcer, Klefki began appearing in human settlements.",
+            "Sword": "This Pokémon is constantly collecting keys. Entrust a Klefki with important keys, and the Pokémon will protect them no matter what.",
+            "Shield": "Klefki sucks in metal ions with the horn topping its head. It seems this Pokémon loves keys so much that its head needed to look like one, too.",
+            "Scarlet": "Once it absorbs a key’s metal ions, it discards the key without a second thought. However, it will hang on to keys it favors for decades.",
+            "Violet": "In the past, noble families entrusted their vault keys to a Klefki. They passed the Klefki down through the generations, taking good care of it."
+        }
+    },
+    "litleo": {
+        "pokedex_data": {
+            "National №": "0667",
+            "Type": " Fire Normal ",
+            "Species": "Lion Cub Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "13.5kg (29.8lbs)",
+            "Abilities": "1. Rivalry2. UnnerveMoxie (hidden ability)",
+            "Local №": "0057 (X/Y — Central Kalos)0370 (U.Sun/U.Moon — Alola dex)0224 (Scarlet/Violet)0036 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "62",
+            "Attack": "50",
+            "Defense": "58",
+            "Sp. Atk": "73",
+            "Sp. Def": "54",
+            "Speed": "72"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk ",
+            "Catch rate": " 220 (28.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "74",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "12.5% male, 87.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
+            "YAlpha Sapphire": "They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight.",
+            "Ultra Sun": "When they’re young, they live with a pride. Once they’re able to hunt prey on their own, they’re kicked out and have to make their own way.",
+            "Ultra Moon": "This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot.",
+            "Scarlet": "When Litleo are young, female Pyroar will teach them how to hunt. Once the Litleo mature, they will leave the pride and set out on their own.",
+            "Violet": "The more a Litleo trains its body and spirit by battling mighty enemies, the hotter its mane will grow."
+        }
+    },
+    "malamar": {
+        "pokedex_data": {
+            "National №": "0687",
+            "Type": " Dark Psychic ",
+            "Species": "Overturning Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "47.0kg (103.6lbs)",
+            "Abilities": "1. Contrary2. Suction CupsInfiltrator (hidden ability)",
+            "Local №": "0011 (X/Y — Coastal Kalos)0027 (U.Sun/U.Moon — Alola dex)0291 (Sword/Shield)0109 (The Isle of Armor)0081 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "86",
+            "Attack": "92",
+            "Defense": "88",
+            "Sp. Atk": "68",
+            "Sp. Def": "75",
+            "Speed": "73"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 80 (10.5% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "169",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Water 1, Water 2",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
+            "YAlpha Sapphire": "It lures its prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
+            "Ultra Sun": "When it comes to strong hypnosis, there’s an endless number of people who utilize Malamar for their nefarious deeds.",
+            "Ultra Moon": "It flashes the pattern on its torso to control its prey and draw them in. The edges of its fins are supremely sharp.",
+            "Sword": "Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar’s control.",
+            "Shield": "It’s said that Malamar’s hypnotic powers played a role in certain history-changing events."
+        }
+    },
+    "meowstic": {
+        "pokedex_data": {
+            "National №": "0678",
+            "Type": " Psychic ",
+            "Species": "Constraint Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "8.5kg (18.7lbs)",
+            "Abilities": "1. Keen Eye2. InfiltratorPrankster (hidden ability)",
+            "Local №": "0115 (X/Y — Central Kalos)0209 (Sword/Shield)0105 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "74",
+            "Attack": "48",
+            "Defense": "76",
+            "Sp. Atk": "83",
+            "Sp. Def": "81",
+            "Speed": "104"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 75 (9.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "163",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "100% male, 0% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.",
+            "YAlpha Sapphire": "The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense."
+        }
+    },
+    "noibat": {
+        "pokedex_data": {
+            "National №": "0714",
+            "Type": " Flying Dragon ",
+            "Species": "Sound Wave Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "8.0kg (17.6lbs)",
+            "Abilities": "1. Frisk2. InfiltratorTelepathy (hidden ability)",
+            "Local №": "0113 (X/Y — Mountain Kalos)0083 (U.Sun/U.Moon — Alola dex)0176 (Sword/Shield)0303 (Scarlet/Violet)0181 (The Crown Tundra)0088 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "30",
+            "Defense": "35",
+            "Sp. Atk": "45",
+            "Sp. Def": "40",
+            "Speed": "55"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "49",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "They live in pitch-black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.",
+            "YAlpha Sapphire": "Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves.",
+            "Ultra Sun": "Fruits are its favorite foods. This gourmet carefully picks out just the ripe ones using its sonar.",
+            "Ultra Moon": "It flies around in search of fruit to eat. It uses ultrasonic waves to detect which fruits are ripe.",
+            "Sword": "After nightfall, they emerge from the caves they nest in during the day. Using their ultrasonic waves, they go on the hunt for ripened fruit.",
+            "Shield": "No wavelength of sound is beyond Noibat’s ability to produce. The ultrasonic waves it generates can overcome much larger Pokémon.",
+            "Scarlet": "This Pokémon emits ultrasonic waves from its large ears to search for fruit to eat. It mistakes Applin for its food.",
+            "Violet": "Noibat can change the frequency of its sound waves at will, and it generates ultrasonic waves of up to 200,000 hertz."
+        }
+    },
+    "noivern": {
+        "pokedex_data": {
+            "National №": "0715",
+            "Type": " Flying Dragon ",
+            "Species": "Sound Wave Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "85.0kg (187.4lbs)",
+            "Abilities": "1. Frisk2. InfiltratorTelepathy (hidden ability)",
+            "Local №": "0114 (X/Y — Mountain Kalos)0084 (U.Sun/U.Moon — Alola dex)0177 (Sword/Shield)0304 (Scarlet/Violet)0182 (The Crown Tundra)0089 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "85",
+            "Attack": "70",
+            "Defense": "80",
+            "Sp. Atk": "97",
+            "Sp. Def": "80",
+            "Speed": "123"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "187",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
+            "YAlpha Sapphire": "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.",
+            "Ultra Sun": "Although it has a violent disposition, if you give it a nice ripe fruit that it loves, Noivern will suddenly become tame.",
+            "Ultra Moon": "This hot-blooded Pokémon attacks anything it sees with ultrasonic waves that can crush boulders.",
+            "Sword": "Aggressive and cruel, this Pokémon will ruthlessly torment enemies that are helpless in the dark.",
+            "Shield": "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight.",
+            "Scarlet": "Ultrasonic waves emitted by a Noivern can pulverize a large boulder. This Pokémon has a cruel disposition.",
+            "Violet": "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle."
+        }
+    },
+    "pancham": {
+        "pokedex_data": {
+            "National №": "0674",
+            "Type": " Fighting ",
+            "Species": "Playful Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "8.0kg (17.6lbs)",
+            "Abilities": "1. Iron Fist2. Mold BreakerScrappy (hidden ability)",
+            "Local №": "0091 (X/Y — Central Kalos)0220 (Sun/Moon — Alola dex)0284 (U.Sun/U.Moon — Alola dex)0111 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "67",
+            "Attack": "82",
+            "Defense": "62",
+            "Sp. Atk": "46",
+            "Sp. Def": "48",
+            "Speed": "43"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 220 (28.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "70",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Human-Like",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark.",
+            "YAlpha Sapphire": "It does its level best to glare and pull a scary face, but it can’t help grinning if anyone pats its head.",
+            "Sun": "It grows up imitating the behavior of Pangoro, which it looks up to as a leader.",
+            "Moon": "There’s no point to the leaf in its mouth, aside from an effort to look cool. It’s mischievous, so it’s not well suited to inexperienced Trainers.",
+            "Ultra Sun": "It follows Pangoro around like a henchman. When Pancham makes a big mistake, its leaf gets taken away.",
+            "Ultra Moon": "It’s desperate to intimidate its opponents. Be nice and pretend to be scared if you catch it glaring at you intensely.",
+            "Sword": "It chooses a Pangoro as its master and then imitates its master’s actions. This is how it learns to battle and hunt for prey.",
+            "Shield": "Wanting to make sure it’s taken seriously, Pancham’s always giving others a glare. But if it’s not focusing, it ends up smiling."
+        }
+    },
+    "pangoro": {
+        "pokedex_data": {
+            "National №": "0675",
+            "Type": " Fighting Dark ",
+            "Species": "Daunting Pokémon",
+            "Height": "2.1m (6′11″)",
+            "Weight": "136.0kg (299.8lbs)",
+            "Abilities": "1. Iron Fist2. Mold BreakerScrappy (hidden ability)",
+            "Local №": "0092 (X/Y — Central Kalos)0221 (Sun/Moon — Alola dex)0285 (U.Sun/U.Moon — Alola dex)0112 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "95",
+            "Attack": "124",
+            "Defense": "78",
+            "Sp. Atk": "69",
+            "Sp. Def": "71",
+            "Speed": "58"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 65 (8.5% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Human-Like",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Although it possesses a violent temperament, it won’t put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.",
+            "YAlpha Sapphire": "It charges ahead and bashes its opponents like a berserker, uncaring about any hits it might take. Its arms are mighty enough to snap a telephone pole.",
+            "Sun": "It boasts superb physical strength. Those who wish to become Pangoro’s Trainer have no choice but to converse with their fists.",
+            "Moon": "From the slight twitches of its bamboo leaf, it deduces its opponent’s movements. It’s eager to tussle but kindhearted toward its companions.",
+            "Ultra Sun": "This rowdy Pokémon boasts great physical strength. Many Trainers are also smitten by its lively character.",
+            "Ultra Moon": "Pangoro is the type to talk with its fists. It doesn’t say much as it pummels opponents with enough force to send a dump truck flying.",
+            "Sword": "This Pokémon is quick to anger, and it has no problem using its prodigious strength to get its way. It lives for duels against Obstagoon.",
+            "Shield": "Using its leaf, Pangoro can predict the moves of its opponents. It strikes with punches that can turn a dump truck into scrap with just one hit."
+        }
+    },
+    "phantump": {
+        "pokedex_data": {
+            "National №": "0708",
+            "Type": " Ghost Grass ",
+            "Species": "Stump Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "7.0kg (15.4lbs)",
+            "Abilities": "1. Natural Cure2. FriskHarvest (hidden ability)",
+            "Local №": "0061 (X/Y — Mountain Kalos)0196 (Sun/Moon — Alola dex)0250 (U.Sun/U.Moon — Alola dex)0338 (Sword/Shield)0033 (The Crown Tundra)0068 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "43",
+            "Attack": "70",
+            "Defense": "48",
+            "Sp. Atk": "50",
+            "Sp. Def": "60",
+            "Speed": "38"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous, Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "These Pokémon are created when spirits possess rotten tree stumps. They prefer to live in abandoned forests.",
+            "YAlpha Sapphire": "According to old tales, these Pokémon are stumps possessed by the spirits of children who died while lost in the forest.",
+            "Sun": "These Pokémon are stumps possessed by the spirits of children who died in the forest. Their cries sound like eerie screams.",
+            "Moon": "According to legend, medicine to cure any illness can be made by plucking the green leaves on its head, brewing them, and boiling down the liquid.",
+            "Ultra Sun": "By imitating the voice of a child, it causes people to get hopelessly lost deep in the forest. It’s trying to make friends with them.",
+            "Ultra Moon": "An unknown spirit came to lodge in a tree stump, creating this Pokémon. A cure-all can be made from an infusion of its green leaves.",
+            "Sword": "After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit’s rebirth as this Pokémon.",
+            "Shield": "With a voice like a human child’s, it cries out to lure adults deep into the forest, getting them lost among the trees."
+        }
+    },
+    "pumpkaboo": {
+        "pokedex_data": {
+            "National №": "0710",
+            "Type": " Ghost Grass ",
+            "Species": "Pumpkin Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "5.0kg (11.0lbs)",
+            "Abilities": "1. Pickup2. FriskInsomnia (hidden ability)",
+            "Local №": "0063 (X/Y — Mountain Kalos)0191 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "49",
+            "Attack": "66",
+            "Defense": "70",
+            "Sp. Atk": "44",
+            "Sp. Def": "55",
+            "Speed": "51"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "67",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
+            "YAlpha Sapphire": "It is said to carry wandering spirits to the place where they belong so they can move on."
+        }
+    },
+    "pyroar": {
+        "pokedex_data": {
+            "National №": "0668",
+            "Type": " Fire Normal ",
+            "Species": "Royal Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "81.5kg (179.7lbs)",
+            "Abilities": "1. Rivalry2. UnnerveMoxie (hidden ability)",
+            "Local №": "0058 (X/Y — Central Kalos)0371 (U.Sun/U.Moon — Alola dex)0225 (Scarlet/Violet)0037 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "86",
+            "Attack": "68",
+            "Defense": "72",
+            "Sp. Atk": "109",
+            "Sp. Def": "66",
+            "Speed": "106"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 65 (8.5% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "177",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "12.5% male, 87.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "The male with the largest mane of fire is the leader of the pride.",
+            "YAlpha Sapphire": "With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride’s cubs.",
+            "Ultra Sun": "The males are usually lazy, but when attacked by a strong foe, a male will protect its friends with no regard for its own safety.",
+            "Ultra Moon": "The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesn’t use it on its prey. This Pokémon prefers to eat raw meat.",
+            "Scarlet": "The females of a pride work together to bring down prey. It’s thanks to them that their pride doesn’t starve.",
+            "Violet": "The mane of a male Pyroar heats up to over 3,600 degrees Fahrenheit during battle. Merely approaching it will cause severe burns."
+        }
+    },
+    "quilladin": {
+        "pokedex_data": {
+            "National №": "0651",
+            "Type": " Grass ",
+            "Species": "Spiny Armor Pokémon",
+            "Height": "0.7m (2′04″)",
+            "Weight": "29.0kg (63.9lbs)",
+            "Abilities": "1. OvergrowBulletproof (hidden ability)",
+            "Local №": "0002 (X/Y — Central Kalos)0210 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "61",
+            "Attack": "78",
+            "Defense": "95",
+            "Sp. Atk": "56",
+            "Sp. Def": "58",
+            "Speed": "57"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "142",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It relies on its sturdy shell to deflect predators’ attacks. It counterattacks with its sharp quills.",
+            "YAlpha Sapphire": "They strengthen their lower bodies by running into one another. They are very kind and won’t start fights."
+        }
+    },
+    "scatterbug": {
+        "pokedex_data": {
+            "National №": "0664",
+            "Type": " Bug ",
+            "Species": "Scatterdust Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "2.5kg (5.5lbs)",
+            "Abilities": "1. Shield Dust2. Compound EyesFriend Guard (hidden ability)",
+            "Local №": "0020 (X/Y — Central Kalos)0035 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "38",
+            "Attack": "35",
+            "Defense": "40",
+            "Sp. Atk": "27",
+            "Sp. Def": "25",
+            "Speed": "35"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "40",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.",
+            "YAlpha Sapphire": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
+            "Scarlet": "Any poison this Pokémon takes in is converted into a black powder and secreted. That’s why Scatterbug can eat poisonous leaves and roots.",
+            "Violet": "This Pokémon scatters poisonous powder to repel enemies. It will eat different plants depending on where it lives."
+        }
+    },
+    "skiddo": {
+        "pokedex_data": {
+            "National №": "0672",
+            "Type": " Grass ",
+            "Species": "Mount Pokémon",
+            "Height": "0.9m (2′11″)",
+            "Weight": "31.0kg (68.3lbs)",
+            "Abilities": "1. Sap SipperGrass Pelt (hidden ability)",
+            "Local №": "0089 (X/Y — Central Kalos)0221 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "66",
+            "Attack": "65",
+            "Defense": "48",
+            "Sp. Atk": "62",
+            "Sp. Def": "57",
+            "Speed": "52"
+        },
+        "trainig": {
+            "EV yield": " 1 HP ",
+            "Catch rate": " 200 (26.1% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "70",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.",
+            "YAlpha Sapphire": "If it has sunshine and water, it doesn’t need to eat, because it can generate energy from the leaves on its back.",
+            "Scarlet": "Until recently, people living in the mountains would ride on the backs of these Pokémon to traverse the mountain paths.",
+            "Violet": "As long as it has sunlight and water, Skiddo can make energy with the leaves on its body, allowing it to live on rocky mountains barren of food."
+        }
+    },
+    "skrelp": {
+        "pokedex_data": {
+            "National №": "0690",
+            "Type": " Poison Water ",
+            "Species": "Mock Kelp Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "7.3kg (16.1lbs)",
+            "Abilities": "1. Poison Point2. Poison TouchAdaptability (hidden ability)",
+            "Local №": "0030 (X/Y — Coastal Kalos)0347 (U.Sun/U.Moon — Alola dex)0337 (Scarlet/Violet)0194 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "60",
+            "Defense": "60",
+            "Sp. Atk": "60",
+            "Sp. Def": "60",
+            "Speed": "30"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Def ",
+            "Catch rate": " 225 (29.4% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "64",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.",
+            "YAlpha Sapphire": "It looks just like rotten kelp. It hides from foes while storing up power for its evolution.",
+            "Ultra Sun": "It vanishes into seaweed and remains perfectly still to avoid attacks from large Pokémon. Rotten seaweed is its main food source.",
+            "Ultra Moon": "It’s not good at swimming, so it clings to the seaweed. In the Alola region, it’s often found near Dhelmise.",
+            "Sword": "It drifts in the ocean, blending in with floating seaweed. When other Pokémon come to feast on the seaweed, Skrelp feasts on them instead.",
+            "Shield": "Skrelp looks like a piece of rotten seaweed, so it can blend in with seaweed drifting on the ocean and avoid being detected by enemies.",
+            "Scarlet": "Skrelp evades its enemies by hiding amid drifting seaweed. It eats rotten seaweed to create its poison.",
+            "Violet": "This Pokémon is a poor swimmer. If it’s caught in a fierce storm, it will sometimes get washed far away and become unable to return to its home."
+        }
+    },
+    "sliggoo": {
+        "pokedex_data": {
+            "National №": "0705",
+            "Type": " Dragon ",
+            "Species": "Soft Tissue Pokémon",
+            "Height": "0.8m (2′07″)",
+            "Weight": "17.5kg (38.6lbs)",
+            "Abilities": "1. Sap Sipper2. HydrationGooey (hidden ability)",
+            "Local №": "0020 (X/Y — Mountain Kalos)0179 (Sun/Moon — Alola dex)0218 (U.Sun/U.Moon — Alola dex)0390 (Sword/Shield)0116 (Legends: Arceus)0173 (Scarlet/Violet)0061 (The Isle of Armor)0179 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "68",
+            "Attack": "75",
+            "Defense": "53",
+            "Sp. Atk": "83",
+            "Sp. Def": "113",
+            "Speed": "60"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Def ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 35 (lower than normal) ",
+            "Base Exp.": "158",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "40 (10,024–10,280 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can’t see anything.",
+            "YAlpha Sapphire": "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.",
+            "Sun": "It has trouble drawing a line between friends and food. It will calmly try to melt and eat even those it gets along well with.",
+            "Moon": "This Pokémon’s mucous can dissolve anything. Toothless, it sprays mucous on its prey. Once they’re nicely dissolved, it slurps them up.",
+            "Ultra Sun": "It crawls along sluggishly. The swirly protrusion on its back is filled with its brain and other organs.",
+            "Ultra Moon": "Its entire body is covered with gooey mucus that can dissolve anything. Be sure to put gloves on if you’re going to touch it.",
+            "Sword": "Although this Pokémon isn’t very strong, its body is coated in a caustic slime that can melt through anything, so predators steer clear of it.",
+            "Shield": "The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies.",
+            "Scarlet": "The swirly protrusion on its back is filled with all its vital organs, such as its brain and heart.",
+            "Violet": "When Sliggoo senses danger, the mucus coating its entire body becomes more concentrated—it’ll dissolve anything."
+        }
+    },
+    "slurpuff": {
+        "pokedex_data": {
+            "National №": "0685",
+            "Type": " Fairy ",
+            "Species": "Meringue Pokémon",
+            "Height": "0.8m (2′07″)",
+            "Weight": "5.0kg (11.0lbs)",
+            "Abilities": "1. Sweet VeilUnburden (hidden ability)",
+            "Local №": "0132 (X/Y — Central Kalos)0211 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "82",
+            "Attack": "80",
+            "Defense": "86",
+            "Sp. Atk": "85",
+            "Sp. Def": "75",
+            "Speed": "72"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 140 (18.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work.",
+            "YAlpha Sapphire": "Its sense of smell is 100 million times better than a human’s, so even the faintest scent tells it about everything in the area. It’s like it can see with its nose!",
+            "Sword": "By taking in a person’s scent, it can sniff out their mental and physical condition. It’s hoped that this skill will have many medical applications.",
+            "Shield": "Slurpuff’s fur contains a lot of air, making it soft to the touch and lighter than it looks."
+        }
+    },
+    "spewpa": {
+        "pokedex_data": {
+            "National №": "0665",
+            "Type": " Bug ",
+            "Species": "Scatterdust Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "8.4kg (18.5lbs)",
+            "Abilities": "1. Shed SkinFriend Guard (hidden ability)",
+            "Local №": "0021 (X/Y — Central Kalos)0036 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "45",
+            "Attack": "22",
+            "Defense": "60",
+            "Sp. Atk": "27",
+            "Sp. Def": "30",
+            "Speed": "29"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "75",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.",
+            "YAlpha Sapphire": "The beaks of bird Pokémon can’t begin to scratch its stalwart body. To defend itself, it spews powder.",
+            "Scarlet": "If Rufflet attacks this Pokémon by pecking at it, it will retaliate with its sharp fur and poisonous black powder.",
+            "Violet": "Spewpa doesn’t live in a fixed location. It roams where it pleases across the fields and mountains, building up the energy it needs to evolve."
+        }
+    },
+    "spritzee": {
+        "pokedex_data": {
+            "National №": "0682",
+            "Type": " Fairy ",
+            "Species": "Perfume Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "0.5kg (1.1lbs)",
+            "Abilities": "1. HealerAroma Veil (hidden ability)",
+            "Local №": "0129 (X/Y — Central Kalos)0212 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "78",
+            "Attack": "52",
+            "Defense": "60",
+            "Sp. Atk": "63",
+            "Sp. Def": "65",
+            "Speed": "23"
+        },
+        "trainig": {
+            "EV yield": " 1 HP ",
+            "Catch rate": " 200 (26.1% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "68",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.",
+            "YAlpha Sapphire": "In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.",
+            "Sword": "A scent pouch within this Pokémon’s body allows it to create various scents. A change in its diet will alter the fragrance it produces.",
+            "Shield": "The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee."
+        }
+    },
+    "swirlix": {
+        "pokedex_data": {
+            "National №": "0684",
+            "Type": " Fairy ",
+            "Species": "Cotton Candy Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "3.5kg (7.7lbs)",
+            "Abilities": "1. Sweet VeilUnburden (hidden ability)",
+            "Local №": "0131 (X/Y — Central Kalos)0210 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "62",
+            "Attack": "48",
+            "Defense": "66",
+            "Sp. Atk": "59",
+            "Sp. Def": "57",
+            "Speed": "49"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 200 (26.1% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "68",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
+            "YAlpha Sapphire": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
+            "Sword": "It eats its own weight in sugar every day. If it doesn’t get enough sugar, it becomes incredibly grumpy.",
+            "Shield": "The sweet smell of cotton candy perfumes Swirlix’s fluffy fur. This Pokémon spits out sticky string to tangle up its enemies."
+        }
+    },
+    "sylveon": {
+        "pokedex_data": {
+            "National №": "0700",
+            "Type": " Fairy ",
+            "Species": "Intertwining Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "23.5kg (51.8lbs)",
+            "Abilities": "1. Cute CharmPixilate (hidden ability)",
+            "Local №": "0085 (X/Y — Coastal Kalos)0131 (Sun/Moon — Alola dex)0161 (U.Sun/U.Moon — Alola dex)0204 (Sword/Shield)0033 (Legends: Arceus)0187 (Scarlet/Violet)0082 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "95",
+            "Attack": "65",
+            "Defense": "65",
+            "Sp. Atk": "110",
+            "Sp. Def": "130",
+            "Speed": "60"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Def ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "184",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "35 (8,739–8,995 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
+            "YAlpha Sapphire": "It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with him or her.",
+            "Sun": "Its ribbonlike feelers give off an aura that weakens hostility in its prey, causing them to let down their guard. Then it attacks.",
+            "Moon": "When this Pokémon sights its prey, it swirls its ribbonlike feelers as a distraction. A moment later, it pounces.",
+            "Ultra Sun": "Once a fight breaks out, it will unflinchingly charge at dragon Pokémon that are many times larger than itself.",
+            "Ultra Moon": "Sylveon wraps its ribbonlike feelers around its Trainer’s arm because this touch enables it to read its Trainer’s feelings.",
+            "Sword": "By releasing enmity-erasing waves from its ribbonlike feelers, Sylveon stops any conflict.",
+            "Shield": "There’s a Galarian fairy tale that describes a beautiful Sylveon vanquishing a dreadful dragon Pokémon.",
+            "Legends: Arceus": "It emits a soothing aura from its ribbon-shaped organs. It wraps these appendages around quarrelers to instantly restore calm to the situation.",
+            "Scarlet": "This Pokémon uses its ribbonlike feelers to send a soothing aura into its opponents, erasing their hostility.",
+            "Violet": "Sylveon cuts an elegant figure as it dances lightly around, feelers fluttering, but its piercing moves aim straight for its opponents’ weak spots."
+        }
+    },
+    "talonflame": {
+        "pokedex_data": {
+            "National №": "0663",
+            "Type": " Fire Flying ",
+            "Species": "Scorching Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "24.5kg (54.0lbs)",
+            "Abilities": "1. Flame BodyGale Wings (hidden ability)",
+            "Local №": "0016 (X/Y — Central Kalos)0160 (Sun/Moon — Alola dex)0194 (U.Sun/U.Moon — Alola dex)0021 (Scarlet/Violet)0024 (The Isle of Armor)0089 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "78",
+            "Attack": "81",
+            "Defense": "71",
+            "Sp. Atk": "74",
+            "Sp. Def": "69",
+            "Speed": "126"
+        },
+        "trainig": {
+            "EV yield": " 3 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air.",
+            "YAlpha Sapphire": "When attacking prey, it can reach speeds of up to 310 mph. It finishes its prey off with a colossal kick.",
+            "Sun": "Its favorite foods are Wingull and Pikipek. It attacks with a powerful kick and grasps them firmly in its talons.",
+            "Moon": "It zooms directly at its prey at flight speeds of close to 310 mph, while fiery embers scatter from gaps in its feathers.",
+            "Ultra Sun": "Its tough wings don’t allow fire to pass through them. A long time ago, firefighters’ outfits were made from Talonflame wings.",
+            "Ultra Moon": "Bird Pokémon make up most of its diet. It approaches at high speeds and smacks them down to the ground with its powerful kick.",
+            "Sword": "Talonflame mainly preys upon other bird Pokémon. To intimidate opponents, it sends embers spewing from gaps between its feathers.",
+            "Shield": "Talonflame dives toward prey at speeds of up to 310 mph and assaults them with powerful kicks, giving the prey no chance to escape.",
+            "Scarlet": "It has top-notch flying capabilities. It flies around easily, even while carrying prey that weighs more than 220 lbs.",
+            "Violet": "When it gets excited, it vents sparks from the gaps between its feathers. These unburnable feathers are used as a fireproof material."
+        }
+    },
+    "trevenant": {
+        "pokedex_data": {
+            "National №": "0709",
+            "Type": " Ghost Grass ",
+            "Species": "Elder Tree Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "71.0kg (156.5lbs)",
+            "Abilities": "1. Natural Cure2. FriskHarvest (hidden ability)",
+            "Local №": "0062 (X/Y — Mountain Kalos)0197 (Sun/Moon — Alola dex)0251 (U.Sun/U.Moon — Alola dex)0339 (Sword/Shield)0034 (The Crown Tundra)0069 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "85",
+            "Attack": "110",
+            "Defense": "76",
+            "Sp. Atk": "65",
+            "Sp. Def": "82",
+            "Speed": "56"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 60 (7.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous, Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It can control trees at will. It will trap people who harm the forest, so they can never leave.",
+            "YAlpha Sapphire": "Using its roots as a nervous system, it controls the trees in the forest. It’s kind to the Pokémon that reside in its body.",
+            "Sun": "This Pokémon is said to devour anyone daring to ravage the forest. To the creatures dwelling in the forest, it offers great kindness.",
+            "Moon": "Through its roots, it exerts control over other trees. A deadly curse falls upon anyone cutting down trees in forests where Trevenant dwell.",
+            "Ultra Sun": "It’s feared as a ghost of the forest. Lumberjacks bring along Fire types, which Trevenant hates, when they enter the forest.",
+            "Ultra Moon": "This Pokémon controls trees via roots stretching from its feet, and it will attack anyone that dares to ravage the forest.",
+            "Sword": "People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it’s kind.",
+            "Shield": "Small roots that extend from the tips of this Pokémon’s feet can tie into the trees of the forest and give Trevenant control over them."
+        }
+    },
+    "tyrantrum": {
+        "pokedex_data": {
+            "National №": "0697",
+            "Type": " Rock Dragon ",
+            "Species": "Despot Pokémon",
+            "Height": "2.5m (8′02″)",
+            "Weight": "270.0kg (595.2lbs)",
+            "Abilities": "1. Strong JawRock Head (hidden ability)",
+            "Local №": "0065 (X/Y — Coastal Kalos)0244 (U.Sun/U.Moon — Alola dex)0084 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "82",
+            "Attack": "121",
+            "Defense": "119",
+            "Sp. Atk": "69",
+            "Sp. Def": "59",
+            "Speed": "71"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "182",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Monster",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "30 (7,454–7,710 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited.",
+            "YAlpha Sapphire": "Nothing could stop this Pokémon 100 million years ago, so it behaved like a king.",
+            "Ultra Sun": "Complete restoration is impossible, allowing room for theories that its entire body was once covered in a feather-like coat.",
+            "Ultra Moon": "The king of the ancient world, it can easily crunch a car with the devastating strength of its enormous jaws.",
+            "Sword": "This Pokémon is from about 100,000,000 years ago. It has the presence of a king, vicious but magnificent.",
+            "Shield": "A single bite of Tyrantrum’s massive jaws will demolish a car. This Pokémon was the king of the ancient world."
+        }
+    },
+    "tyrunt": {
+        "pokedex_data": {
+            "National №": "0696",
+            "Type": " Rock Dragon ",
+            "Species": "Royal Heir Pokémon",
+            "Height": "0.8m (2′07″)",
+            "Weight": "26.0kg (57.3lbs)",
+            "Abilities": "1. Strong JawSturdy (hidden ability)",
+            "Local №": "0064 (X/Y — Coastal Kalos)0243 (U.Sun/U.Moon — Alola dex)0083 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "58",
+            "Attack": "89",
+            "Defense": "77",
+            "Sp. Atk": "45",
+            "Sp. Def": "45",
+            "Speed": "48"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "72",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Monster",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "30 (7,454–7,710 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "This Pokémon was restored from a fossil. If something happens that it doesn’t like, it throws a tantrum and runs wild.",
+            "YAlpha Sapphire": "Its immense jaws have enough destructive force that it can chew up an automobile. It lived 100 million years ago.",
+            "Ultra Sun": "Its large jaw has incredible destructive power. Some theories suggest that its restored form is different from its form of long ago.",
+            "Ultra Moon": "Tyrunt is spoiled and selfish. It may just be trying to frolic, but sometimes the ones it’s trying to frolic with are gravely injured.",
+            "Sword": "This is an ancient Pokémon, revived in modern times. It has a violent disposition, and it’ll tear apart anything it gets between its hefty jaws.",
+            "Shield": "This Pokémon is selfish and likes to be pampered. It can also inflict grievous wounds on its Trainer just by playing around."
+        }
+    },
+    "vivillon": {
+        "pokedex_data": {
+            "National №": "0666",
+            "Type": " Bug Flying ",
+            "Species": "Scale Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "17.0kg (37.5lbs)",
+            "Abilities": "1. Shield Dust2. Compound EyesFriend Guard (hidden ability)",
+            "Local №": "0022 (X/Y — Central Kalos)0037 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "52",
+            "Defense": "50",
+            "Sp. Atk": "90",
+            "Sp. Def": "50",
+            "Speed": "89"
+        },
+        "trainig": {
+            "EV yield": " 1 HP, 1 Sp. Atk, 1 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "206",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
+            "YAlpha Sapphire": "The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales."
+        }
+    },
+    "volcanion": {
+        "pokedex_data": {
+            "National №": "0721",
+            "Type": " Fire Water ",
+            "Species": "Steam Pokémon",
+            "Height": "1.7m (5′07″)",
+            "Weight": "195.0kg (429.9lbs)",
+            "Abilities": "1. Water Absorb",
+            "Local №": "0153 (X/Y — Central Kalos)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "110",
+            "Defense": "120",
+            "Sp. Atk": "130",
+            "Sp. Def": "90",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 100 (higher than normal) ",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "It lets out billows of steam and disappears into the dense fog. It’s said to live in mountains where humans do not tread.",
+            "YAlpha Sapphire": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain."
+        }
+    },
+    "xerneas": {
+        "pokedex_data": {
+            "National №": "0716",
+            "Type": " Fairy ",
+            "Species": "Life Pokémon",
+            "Height": "3.0m (9′10″)",
+            "Weight": "215.0kg (474.0lbs)",
+            "Abilities": "1. Fairy Aura",
+            "Local №": "0148 (X/Y — Mountain Kalos)"
+        },
+        "base_stats": {
+            "HP": "126",
+            "Attack": "131",
+            "Defense": "95",
+            "Sp. Atk": "131",
+            "Sp. Def": "98",
+            "Speed": "99"
+        },
+        "trainig": {
+            "EV yield": " 3 HP ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "306",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
+            "YAlpha Sapphire": "When the horns on its head shine in seven colors, it is said to be sharing everlasting life."
+        }
+    },
+    "yveltal": {
+        "pokedex_data": {
+            "National №": "0717",
+            "Type": " Dark Flying ",
+            "Species": "Destruction Pokémon",
+            "Height": "5.8m (19′00″)",
+            "Weight": "203.0kg (447.5lbs)",
+            "Abilities": "1. Dark Aura",
+            "Local №": "0149 (X/Y — Mountain Kalos)"
+        },
+        "base_stats": {
+            "HP": "126",
+            "Attack": "131",
+            "Defense": "95",
+            "Sp. Atk": "131",
+            "Sp. Def": "98",
+            "Speed": "99"
+        },
+        "trainig": {
+            "EV yield": " 3 HP ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "306",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "When this legendary Pokémon’s wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.",
+            "YAlpha Sapphire": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more."
+        }
+    },
+    "zygarde": {
+        "pokedex_data": {
+            "National №": "0718",
+            "Type": " Dragon Ground ",
+            "Species": "Order Pokémon",
+            "Height": "5.0m (16′05″)",
+            "Weight": "305.0kg (672.4lbs)",
+            "Abilities": "1. Aura Break2. Power Construct",
+            "Local №": "0150 (X/Y — Mountain Kalos)0205 (Sun/Moon — Alola dex)0263 (U.Sun/U.Moon — Alola dex)"
+        },
+        "base_stats": {
+            "HP": "108",
+            "Attack": "100",
+            "Defense": "121",
+            "Sp. Atk": "81",
+            "Sp. Def": "95",
+            "Speed": "95"
+        },
+        "trainig": {
+            "EV yield": " 3 HP ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "270",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "XOmega Ruby": "When the Kalos region’s ecosystem falls into disarray, it appears and reveals its secret power.",
+            "YAlpha Sapphire": "It’s hypothesized that it’s monitoring those who destroy the ecosystem from deep in the cave where it lives.",
+            "Sun": "This is Zygarde’s form when it has gathered 50% of its cells. It wipes out all those who oppose it, showing not a shred of mercy.",
+            "Moon": "It’s thought to be monitoring the ecosystem. There are rumors that even greater power lies hidden within it.",
+            "Ultra Sun": "This is Zygarde’s form when about half of its pieces have been assembled. It plays the role of monitoring the ecosystem.",
+            "Ultra Moon": "Some say it can change to an even more powerful form when battling those who threaten the ecosystem."
+        }
+    }
+}

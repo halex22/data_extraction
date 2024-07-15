@@ -1,0 +1,3433 @@
+{
+    "alcremie": {
+        "pokedex_data": {
+            "National №": "0869",
+            "Type": " Fairy ",
+            "Species": "Cream Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "0.5kg (1.1lbs)",
+            "Abilities": "1. Sweet VeilAroma Veil (hidden ability)",
+            "Local №": "0186 (Sword/Shield)0043 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "65",
+            "Attack": "60",
+            "Defense": "75",
+            "Sp. Atk": "110",
+            "Sp. Def": "121",
+            "Speed": "64"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Def ",
+            "Catch rate": " 100 (13.1% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous, Fairy",
+            "Gender": "0% male, 100% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "The moment it evolved, it took on a bitter flavor. This is because of the way its cells spontaneously shifted during evolution.",
+            "Shield": "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a bitter flavor."
+        }
+    },
+    "appletun": {
+        "pokedex_data": {
+            "National №": "0842",
+            "Type": " Grass Dragon ",
+            "Species": "Apple Nectar Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "13.0kg (28.7lbs)",
+            "Abilities": "1. Ripen2. GluttonyThick Fat (hidden ability)",
+            "Local №": "0207 (Sword/Shield)0110 (Scarlet/Violet)0021 (The Isle of Armor)0035 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "110",
+            "Attack": "85",
+            "Defense": "80",
+            "Sp. Atk": "100",
+            "Sp. Def": "80",
+            "Speed": "30"
+        },
+        "trainig": {
+            "EV yield": " 2 HP ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "170",
+            "Growth Rate": "Erratic"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on.",
+            "Shield": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.",
+            "Scarlet": "It feeds mainly on sweet apples. It will also eat small bug Pokémon that are attracted by its sweet nectar.",
+            "Violet": "When some Lechonk come along to lick the sweet nectar on Appletun’s back, Appletun will spew sticky nectar at them to drive them away."
+        }
+    },
+    "applin": {
+        "pokedex_data": {
+            "National №": "0840",
+            "Type": " Grass Dragon ",
+            "Species": "Apple Core Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "0.5kg (1.1lbs)",
+            "Abilities": "1. Ripen2. GluttonyBulletproof (hidden ability)",
+            "Local №": "0205 (Sword/Shield)0108 (Scarlet/Violet)0019 (The Isle of Armor)0033 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "40",
+            "Defense": "80",
+            "Sp. Atk": "40",
+            "Sp. Def": "40",
+            "Speed": "20"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "52",
+            "Growth Rate": "Erratic"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more.",
+            "Shield": "As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
+            "Scarlet": "It grows by eating the flesh of an apple. Applin uses its own body fluid to strengthen the apple’s skin and prevent it from rotting.",
+            "Violet": "Applin lives inside an apple. When an Applin is separated from its apple, its body loses moisture and the Pokémon grows weak."
+        }
+    },
+    "arctovish": {
+        "pokedex_data": {
+            "National №": "0883",
+            "Type": " Water Ice ",
+            "Species": "Fossil Pokémon",
+            "Height": "2.0m (6′07″)",
+            "Weight": "175.0kg (385.8lbs)",
+            "Abilities": "1. Water Absorb2. Ice BodySlush Rush (hidden ability)",
+            "Local №": "0377 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "90",
+            "Defense": "100",
+            "Sp. Atk": "80",
+            "Sp. Def": "90",
+            "Speed": "55"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "177",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "35 (8,739–8,995 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Though it’s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
+            "Shield": "The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway."
+        }
+    },
+    "arctozolt": {
+        "pokedex_data": {
+            "National №": "0881",
+            "Type": " Electric Ice ",
+            "Species": "Fossil Pokémon",
+            "Height": "2.3m (7′07″)",
+            "Weight": "150.0kg (330.7lbs)",
+            "Abilities": "1. Volt Absorb2. StaticSlush Rush (hidden ability)",
+            "Local №": "0375 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "100",
+            "Defense": "90",
+            "Sp. Atk": "90",
+            "Sp. Def": "80",
+            "Speed": "55"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "177",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "35 (8,739–8,995 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
+            "Shield": "This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly."
+        }
+    },
+    "arrokuda": {
+        "pokedex_data": {
+            "National №": "0846",
+            "Type": " Water ",
+            "Species": "Rush Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "1.0kg (2.2lbs)",
+            "Abilities": "1. Swift SwimPropeller Tail (hidden ability)",
+            "Local №": "0180 (Sword/Shield)0136 (Scarlet/Violet)0096 (The Isle of Armor)0090 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "41",
+            "Attack": "63",
+            "Defense": "40",
+            "Sp. Atk": "40",
+            "Sp. Def": "30",
+            "Speed": "66"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "56",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Water 2",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It’s very proud of that jaw.",
+            "Shield": "After it’s eaten its fill, its movements become extremely sluggish. That’s when Cramorant swallows it up.",
+            "Scarlet": "Arrokuda can swim quickly only in a straight line. The ones that become sluggish from overeating are the first to be targeted by flocks of Wattrel.",
+            "Violet": "It takes down prey by charging into them with its hard, pointed jaw. But Arrokuda’s eyesight is poor, so this tactic has a low success rate."
+        }
+    },
+    "barraskewda": {
+        "pokedex_data": {
+            "National №": "0847",
+            "Type": " Water ",
+            "Species": "Skewer Pokémon",
+            "Height": "1.3m (4′03″)",
+            "Weight": "30.0kg (66.1lbs)",
+            "Abilities": "1. Swift SwimPropeller Tail (hidden ability)",
+            "Local №": "0181 (Sword/Shield)0137 (Scarlet/Violet)0097 (The Isle of Armor)0091 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "61",
+            "Attack": "123",
+            "Defense": "60",
+            "Sp. Atk": "60",
+            "Sp. Def": "50",
+            "Speed": "136"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 60 (7.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "172",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Water 2",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "This Pokémon has a jaw that’s as sharp as a spear and as strong as steel. Apparently Barraskewda’s flesh is surprisingly tasty, too.",
+            "Shield": "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.",
+            "Scarlet": "It spins its tail fins to leap from the water, then viciously bites down on Wingull flying close to the water’s surface.",
+            "Violet": "It swims at speeds of over 100 knots and battles fiercely with pods of Finizen over prey."
+        }
+    },
+    "basculegion": {
+        "pokedex_data": {
+            "National №": "0902",
+            "Type": " Water Ghost ",
+            "Species": "Big Fish Pokémon",
+            "Height": "3.0m (9′10″)",
+            "Weight": "110.0kg (242.5lbs)",
+            "Abilities": "1. Swift Swim2. AdaptabilityMold Breaker (hidden ability)",
+            "Local №": "0167 (Legends: Arceus)0195 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "120",
+            "Attack": "112",
+            "Defense": "65",
+            "Sp. Atk": "80",
+            "Sp. Def": "75",
+            "Speed": "78"
+        },
+        "trainig": {
+            "EV yield": " 3 HP ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Water 2",
+            "Gender": "100% male, 0% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Legends: Arceus": "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui’s rivers is Basculegion’s equal."
+        }
+    },
+    "blipbug": {
+        "pokedex_data": {
+            "National №": "0824",
+            "Type": " Bug ",
+            "Species": "Larva Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "8.0kg (17.6lbs)",
+            "Abilities": "1. Swarm2. Compound EyesTelepathy (hidden ability)",
+            "Local №": "0010 (Sword/Shield)0014 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "25",
+            "Attack": "20",
+            "Defense": "20",
+            "Sp. Atk": "25",
+            "Sp. Def": "45",
+            "Speed": "45"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Def ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "36",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "A constant collector of information, this Pokémon is very smart. Very strong is what it isn’t.",
+            "Shield": "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings."
+        }
+    },
+    "boltund": {
+        "pokedex_data": {
+            "National №": "0836",
+            "Type": " Electric ",
+            "Species": "Dog Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "34.0kg (75.0lbs)",
+            "Abilities": "1. Strong JawCompetitive (hidden ability)",
+            "Local №": "0047 (Sword/Shield)0156 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "69",
+            "Attack": "90",
+            "Defense": "60",
+            "Sp. Atk": "90",
+            "Sp. Def": "60",
+            "Speed": "121"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "172",
+            "Growth Rate": "Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
+            "Shield": "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph."
+        }
+    },
+    "calyrex": {
+        "pokedex_data": {
+            "National №": "0898",
+            "Type": " Psychic Grass ",
+            "Species": "King Pokémon",
+            "Height": "1.1m (3′07″)",
+            "Weight": "7.7kg (17.0lbs)",
+            "Abilities": "1. Unnerve",
+            "Local №": "0210 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "100",
+            "Attack": "80",
+            "Defense": "80",
+            "Sp. Atk": "80",
+            "Sp. Def": "80",
+            "Speed": "80"
+        },
+        "trainig": {
+            "EV yield": " 3 HP ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 100 (higher than normal) ",
+            "Base Exp.": "250",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Calyrex is a merciful Pokémon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.",
+            "Shield": "Calyrex is known in legend as a king that ruled over Galar in ancient times. It has the power to cause hearts to mend and plants to spring forth."
+        }
+    },
+    "carkol": {
+        "pokedex_data": {
+            "National №": "0838",
+            "Type": " Rock Fire ",
+            "Species": "Coal Pokémon",
+            "Height": "1.1m (3′07″)",
+            "Weight": "78.0kg (172.0lbs)",
+            "Abilities": "1. Steam Engine2. Flame BodyFlash Fire (hidden ability)",
+            "Local №": "0162 (Sword/Shield)0092 (Scarlet/Violet)0177 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "60",
+            "Defense": "90",
+            "Sp. Atk": "60",
+            "Sp. Def": "70",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "144",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region.",
+            "Shield": "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit.",
+            "Scarlet": "The temperature inside its body increases when it experiences strong emotions. It rolls around frantically while spewing flames.",
+            "Violet": "Due to the coal tar created inside it, the heap of coal on Carkol’s back never falls apart, even when the Pokémon rolls around at high speeds."
+        }
+    },
+    "centiskorch": {
+        "pokedex_data": {
+            "National №": "0851",
+            "Type": " Fire Bug ",
+            "Species": "Radiator Pokémon",
+            "Height": "3.0m (9′10″)",
+            "Weight": "120.0kg (264.6lbs)",
+            "Abilities": "1. Flash Fire2. White SmokeFlame Body (hidden ability)",
+            "Local №": "0160 (Sword/Shield)0100 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "100",
+            "Attack": "115",
+            "Defense": "65",
+            "Sp. Atk": "90",
+            "Sp. Def": "90",
+            "Speed": "65"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 75 (9.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "184",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
+            "Shield": "While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs."
+        }
+    },
+    "chewtle": {
+        "pokedex_data": {
+            "National №": "0833",
+            "Type": " Water ",
+            "Species": "Snapping Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "8.5kg (18.7lbs)",
+            "Abilities": "1. Strong Jaw2. Shell ArmorSwift Swim (hidden ability)",
+            "Local №": "0042 (Sword/Shield)0057 (Scarlet/Violet)0056 (The Isle of Armor)0183 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "64",
+            "Defense": "50",
+            "Sp. Atk": "38",
+            "Sp. Def": "38",
+            "Speed": "44"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "57",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Monster, Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Apparently the itch of its teething impels it to snap its jaws at anything in front of it.",
+            "Shield": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go.",
+            "Scarlet": "Its large front tooth is still growing in. When the tooth itches, this Pokémon will bite another Chewtle’s horn, and the two Pokémon will tussle.",
+            "Violet": "A popular game among children is to lift up sticks that Chewtle have bitten onto to see whose Chewtle can hang on the longest."
+        }
+    },
+    "cinderace": {
+        "pokedex_data": {
+            "National №": "0815",
+            "Type": " Fire ",
+            "Species": "Striker Pokémon",
+            "Height": "1.4m (4′07″)",
+            "Weight": "33.0kg (72.8lbs)",
+            "Abilities": "1. BlazeLibero (hidden ability)",
+            "Local №": "0006 (Sword/Shield)0232 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "116",
+            "Defense": "75",
+            "Sp. Atk": "65",
+            "Sp. Def": "75",
+            "Speed": "119"
+        },
+        "trainig": {
+            "EV yield": " 3 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Human-Like",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It juggles a pebble with its feet, turning it into a burning soccer ball. Its shots strike opponents hard and leave them scorched.",
+            "Shield": "It’s skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot."
+        }
+    },
+    "clobbopus": {
+        "pokedex_data": {
+            "National №": "0852",
+            "Type": " Fighting ",
+            "Species": "Tantrum Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "4.0kg (8.8lbs)",
+            "Abilities": "1. LimberTechnician (hidden ability)",
+            "Local №": "0351 (Sword/Shield)0129 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "68",
+            "Defense": "60",
+            "Sp. Atk": "50",
+            "Sp. Def": "50",
+            "Speed": "32"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 180 (23.5% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Human-Like, Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It’s very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.",
+            "Shield": "Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old."
+        }
+    },
+    "coalossal": {
+        "pokedex_data": {
+            "National №": "0839",
+            "Type": " Rock Fire ",
+            "Species": "Coal Pokémon",
+            "Height": "2.8m (9′02″)",
+            "Weight": "310.5kg (684.5lbs)",
+            "Abilities": "1. Steam Engine2. Flame BodyFlash Fire (hidden ability)",
+            "Local №": "0163 (Sword/Shield)0093 (Scarlet/Violet)0178 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "110",
+            "Attack": "80",
+            "Defense": "120",
+            "Sp. Atk": "80",
+            "Sp. Def": "90",
+            "Speed": "30"
+        },
+        "trainig": {
+            "EV yield": " 3 Defense ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "255",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It’s usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.",
+            "Shield": "While it’s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.",
+            "Scarlet": "To intimidate its opponents, Coalossal will vigorously shake its body, scattering coal from its smoldering back.",
+            "Violet": "It’s gentle usually but fearsome when angered. With a body that burns at over 2,700 degrees Fahrenheit, it crushes foes and turns them to ash."
+        }
+    },
+    "copperajah": {
+        "pokedex_data": {
+            "National №": "0879",
+            "Type": " Steel ",
+            "Species": "Copperderm Pokémon",
+            "Height": "3.0m (9′10″)",
+            "Weight": "650.0kg (1433.0lbs)",
+            "Abilities": "1. Sheer ForceHeavy Metal (hidden ability)",
+            "Local №": "0303 (Sword/Shield)0125 (Scarlet/Violet)0109 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "122",
+            "Attack": "130",
+            "Defense": "69",
+            "Sp. Atk": "80",
+            "Sp. Def": "69",
+            "Speed": "30"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 90 (11.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "They came over from another region long ago and worked together with humans. Their green skin is resistant to water.",
+            "Shield": "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
+            "Scarlet": "This Pokémon was brought to Paldea long ago by people from a faraway land. It’s so strong that it can easily pull an airplane.",
+            "Violet": "Copperajah are prideful, cantankerous Pokémon. Specimens with vibrant green skin command the respect of others of their kind."
+        }
+    },
+    "corviknight": {
+        "pokedex_data": {
+            "National №": "0823",
+            "Type": " Flying Steel ",
+            "Species": "Raven Pokémon",
+            "Height": "2.2m (7′03″)",
+            "Weight": "75.0kg (165.3lbs)",
+            "Abilities": "1. Pressure2. UnnerveMirror Armor (hidden ability)",
+            "Local №": "0023 (Sword/Shield)0042 (Scarlet/Violet)0165 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "98",
+            "Attack": "87",
+            "Defense": "105",
+            "Sp. Atk": "53",
+            "Sp. Def": "85",
+            "Speed": "67"
+        },
+        "trainig": {
+            "EV yield": " 3 Defense ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "248",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
+            "Shield": "With their great intellect and flying skills, these Pokémon very successfully act as the Galar region’s airborne taxi service.",
+            "Scarlet": "Corviknight can’t serve as a taxi service in Paldea because the Pokémon’s natural predators will attack it while it flies, endangering the customer.",
+            "Violet": "Although its wings have partly turned to steel and become heavy as a result, this Pokémon flies through the skies with ease."
+        }
+    },
+    "corvisquire": {
+        "pokedex_data": {
+            "National №": "0822",
+            "Type": " Flying ",
+            "Species": "Raven Pokémon",
+            "Height": "0.8m (2′07″)",
+            "Weight": "16.0kg (35.3lbs)",
+            "Abilities": "1. Keen Eye2. UnnerveBig Pecks (hidden ability)",
+            "Local №": "0022 (Sword/Shield)0041 (Scarlet/Violet)0164 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "68",
+            "Attack": "67",
+            "Defense": "55",
+            "Sp. Atk": "43",
+            "Sp. Def": "55",
+            "Speed": "77"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "128",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
+            "Shield": "The lessons of many harsh battles have taught it how to accurately judge an opponent’s strength.",
+            "Scarlet": "It’s said that the reason behind Corvisquire’s high level of intelligence is the large size of its brain relative to those of other bird Pokémon.",
+            "Violet": "This intelligent Pokémon will quickly learn how to use any tool it can hold in its beak or its talons."
+        }
+    },
+    "cramorant": {
+        "pokedex_data": {
+            "National №": "0845",
+            "Type": " Flying Water ",
+            "Species": "Gulp Pokémon",
+            "Height": "0.8m (2′07″)",
+            "Weight": "18.0kg (39.7lbs)",
+            "Abilities": "1. Gulp Missile",
+            "Local №": "0309 (Sword/Shield)0093 (The Isle of Armor)0185 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "85",
+            "Defense": "55",
+            "Sp. Atk": "85",
+            "Sp. Def": "95",
+            "Speed": "85"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Def ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Flying, Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It’s so strong that it can knock out some opponents in a single hit, but it also may forget what it’s battling midfight.",
+            "Shield": "This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey."
+        }
+    },
+    "cufant": {
+        "pokedex_data": {
+            "National №": "0878",
+            "Type": " Steel ",
+            "Species": "Copperderm Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "100.0kg (220.5lbs)",
+            "Abilities": "1. Sheer ForceHeavy Metal (hidden ability)",
+            "Local №": "0302 (Sword/Shield)0124 (Scarlet/Violet)0108 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "72",
+            "Attack": "80",
+            "Defense": "49",
+            "Sp. Atk": "40",
+            "Sp. Def": "49",
+            "Speed": "40"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "66",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It digs up the ground with its trunk. It’s also very strong, being able to carry loads of over five tons without any problem at all.",
+            "Shield": "If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.",
+            "Scarlet": "Using the pointy tip of its trunk, it carves off chunks of hard rocks to eat. It is very docile and helps people with physical labor.",
+            "Violet": "Cufant can lift loads weighing five tons. In the mornings, it heads into caves with its herd, in search of the ore on which these Pokémon feed."
+        }
+    },
+    "cursola": {
+        "pokedex_data": {
+            "National №": "0864",
+            "Type": " Ghost ",
+            "Species": "Coral Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "0.4kg (0.9lbs)",
+            "Abilities": "1. Weak ArmorPerish Body (hidden ability)",
+            "Local №": "0237 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "60",
+            "Attack": "95",
+            "Defense": "50",
+            "Sp. Atk": "145",
+            "Sp. Def": "130",
+            "Speed": "30"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 30 (3.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "179",
+            "Growth Rate": "Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Water 1, Water 3",
+            "Gender": "25% male, 75% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon’s core spirit.",
+            "Shield": "Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it."
+        }
+    },
+    "dottler": {
+        "pokedex_data": {
+            "National №": "0825",
+            "Type": " Bug Psychic ",
+            "Species": "Radome Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "19.5kg (43.0lbs)",
+            "Abilities": "1. Swarm2. Compound EyesTelepathy (hidden ability)",
+            "Local №": "0011 (Sword/Shield)0015 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "35",
+            "Defense": "80",
+            "Sp. Atk": "50",
+            "Sp. Def": "90",
+            "Speed": "30"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Def ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "117",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It barely moves, but it’s still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.",
+            "Shield": "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution."
+        }
+    },
+    "dracovish": {
+        "pokedex_data": {
+            "National №": "0882",
+            "Type": " Water Dragon ",
+            "Species": "Fossil Pokémon",
+            "Height": "2.3m (7′07″)",
+            "Weight": "215.0kg (474.0lbs)",
+            "Abilities": "1. Water Absorb2. Strong JawSand Rush (hidden ability)",
+            "Local №": "0376 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "90",
+            "Defense": "100",
+            "Sp. Atk": "70",
+            "Sp. Def": "80",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "177",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "35 (8,739–8,995 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction.",
+            "Shield": "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can’t breathe unless it’s underwater."
+        }
+    },
+    "dracozolt": {
+        "pokedex_data": {
+            "National №": "0880",
+            "Type": " Electric Dragon ",
+            "Species": "Fossil Pokémon",
+            "Height": "1.8m (5′11″)",
+            "Weight": "190.0kg (418.9lbs)",
+            "Abilities": "1. Volt Absorb2. HustleSand Rush (hidden ability)",
+            "Local №": "0374 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "100",
+            "Defense": "90",
+            "Sp. Atk": "80",
+            "Sp. Def": "70",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "177",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "35 (8,739–8,995 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources.",
+            "Shield": "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small."
+        }
+    },
+    "dragapult": {
+        "pokedex_data": {
+            "National №": "0887",
+            "Type": " Dragon Ghost ",
+            "Species": "Stealth Pokémon",
+            "Height": "3.0m (9′10″)",
+            "Weight": "50.0kg (110.2lbs)",
+            "Abilities": "1. Clear Body2. InfiltratorCursed Body (hidden ability)",
+            "Local №": "0397 (Sword/Shield)0307 (Scarlet/Violet)0112 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "88",
+            "Attack": "120",
+            "Defense": "75",
+            "Sp. Atk": "100",
+            "Sp. Def": "75",
+            "Speed": "142"
+        },
+        "trainig": {
+            "EV yield": " 3 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous, Dragon",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "40 (10,024–10,280 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "When it isn’t battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.",
+            "Shield": "Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds.",
+            "Scarlet": "Dragapult can make its whole body transparent by clearing its mind and focusing. Even the Dreepy in Dragapult’s horns become invisible.",
+            "Violet": "The fastest Dragapult of the group is always surrounded by Dreepy that want to fly at sonic speed."
+        }
+    },
+    "drakloak": {
+        "pokedex_data": {
+            "National №": "0886",
+            "Type": " Dragon Ghost ",
+            "Species": "Caretaker Pokémon",
+            "Height": "1.4m (4′07″)",
+            "Weight": "11.0kg (24.3lbs)",
+            "Abilities": "1. Clear Body2. InfiltratorCursed Body (hidden ability)",
+            "Local №": "0396 (Sword/Shield)0306 (Scarlet/Violet)0111 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "68",
+            "Attack": "80",
+            "Defense": "50",
+            "Sp. Atk": "60",
+            "Sp. Def": "50",
+            "Speed": "102"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "144",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous, Dragon",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "40 (10,024–10,280 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It’s capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve.",
+            "Shield": "Without a Dreepy to place on its head and care for, it gets so uneasy it’ll try to substitute any Pokémon it finds for the missing Dreepy.",
+            "Scarlet": "This Pokémon flies around at over 120 miles per hour. If a Drakloak is defeated in a battle, its Dreepy will wander off without a second thought.",
+            "Violet": "This Pokémon stores up energy in its lungs, then shoots it out. It takes care of Dreepy and battles alongside them until they’re all grown up."
+        }
+    },
+    "drednaw": {
+        "pokedex_data": {
+            "National №": "0834",
+            "Type": " Water Rock ",
+            "Species": "Bite Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "115.5kg (254.6lbs)",
+            "Abilities": "1. Strong Jaw2. Shell ArmorSwift Swim (hidden ability)",
+            "Local №": "0043 (Sword/Shield)0058 (Scarlet/Violet)0057 (The Isle of Armor)0184 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "115",
+            "Defense": "90",
+            "Sp. Atk": "48",
+            "Sp. Def": "68",
+            "Speed": "74"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 75 (9.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "170",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Monster, Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "With jaws that can shear through steel rods, this highly aggressive Pokémon chomps down on its unfortunate prey.",
+            "Shield": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
+            "Scarlet": "Its massive, jagged teeth can crush a boulder in a single bite. This Pokémon has an extremely vicious disposition.",
+            "Violet": "Drednaw lurks along the shoreline. When prey come to drink water, Drednaw stretches its neck out and chomps down on them."
+        }
+    },
+    "dreepy": {
+        "pokedex_data": {
+            "National №": "0885",
+            "Type": " Dragon Ghost ",
+            "Species": "Lingering Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "2.0kg (4.4lbs)",
+            "Abilities": "1. Clear Body2. InfiltratorCursed Body (hidden ability)",
+            "Local №": "0395 (Sword/Shield)0305 (Scarlet/Violet)0110 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "28",
+            "Attack": "60",
+            "Defense": "30",
+            "Sp. Atk": "40",
+            "Sp. Def": "30",
+            "Speed": "82"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "54",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous, Dragon",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "40 (10,024–10,280 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "After being reborn as a ghost Pokémon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
+            "Shield": "If this weak Pokémon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger.",
+            "Scarlet": "In the evening, groups of Dreepy will fly at high speeds over the ocean and poke at Pokémon in the water for fun.",
+            "Violet": "It has a habit of biting at Clauncher even though it doesn’t feed on them. This is said to be vestigial behavior from when Dreepy was alive."
+        }
+    },
+    "drizzile": {
+        "pokedex_data": {
+            "National №": "0817",
+            "Type": " Water ",
+            "Species": "Water lizard Pokémon",
+            "Height": "0.7m (2′04″)",
+            "Weight": "11.5kg (25.4lbs)",
+            "Abilities": "1. TorrentSniper (hidden ability)",
+            "Local №": "0008 (Sword/Shield)0234 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "65",
+            "Attack": "60",
+            "Defense": "55",
+            "Sp. Atk": "95",
+            "Sp. Def": "55",
+            "Speed": "90"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "147",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Water 1",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.",
+            "Shield": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere."
+        }
+    },
+    "dubwool": {
+        "pokedex_data": {
+            "National №": "0832",
+            "Type": " Normal ",
+            "Species": "Sheep Pokémon",
+            "Height": "1.3m (4′03″)",
+            "Weight": "43.0kg (94.8lbs)",
+            "Abilities": "1. Fluffy2. SteadfastBulletproof (hidden ability)",
+            "Local №": "0035 (Sword/Shield)0004 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "72",
+            "Attack": "80",
+            "Defense": "100",
+            "Sp. Atk": "60",
+            "Sp. Def": "90",
+            "Speed": "88"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 127 (16.6% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "172",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You’ll start to bounce the moment you set foot on it.",
+            "Shield": "Its majestic horns are meant only to impress the opposite gender. They never see use in battle."
+        }
+    },
+    "duraludon": {
+        "pokedex_data": {
+            "National №": "0884",
+            "Type": " Steel Dragon ",
+            "Species": "Alloy Pokémon",
+            "Height": "1.8m (5′11″)",
+            "Weight": "40.0kg (88.2lbs)",
+            "Abilities": "1. Light Metal2. Heavy MetalStalwart (hidden ability)",
+            "Local №": "0371 (Sword/Shield)0161 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "95",
+            "Defense": "115",
+            "Sp. Atk": "120",
+            "Sp. Def": "50",
+            "Speed": "85"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "187",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "30 (7,454–7,710 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Its body resembles polished metal, and it’s both lightweight and strong. The only drawback is that it rusts easily.",
+            "Shield": "The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain."
+        }
+    },
+    "eiscue": {
+        "pokedex_data": {
+            "National №": "0875",
+            "Type": " Ice ",
+            "Species": "Penguin Pokémon",
+            "Height": "1.4m (4′07″)",
+            "Weight": "89.0kg (196.2lbs)",
+            "Abilities": "1. Ice Face",
+            "Local №": "0370 (Sword/Shield)0320 (Scarlet/Violet)0090 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "75",
+            "Attack": "80",
+            "Defense": "110",
+            "Sp. Atk": "65",
+            "Sp. Def": "90",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 60 (7.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "165",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to make sure it stays nice and cold.",
+            "Shield": "This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
+            "Scarlet": "On hot days, these Pokémon press their ice cube heads together and pass the time cooling each other down.",
+            "Violet": "If you lick the ice covering its face, you’ll find it has a faintly salty taste. This species rode here on ocean currents from a cold, faraway land."
+        }
+    },
+    "eldegoss": {
+        "pokedex_data": {
+            "National №": "0830",
+            "Type": " Grass ",
+            "Species": "Cotton Bloom Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "2.5kg (5.5lbs)",
+            "Abilities": "1. Cotton Down2. RegeneratorEffect Spore (hidden ability)",
+            "Local №": "0127 (Sword/Shield)0167 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "60",
+            "Attack": "50",
+            "Defense": "90",
+            "Sp. Atk": "80",
+            "Sp. Def": "120",
+            "Speed": "60"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Def ",
+            "Catch rate": " 75 (9.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "161",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.",
+            "Shield": "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty."
+        }
+    },
+    "enamorus": {
+        "pokedex_data": {
+            "National №": "0905",
+            "Type": " Fairy Flying ",
+            "Species": "Love-Hate Pokémon",
+            "Height": "1.6m (5′03″)",
+            "Weight": "48.0kg (105.8lbs)",
+            "Abilities": "1. Cute CharmContrary (hidden ability)",
+            "Local №": "0234 (Legends: Arceus)"
+        },
+        "base_stats": {
+            "HP": "74",
+            "Attack": "115",
+            "Defense": "70",
+            "Sp. Atk": "135",
+            "Sp. Def": "80",
+            "Speed": "106"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "116",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "0% male, 100% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Legends: Arceus": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon’s love gives rise to the budding of fresh life across Hisui."
+        }
+    },
+    "eternatus": {
+        "pokedex_data": {
+            "National №": "0890",
+            "Type": " Poison Dragon ",
+            "Species": "Gigantic Pokémon",
+            "Height": "20.0m (65′07″)",
+            "Weight": "950.0kg (2094.4lbs)",
+            "Abilities": "1. Pressure",
+            "Local №": "0400 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "140",
+            "Attack": "85",
+            "Defense": "95",
+            "Sp. Atk": "145",
+            "Sp. Def": "95",
+            "Speed": "130"
+        },
+        "trainig": {
+            "EV yield": " 3 HP ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "345",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active.",
+            "Shield": "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon."
+        }
+    },
+    "falinks": {
+        "pokedex_data": {
+            "National №": "0870",
+            "Type": " Fighting ",
+            "Species": "Formation Pokémon",
+            "Height": "3.0m (9′10″)",
+            "Weight": "62.0kg (136.7lbs)",
+            "Abilities": "1. Battle ArmorDefiant (hidden ability)",
+            "Local №": "0345 (Sword/Shield)0300 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "65",
+            "Attack": "100",
+            "Defense": "100",
+            "Sp. Atk": "70",
+            "Sp. Def": "60",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack, 1 Sp. Def ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "165",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy, Mineral",
+            "Gender": "Genderless",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Five of them are troopers, and one is the brass. The brass’s orders are absolute.",
+            "Shield": "The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight.",
+            "Scarlet": "The brass, which is the one that stands at the front and issues orders, is the strongest and smartest of the six.",
+            "Violet": "The leader, known as the brass, uses its extendible horn to issue orders to the others when it’s time to change formation."
+        }
+    },
+    "flapple": {
+        "pokedex_data": {
+            "National №": "0841",
+            "Type": " Grass Dragon ",
+            "Species": "Apple Wing Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "1.0kg (2.2lbs)",
+            "Abilities": "1. Ripen2. GluttonyHustle (hidden ability)",
+            "Local №": "0206 (Sword/Shield)0109 (Scarlet/Violet)0020 (The Isle of Armor)0034 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "110",
+            "Defense": "80",
+            "Sp. Atk": "95",
+            "Sp. Def": "60",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "170",
+            "Growth Rate": "Erratic"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns.",
+            "Shield": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.",
+            "Scarlet": "It flutters around while seeking an opening in the opponent’s guard, then attacks by spitting acidic liquid strong enough to melt metal.",
+            "Violet": "It uses its own body fluid to repair its apple. Strong Flapple that have won many battles have apples that are clay colored all over."
+        }
+    },
+    "frosmoth": {
+        "pokedex_data": {
+            "National №": "0873",
+            "Type": " Ice Bug ",
+            "Species": "Frost Moth Pokémon",
+            "Height": "1.3m (4′03″)",
+            "Weight": "42.0kg (92.6lbs)",
+            "Abilities": "1. Shield DustIce Scales (hidden ability)",
+            "Local №": "0350 (Sword/Shield)0351 (Scarlet/Violet)0002 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "65",
+            "Defense": "60",
+            "Sp. Atk": "125",
+            "Sp. Def": "90",
+            "Speed": "65"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 75 (9.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than −290 degrees Fahrenheit.",
+            "Shield": "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away.",
+            "Scarlet": "Frosmoth senses air currents with its antennae. It sends its scales drifting on frigid air, making them fall like snow.",
+            "Violet": "It causes blizzards as it flies around with its huge, chill-emanating wings. Clean meltwater is its favorite thing to drink."
+        }
+    },
+    "glastrier": {
+        "pokedex_data": {
+            "National №": "0896",
+            "Type": " Ice ",
+            "Species": "Wild Horse Pokémon",
+            "Height": "2.2m (7′03″)",
+            "Weight": "800.0kg (1763.7lbs)",
+            "Abilities": "1. Chilling Neigh",
+            "Local №": "0208 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "100",
+            "Attack": "145",
+            "Defense": "130",
+            "Sp. Atk": "65",
+            "Sp. Def": "110",
+            "Speed": "30"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 35 (lower than normal) ",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Glastrier emits intense cold from its hooves. It’s also a belligerent Pokémon—anything it wants, it takes by force.",
+            "Shield": "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond."
+        }
+    },
+    "gossifleur": {
+        "pokedex_data": {
+            "National №": "0829",
+            "Type": " Grass ",
+            "Species": "Flowering Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "2.2kg (4.9lbs)",
+            "Abilities": "1. Cotton Down2. RegeneratorEffect Spore (hidden ability)",
+            "Local №": "0126 (Sword/Shield)0166 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "40",
+            "Defense": "60",
+            "Sp. Atk": "40",
+            "Sp. Def": "60",
+            "Speed": "10"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Def ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "50",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",
+            "Shield": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon."
+        }
+    },
+    "grapploct": {
+        "pokedex_data": {
+            "National №": "0853",
+            "Type": " Fighting ",
+            "Species": "Tantrum Pokémon",
+            "Height": "1.6m (5′03″)",
+            "Weight": "39.0kg (86.0lbs)",
+            "Abilities": "1. LimberTechnician (hidden ability)",
+            "Local №": "0352 (Sword/Shield)0130 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "118",
+            "Defense": "90",
+            "Sp. Atk": "70",
+            "Sp. Def": "80",
+            "Speed": "42"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Human-Like, Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.",
+            "Shield": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea."
+        }
+    },
+    "greedent": {
+        "pokedex_data": {
+            "National №": "0820",
+            "Type": " Normal ",
+            "Species": "Greedy Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "6.0kg (13.2lbs)",
+            "Abilities": "1. Cheek PouchGluttony (hidden ability)",
+            "Local №": "0025 (Sword/Shield)0030 (Scarlet/Violet)0010 (The Isle of Armor)0006 (The Crown Tundra)0073 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "120",
+            "Attack": "95",
+            "Defense": "95",
+            "Sp. Atk": "55",
+            "Sp. Def": "75",
+            "Speed": "20"
+        },
+        "trainig": {
+            "EV yield": " 2 HP ",
+            "Catch rate": " 90 (11.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "161",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn’t notice the loss.",
+            "Shield": "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells.",
+            "Scarlet": "If it spots a berry tree, it will immediately go to gather berries without a sideways glance—even if it’s in the middle of a battle.",
+            "Violet": "This Pokémon makes off with heaps of fallen berries by wrapping them in its tail, which is roughly twice the length of its body."
+        }
+    },
+    "grimmsnarl": {
+        "pokedex_data": {
+            "National №": "0861",
+            "Type": " Dark Fairy ",
+            "Species": "Bulk Up Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "61.0kg (134.5lbs)",
+            "Abilities": "1. Prankster2. FriskPickpocket (hidden ability)",
+            "Local №": "0240 (Sword/Shield)0287 (Scarlet/Violet)0039 (The Crown Tundra)0192 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "95",
+            "Attack": "120",
+            "Defense": "65",
+            "Sp. Atk": "95",
+            "Sp. Def": "75",
+            "Speed": "60"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "255",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy, Human-Like",
+            "Gender": "100% male, 0% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "With the hair wrapped around its body helping to enhance its muscles, this Pokémon can overwhelm even Machamp.",
+            "Shield": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would.",
+            "Scarlet": "This Pokémon has complete control over its hair. Grimmsnarl normally keeps its hair wrapped around its body to support its muscles.",
+            "Violet": "It lives deep within the forest. Even after evolving into this splendid form, it hasn’t given up on its petty misdeeds and pranks."
+        }
+    },
+    "grookey": {
+        "pokedex_data": {
+            "National №": "0810",
+            "Type": " Grass ",
+            "Species": "Chimp Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "5.0kg (11.0lbs)",
+            "Abilities": "1. OvergrowGrassy Surge (hidden ability)",
+            "Local №": "0001 (Sword/Shield)0227 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "65",
+            "Defense": "50",
+            "Sp. Atk": "40",
+            "Sp. Def": "40",
+            "Speed": "65"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Grass",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+            "Shield": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped."
+        }
+    },
+    "hatenna": {
+        "pokedex_data": {
+            "National №": "0856",
+            "Type": " Psychic ",
+            "Species": "Calm Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "3.4kg (7.5lbs)",
+            "Abilities": "1. Healer2. AnticipationMagic Bounce (hidden ability)",
+            "Local №": "0241 (Sword/Shield)0282 (Scarlet/Violet)0040 (The Crown Tundra)0092 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "42",
+            "Attack": "30",
+            "Defense": "45",
+            "Sp. Atk": "56",
+            "Sp. Def": "53",
+            "Speed": "39"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk ",
+            "Catch rate": " 235 (30.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "53",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "0% male, 100% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Via the protrusion on its head, it senses other creatures’ emotions. If you don’t have a calm disposition, it will never warm up to you.",
+            "Shield": "If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people.",
+            "Scarlet": "Because the emotions of others constantly flow into its head, this Pokémon prefers environments where no other creatures live.",
+            "Violet": "It senses the feelings of other living creatures. Be careful not to expose it to strong emotions for too long, or it will end up exhausted."
+        }
+    },
+    "hatterene": {
+        "pokedex_data": {
+            "National №": "0858",
+            "Type": " Psychic Fairy ",
+            "Species": "Silent Pokémon",
+            "Height": "2.1m (6′11″)",
+            "Weight": "5.1kg (11.2lbs)",
+            "Abilities": "1. Healer2. AnticipationMagic Bounce (hidden ability)",
+            "Local №": "0243 (Sword/Shield)0284 (Scarlet/Violet)0042 (The Crown Tundra)0094 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "57",
+            "Attack": "90",
+            "Defense": "95",
+            "Sp. Atk": "136",
+            "Sp. Def": "103",
+            "Speed": "29"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "255",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "0% male, 100% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.",
+            "Shield": "If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch.",
+            "Scarlet": "Hatterene knocks out those that intrude in its home forest by blasting them with a beam, then slashing with claws enhanced by psychic power.",
+            "Violet": "Beware of forests that show no signs of living creatures within. You may have wandered into Hatterene’s territory."
+        }
+    },
+    "hattrem": {
+        "pokedex_data": {
+            "National №": "0857",
+            "Type": " Psychic ",
+            "Species": "Serene Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "4.8kg (10.6lbs)",
+            "Abilities": "1. Healer2. AnticipationMagic Bounce (hidden ability)",
+            "Local №": "0242 (Sword/Shield)0283 (Scarlet/Violet)0041 (The Crown Tundra)0093 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "57",
+            "Attack": "40",
+            "Defense": "65",
+            "Sp. Atk": "86",
+            "Sp. Def": "73",
+            "Speed": "49"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "130",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "0% male, 100% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.",
+            "Shield": "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer.",
+            "Scarlet": "To this Pokémon, strong emotions apparently feel like incredibly loud noises—even if the emotions are happy ones.",
+            "Violet": "The moment this Pokémon finds someone who’s emitting strong emotions, it will pummel them senseless with its braids to silence them."
+        }
+    },
+    "impidimp": {
+        "pokedex_data": {
+            "National №": "0859",
+            "Type": " Dark Fairy ",
+            "Species": "Wily Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "5.5kg (12.1lbs)",
+            "Abilities": "1. Prankster2. FriskPickpocket (hidden ability)",
+            "Local №": "0238 (Sword/Shield)0285 (Scarlet/Violet)0037 (The Crown Tundra)0190 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "45",
+            "Attack": "45",
+            "Defense": "30",
+            "Sp. Atk": "55",
+            "Sp. Def": "40",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "53",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy, Human-Like",
+            "Gender": "100% male, 0% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.",
+            "Shield": "It sneaks into people’s homes, stealing things and feasting on the negative energy of the frustrated occupants.",
+            "Scarlet": "The reason this Pokémon causes trouble for those it feels close to is because Impidimp itself gets irritable if it can’t absorb negative emotions.",
+            "Violet": "They live in groups, pestering and playing pranks on each other to polish their troublemaking skills."
+        }
+    },
+    "indeedee": {
+        "pokedex_data": {
+            "National №": "0876",
+            "Type": " Psychic Normal ",
+            "Species": "Emotion Pokémon",
+            "Height": "0.9m (2′11″)",
+            "Weight": "28.0kg (61.7lbs)",
+            "Abilities": "1. Inner Focus2. SynchronizePsychic Surge (hidden ability)",
+            "Local №": "0337 (Sword/Shield)0241 (Scarlet/Violet)0171 (The Crown Tundra)0193 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "60",
+            "Attack": "65",
+            "Defense": "55",
+            "Sp. Atk": "105",
+            "Sp. Def": "95",
+            "Speed": "95"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 30 (3.9% with PokéBall, full HP) ",
+            "Base Friendship": " 140 (higher than normal) ",
+            "Base Exp.": "166",
+            "Growth Rate": "Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "100% male, 0% female",
+            "Egg cycles": "40 (10,024–10,280 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.",
+            "Shield": "Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength.",
+            "Scarlet": "This Pokémon picks up on the positive emotions of other creatures via its horns and uses those emotions to fuel itself.",
+            "Violet": "This Pokémon never leaves its Trainer’s side. It predicts their actions with its psychic power and takes care of their day-to-day needs."
+        }
+    },
+    "inteleon": {
+        "pokedex_data": {
+            "National №": "0818",
+            "Type": " Water ",
+            "Species": "Secret Agent Pokémon",
+            "Height": "1.9m (6′03″)",
+            "Weight": "45.2kg (99.6lbs)",
+            "Abilities": "1. TorrentSniper (hidden ability)",
+            "Local №": "0009 (Sword/Shield)0235 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "85",
+            "Defense": "65",
+            "Sp. Atk": "125",
+            "Sp. Def": "65",
+            "Speed": "120"
+        },
+        "trainig": {
+            "EV yield": " 3 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Water 1",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.",
+            "Shield": "Its nictitating membranes let it pick out foes’ weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3."
+        }
+    },
+    "kleavor": {
+        "pokedex_data": {
+            "National №": "0900",
+            "Type": " Bug Rock ",
+            "Species": "Axe Pokémon",
+            "Height": "1.8m (5′11″)",
+            "Weight": "89.0kg (196.2lbs)",
+            "Abilities": "1. Swarm2. Sheer ForceSharpness (hidden ability)",
+            "Local №": "0073 (Legends: Arceus)0021 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "135",
+            "Defense": "95",
+            "Sp. Atk": "45",
+            "Sp. Def": "70",
+            "Speed": "85"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 15 (2.0% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Legends: Arceus": "A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one’s only recourse is to flee."
+        }
+    },
+    "kubfu": {
+        "pokedex_data": {
+            "National №": "0891",
+            "Type": " Fighting ",
+            "Species": "Wushu Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "12.0kg (26.5lbs)",
+            "Abilities": "1. Inner Focus",
+            "Local №": "0100 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "60",
+            "Attack": "90",
+            "Defense": "60",
+            "Sp. Atk": "53",
+            "Sp. Def": "50",
+            "Speed": "72"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "77",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.",
+            "Shield": "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly."
+        }
+    },
+    "milcery": {
+        "pokedex_data": {
+            "National №": "0868",
+            "Type": " Fairy ",
+            "Species": "Cream Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "0.3kg (0.7lbs)",
+            "Abilities": "1. Sweet VeilAroma Veil (hidden ability)",
+            "Local №": "0185 (Sword/Shield)0042 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "45",
+            "Attack": "40",
+            "Defense": "40",
+            "Sp. Atk": "50",
+            "Sp. Def": "61",
+            "Speed": "34"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Def ",
+            "Catch rate": " 200 (26.1% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "54",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous, Fairy",
+            "Gender": "0% male, 100% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.",
+            "Shield": "They say that any patisserie visited by Milcery is guaranteed success and good fortune."
+        }
+    },
+    "morgrem": {
+        "pokedex_data": {
+            "National №": "0860",
+            "Type": " Dark Fairy ",
+            "Species": "Devious Pokémon",
+            "Height": "0.8m (2′07″)",
+            "Weight": "12.5kg (27.6lbs)",
+            "Abilities": "1. Prankster2. FriskPickpocket (hidden ability)",
+            "Local №": "0239 (Sword/Shield)0286 (Scarlet/Violet)0038 (The Crown Tundra)0191 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "65",
+            "Attack": "60",
+            "Defense": "45",
+            "Sp. Atk": "75",
+            "Sp. Def": "55",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "130",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy, Human-Like",
+            "Gender": "100% male, 0% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "When it gets down on all fours as if to beg for forgiveness, it’s trying to lure opponents in so that it can stab them with its spear-like hair.",
+            "Shield": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.",
+            "Scarlet": "Morgrem prefers dirty tactics, like ambushing, because it doesn’t have confidence in its brawn.",
+            "Violet": "This Pokémon absorbs negative emotions and turns them into energy. It’s popular with people who tend to think gloomy thoughts."
+        }
+    },
+    "morpeko": {
+        "pokedex_data": {
+            "National №": "0877",
+            "Type": " Electric Dark ",
+            "Species": "Two-Sided Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "3.0kg (6.6lbs)",
+            "Abilities": "1. Hunger Switch",
+            "Local №": "0344 (Sword/Shield)0104 (The Isle of Armor)0157 (The Crown Tundra)0095 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "58",
+            "Attack": "95",
+            "Defense": "58",
+            "Sp. Atk": "70",
+            "Sp. Def": "58",
+            "Speed": "97"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 180 (23.5% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "153",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy, Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "10 (2,314–2,570 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It’s also generating electricity.",
+            "Shield": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order."
+        }
+    },
+    "mr-rime": {
+        "pokedex_data": {
+            "National №": "0866",
+            "Type": " Ice Psychic ",
+            "Species": "Comedian Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "58.2kg (128.3lbs)",
+            "Abilities": "1. Tangled Feet2. Screen CleanerIce Body (hidden ability)",
+            "Local №": "0366 (Sword/Shield)0012 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "85",
+            "Defense": "75",
+            "Sp. Atk": "110",
+            "Sp. Def": "100",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "182",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Human-Like",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It’s highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
+            "Shield": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly."
+        }
+    },
+    "nickit": {
+        "pokedex_data": {
+            "National №": "0827",
+            "Type": " Dark ",
+            "Species": "Fox Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "8.9kg (19.6lbs)",
+            "Abilities": "1. Run Away2. UnburdenStakeout (hidden ability)",
+            "Local №": "0029 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "28",
+            "Defense": "28",
+            "Sp. Atk": "47",
+            "Sp. Def": "52",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Def ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "49",
+            "Growth Rate": "Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
+            "Shield": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder."
+        }
+    },
+    "obstagoon": {
+        "pokedex_data": {
+            "National №": "0862",
+            "Type": " Dark Normal ",
+            "Species": "Blocking Pokémon",
+            "Height": "1.6m (5′03″)",
+            "Weight": "46.0kg (101.4lbs)",
+            "Abilities": "1. Reckless2. GutsDefiant (hidden ability)",
+            "Local №": "0033 (Sword/Shield)0073 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "93",
+            "Attack": "90",
+            "Defense": "101",
+            "Sp. Atk": "60",
+            "Sp. Def": "81",
+            "Speed": "95"
+        },
+        "trainig": {
+            "EV yield": " 3 Defense ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "260",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.",
+            "Shield": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch."
+        }
+    },
+    "orbeetle": {
+        "pokedex_data": {
+            "National №": "0826",
+            "Type": " Bug Psychic ",
+            "Species": "Seven Spot Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "40.8kg (89.9lbs)",
+            "Abilities": "1. Swarm2. FriskTelepathy (hidden ability)",
+            "Local №": "0012 (Sword/Shield)0016 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "60",
+            "Attack": "45",
+            "Defense": "110",
+            "Sp. Atk": "80",
+            "Sp. Def": "120",
+            "Speed": "90"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Def ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "253",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It’s famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.",
+            "Shield": "It emits psychic energy to observe and study what’s around it—and what’s around it can include things over six miles away."
+        }
+    },
+    "overqwil": {
+        "pokedex_data": {
+            "National №": "0904",
+            "Type": " Dark Poison ",
+            "Species": "Pin Cluster Pokémon",
+            "Height": "2.5m (8′02″)",
+            "Weight": "60.5kg (133.4lbs)",
+            "Abilities": "1. Poison Point2. Swift SwimIntimidate (hidden ability)",
+            "Local №": "0085 (Legends: Arceus)0147 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "85",
+            "Attack": "115",
+            "Defense": "95",
+            "Sp. Atk": "65",
+            "Sp. Def": "65",
+            "Speed": "85"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "179",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Water 2",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Legends: Arceus": "Its lancelike spikes and savage temperament have earned it the nickname “sea fiend.” It slurps up poison to nourish itself."
+        }
+    },
+    "perrserker": {
+        "pokedex_data": {
+            "National №": "0863",
+            "Type": " Steel ",
+            "Species": "Viking Pokémon",
+            "Height": "0.8m (2′07″)",
+            "Weight": "28.0kg (61.7lbs)",
+            "Abilities": "1. Battle Armor2. Tough ClawsSteely Spirit (hidden ability)",
+            "Local №": "0183 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "110",
+            "Defense": "100",
+            "Sp. Atk": "50",
+            "Sp. Def": "60",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 90 (11.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "154",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",
+            "Shield": "After many battles, it evolved dangerous claws that come together to form daggers when extended."
+        }
+    },
+    "pincurchin": {
+        "pokedex_data": {
+            "National №": "0871",
+            "Type": " Electric ",
+            "Species": "Sea Urchin Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "1.0kg (2.2lbs)",
+            "Abilities": "1. Lightning RodElectric Surge (hidden ability)",
+            "Local №": "0353 (Sword/Shield)0321 (Scarlet/Violet)0126 (The Isle of Armor)0158 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "48",
+            "Attack": "101",
+            "Defense": "95",
+            "Sp. Atk": "91",
+            "Sp. Def": "85",
+            "Speed": "15"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 75 (9.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "152",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous, Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
+            "Shield": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.",
+            "Scarlet": "This Pokémon generates electricity when it digests food. It uses its five hard teeth to scrape seaweed off surfaces and eat it.",
+            "Violet": "This Pokémon is so timid that even brushing against seaweed will make it discharge electricity in surprise. Its lips do not conduct electricity."
+        }
+    },
+    "polteageist": {
+        "pokedex_data": {
+            "National №": "0855",
+            "Type": " Ghost ",
+            "Species": "Black Tea Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "0.4kg (0.9lbs)",
+            "Abilities": "1. Weak ArmorCursed Body (hidden ability)",
+            "Local №": "0336 (Sword/Shield)0238 (Scarlet/Violet)0133 (The Crown Tundra)0128 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "60",
+            "Attack": "65",
+            "Defense": "65",
+            "Sp. Atk": "134",
+            "Sp. Def": "114",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 60 (7.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "178",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous, Mineral",
+            "Gender": "Genderless",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Trainers Polteageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its tea.",
+            "Shield": "When angered, it launches tea from its body at the offender’s mouth. The tea causes strong chills if swallowed.",
+            "Scarlet": "Apparently a Polteageist’s disposition is affected by the type of tea the Pokémon came from. What teapot it inhabits makes no difference.",
+            "Violet": "Though risky to drink, this Pokémon’s tea tastes delicious. Gourmets who have no fear of danger drink Polteageist tea day after day."
+        }
+    },
+    "raboot": {
+        "pokedex_data": {
+            "National №": "0814",
+            "Type": " Fire ",
+            "Species": "Rabbit Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "9.0kg (19.8lbs)",
+            "Abilities": "1. BlazeLibero (hidden ability)",
+            "Local №": "0005 (Sword/Shield)0231 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "65",
+            "Attack": "86",
+            "Defense": "60",
+            "Sp. Atk": "55",
+            "Sp. Def": "60",
+            "Speed": "94"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "147",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Human-Like",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.",
+            "Shield": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork."
+        }
+    },
+    "regidrago": {
+        "pokedex_data": {
+            "National №": "0895",
+            "Type": " Dragon ",
+            "Species": "Dragon Orb Pokémon",
+            "Height": "2.1m (6′11″)",
+            "Weight": "200.0kg (440.9lbs)",
+            "Abilities": "1. Dragon's Maw",
+            "Local №": "0201 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "200",
+            "Attack": "100",
+            "Defense": "50",
+            "Sp. Atk": "100",
+            "Sp. Def": "50",
+            "Speed": "80"
+        },
+        "trainig": {
+            "EV yield": " 3 HP ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 35 (lower than normal) ",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "An academic theory proposes that Regidrago’s arms were once the head of an ancient dragon Pokémon. The theory remains unproven.",
+            "Shield": "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon."
+        }
+    },
+    "regieleki": {
+        "pokedex_data": {
+            "National №": "0894",
+            "Type": " Electric ",
+            "Species": "Electron Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "145.0kg (319.7lbs)",
+            "Abilities": "1. Transistor",
+            "Local №": "0200 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "100",
+            "Defense": "50",
+            "Sp. Atk": "100",
+            "Sp. Def": "50",
+            "Speed": "200"
+        },
+        "trainig": {
+            "EV yield": " 3 Speed ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 35 (lower than normal) ",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "This Pokémon is a cluster of electrical energy. It’s said that removing the rings on Regieleki’s body will unleash the Pokémon’s latent power.",
+            "Shield": "Its entire body is made up of a single organ that generates electrical energy. Regieleki is capable of creating all Galar’s electricity."
+        }
+    },
+    "rillaboom": {
+        "pokedex_data": {
+            "National №": "0812",
+            "Type": " Grass ",
+            "Species": "Drummer Pokémon",
+            "Height": "2.1m (6′11″)",
+            "Weight": "90.0kg (198.4lbs)",
+            "Abilities": "1. OvergrowGrassy Surge (hidden ability)",
+            "Local №": "0003 (Sword/Shield)0229 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "100",
+            "Attack": "125",
+            "Defense": "90",
+            "Sp. Atk": "60",
+            "Sp. Def": "70",
+            "Speed": "85"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Grass",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
+            "Shield": "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group."
+        }
+    },
+    "rolycoly": {
+        "pokedex_data": {
+            "National №": "0837",
+            "Type": " Rock ",
+            "Species": "Coal Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "12.0kg (26.5lbs)",
+            "Abilities": "1. Steam Engine2. HeatproofFlash Fire (hidden ability)",
+            "Local №": "0161 (Sword/Shield)0091 (Scarlet/Violet)0176 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "30",
+            "Attack": "40",
+            "Defense": "50",
+            "Sp. Atk": "40",
+            "Sp. Def": "50",
+            "Speed": "30"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "48",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
+            "Shield": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.",
+            "Scarlet": "On sunny days, Rolycoly will come out onto grassy plains and roll around. Then it will eat the grass that gets tangled in its wheel-like leg.",
+            "Violet": "Chunks of the surface of this Pokémon’s body that have grown old and flaked off have long been used for fuel as an alternative to coal."
+        }
+    },
+    "rookidee": {
+        "pokedex_data": {
+            "National №": "0821",
+            "Type": " Flying ",
+            "Species": "Tiny Bird Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "1.8kg (4.0lbs)",
+            "Abilities": "1. Keen Eye2. UnnerveBig Pecks (hidden ability)",
+            "Local №": "0021 (Sword/Shield)0040 (Scarlet/Violet)0163 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "38",
+            "Attack": "47",
+            "Defense": "35",
+            "Sp. Atk": "33",
+            "Sp. Def": "35",
+            "Speed": "57"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "49",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle—even a defeat increases its strength a bit.",
+            "Shield": "Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents.",
+            "Scarlet": "This Pokémon is brave and reckless. The white markings around a Rookidee’s eyes intimidate fainthearted Pokémon.",
+            "Violet": "The females are fussier than the males. If another creature dirties a female Rookidee’s wings, it’ll peck the offender relentlessly in a burning rage."
+        }
+    },
+    "runerigus": {
+        "pokedex_data": {
+            "National №": "0867",
+            "Type": " Ground Ghost ",
+            "Species": "Grudge Pokémon",
+            "Height": "1.6m (5′03″)",
+            "Weight": "66.6kg (146.8lbs)",
+            "Abilities": "1. Wandering Spirit",
+            "Local №": "0328 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "58",
+            "Attack": "95",
+            "Defense": "145",
+            "Sp. Atk": "50",
+            "Sp. Def": "105",
+            "Speed": "30"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 90 (11.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "169",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous, Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.",
+            "Shield": "Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it."
+        }
+    },
+    "sandaconda": {
+        "pokedex_data": {
+            "National №": "0844",
+            "Type": " Ground ",
+            "Species": "Sand Snake Pokémon",
+            "Height": "3.8m (12′06″)",
+            "Weight": "65.5kg (144.4lbs)",
+            "Abilities": "1. Sand Spit2. Shed SkinSand Veil (hidden ability)",
+            "Local №": "0313 (Sword/Shield)0271 (Scarlet/Violet)0175 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "72",
+            "Attack": "107",
+            "Defense": "125",
+            "Sp. Atk": "65",
+            "Sp. Def": "70",
+            "Speed": "71"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "179",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened.",
+            "Shield": "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently.",
+            "Scarlet": "It will expand its body as much as it can and then contract itself, blasting out sand with enough force to wash away a dump truck.",
+            "Violet": "The sand it spews contains sharp, pointy gravel, which is actually just sand that Sandaconda’s saliva has hardened into irregular shapes."
+        }
+    },
+    "scorbunny": {
+        "pokedex_data": {
+            "National №": "0813",
+            "Type": " Fire ",
+            "Species": "Rabbit Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "4.5kg (9.9lbs)",
+            "Abilities": "1. BlazeLibero (hidden ability)",
+            "Local №": "0004 (Sword/Shield)0230 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "71",
+            "Defense": "40",
+            "Sp. Atk": "40",
+            "Sp. Def": "40",
+            "Speed": "69"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Human-Like",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power.",
+            "Shield": "It has special pads on the backs of its feet, and one on its nose. Once it’s raring to fight, these pads radiate tremendous heat."
+        }
+    },
+    "silicobra": {
+        "pokedex_data": {
+            "National №": "0843",
+            "Type": " Ground ",
+            "Species": "Sand Snake Pokémon",
+            "Height": "2.2m (7′03″)",
+            "Weight": "7.6kg (16.8lbs)",
+            "Abilities": "1. Sand Spit2. Shed SkinSand Veil (hidden ability)",
+            "Local №": "0312 (Sword/Shield)0270 (Scarlet/Violet)0174 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "52",
+            "Attack": "57",
+            "Defense": "75",
+            "Sp. Atk": "35",
+            "Sp. Def": "50",
+            "Speed": "46"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "63",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",
+            "Shield": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
+            "Scarlet": "Silicobra’s neck pouch, which can inflate and deflate like a balloon, gets more elastic each time Silicobra sheds its skin.",
+            "Violet": "Silicobra’s large nostrils are specialized for spraying sand, so this Pokémon is not very good at telling apart different smells."
+        }
+    },
+    "sinistea": {
+        "pokedex_data": {
+            "National №": "0854",
+            "Type": " Ghost ",
+            "Species": "Black Tea Pokémon",
+            "Height": "0.1m (0′04″)",
+            "Weight": "0.2kg (0.4lbs)",
+            "Abilities": "1. Weak ArmorCursed Body (hidden ability)",
+            "Local №": "0335 (Sword/Shield)0237 (Scarlet/Violet)0132 (The Crown Tundra)0127 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "45",
+            "Defense": "45",
+            "Sp. Atk": "74",
+            "Sp. Def": "54",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous, Mineral",
+            "Gender": "Genderless",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "The swirl pattern in this Pokémon’s body is its weakness. If it gets stirred, the swirl loses its shape, and Sinistea gets dizzy.",
+            "Shield": "It absorbs the life-force of those who drink it. It waits patiently, but opportunities are fleeting— it tastes so bad that it gets spat out immediately.",
+            "Scarlet": "Some fanatics will go to great pains to prepare the perfect tea and teacup, eagerly waiting for a Sinistea to come and possess their selections.",
+            "Violet": "This Sinistea lives in an antique teacup. As valuable as this Pokémon is, its awful taste remains unchanged."
+        }
+    },
+    "sirfetchd": {
+        "pokedex_data": {
+            "National №": "0865",
+            "Type": " Fighting ",
+            "Species": "Wild Duck Pokémon",
+            "Height": "0.8m (2′07″)",
+            "Weight": "117.0kg (257.9lbs)",
+            "Abilities": "1. SteadfastScrappy (hidden ability)",
+            "Local №": "0219 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "62",
+            "Attack": "135",
+            "Defense": "95",
+            "Sp. Atk": "68",
+            "Sp. Def": "82",
+            "Speed": "65"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "177",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.",
+            "Shield": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food."
+        }
+    },
+    "sizzlipede": {
+        "pokedex_data": {
+            "National №": "0850",
+            "Type": " Fire Bug ",
+            "Species": "Radiator Pokémon",
+            "Height": "0.7m (2′04″)",
+            "Weight": "1.0kg (2.2lbs)",
+            "Abilities": "1. Flash Fire2. White SmokeFlame Body (hidden ability)",
+            "Local №": "0159 (Sword/Shield)0099 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "65",
+            "Defense": "45",
+            "Sp. Atk": "50",
+            "Sp. Def": "50",
+            "Speed": "45"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
+            "Shield": "It wraps prey up with its heated body, cooking them in its coils. Once they’re well-done, it will voraciously nibble them down to the last morsel."
+        }
+    },
+    "skwovet": {
+        "pokedex_data": {
+            "National №": "0819",
+            "Type": " Normal ",
+            "Species": "Cheeky Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "2.5kg (5.5lbs)",
+            "Abilities": "1. Cheek PouchGluttony (hidden ability)",
+            "Local №": "0024 (Sword/Shield)0029 (Scarlet/Violet)0009 (The Isle of Armor)0005 (The Crown Tundra)0072 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "55",
+            "Defense": "55",
+            "Sp. Atk": "35",
+            "Sp. Def": "35",
+            "Speed": "25"
+        },
+        "trainig": {
+            "EV yield": " 1 HP ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "55",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Found throughout the Galar region, this Pokémon becomes uneasy if its cheeks are ever completely empty of berries.",
+            "Shield": "It eats berries nonstop—a habit that has made it more resilient than it looks. It’ll show up on farms, searching for yet more berries.",
+            "Scarlet": "It stores berries in its cheeks. When there are no berries to be found, Skwovet will stuff pebbles into its cheeks to stave off its cravings.",
+            "Violet": "No matter how much it stuffs its belly with food, it is always anxious about getting hungry again. So, it stashes berries in its cheeks and tail."
+        }
+    },
+    "sneasler": {
+        "pokedex_data": {
+            "National №": "0903",
+            "Type": " Fighting Poison ",
+            "Species": "Free Climb Pokémon",
+            "Height": "1.3m (4′03″)",
+            "Weight": "43.0kg (94.8lbs)",
+            "Abilities": "1. Pressure2. UnburdenPoison Touch (hidden ability)",
+            "Local №": "0203 (Legends: Arceus)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "130",
+            "Defense": "60",
+            "Sp. Atk": "40",
+            "Sp. Def": "80",
+            "Speed": "120"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 20 (2.6% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "102",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Legends: Arceus": "Because of Sneasler’s virulent poison and daunting physical prowess, no other species could hope to best it on the frozen highlands. Preferring solitude, this species does not form packs."
+        }
+    },
+    "snom": {
+        "pokedex_data": {
+            "National №": "0872",
+            "Type": " Ice Bug ",
+            "Species": "Worm Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "3.8kg (8.4lbs)",
+            "Abilities": "1. Shield DustIce Scales (hidden ability)",
+            "Local №": "0349 (Sword/Shield)0350 (Scarlet/Violet)0001 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "30",
+            "Attack": "25",
+            "Defense": "35",
+            "Sp. Atk": "45",
+            "Sp. Def": "30",
+            "Speed": "20"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "37",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
+            "Shield": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
+            "Scarlet": "It eats snow that has accumulated on the ground. It prefers soft, freshly fallen snow, so it will eat its way up a mountain, aiming for the peak.",
+            "Violet": "Within its internal organs, Snom amplifies the frigid air it gets from eating snow and then uses this amplified air to create icicle-like spikes."
+        }
+    },
+    "sobble": {
+        "pokedex_data": {
+            "National №": "0816",
+            "Type": " Water ",
+            "Species": "Water Lizard Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "4.0kg (8.8lbs)",
+            "Abilities": "1. TorrentSniper (hidden ability)",
+            "Local №": "0007 (Sword/Shield)0233 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "40",
+            "Defense": "40",
+            "Sp. Atk": "70",
+            "Sp. Def": "40",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Def, 1 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Water 1",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won’t be able to resist weeping.",
+            "Shield": "When it gets wet, its skin changes color, and this Pokémon becomes invisible as if it were camouflaged."
+        }
+    },
+    "spectrier": {
+        "pokedex_data": {
+            "National №": "0897",
+            "Type": " Ghost ",
+            "Species": "Swift Horse Pokémon",
+            "Height": "2.0m (6′07″)",
+            "Weight": "44.5kg (98.1lbs)",
+            "Abilities": "1. Grim Neigh",
+            "Local №": "0209 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "100",
+            "Attack": "65",
+            "Defense": "60",
+            "Sp. Atk": "145",
+            "Sp. Def": "80",
+            "Speed": "130"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 35 (lower than normal) ",
+            "Base Exp.": "290",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It probes its surroundings with all its senses save one—it doesn’t use its sense of sight. Spectrier’s kicks are said to separate soul from body.",
+            "Shield": "As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude."
+        }
+    },
+    "stonjourner": {
+        "pokedex_data": {
+            "National №": "0874",
+            "Type": " Rock ",
+            "Species": "Big Rock Pokémon",
+            "Height": "2.5m (8′02″)",
+            "Weight": "520.0kg (1146.4lbs)",
+            "Abilities": "1. Power Spot",
+            "Local №": "0369 (Sword/Shield)0319 (Scarlet/Violet)0089 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "100",
+            "Attack": "125",
+            "Defense": "135",
+            "Sp. Atk": "20",
+            "Sp. Def": "20",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 60 (7.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "165",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It stands in grasslands, watching the sun’s descent from zenith to horizon. This Pokémon has a talent for delivering dynamic kicks.",
+            "Shield": "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.",
+            "Scarlet": "The elemental composition of the rocks that form its body were found to match the bedrock of a land far away from this Pokémon’s habitat.",
+            "Violet": "This Pokémon spends its life gazing at the setting sun. It strides leisurely across grassy plains on legs of rock that weigh over 400 pounds each."
+        }
+    },
+    "thievul": {
+        "pokedex_data": {
+            "National №": "0828",
+            "Type": " Dark ",
+            "Species": "Fox Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "19.9kg (43.9lbs)",
+            "Abilities": "1. Run Away2. UnburdenStakeout (hidden ability)",
+            "Local №": "0030 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "58",
+            "Defense": "58",
+            "Sp. Atk": "87",
+            "Sp. Def": "92",
+            "Speed": "90"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Def ",
+            "Catch rate": " 127 (16.6% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "159",
+            "Growth Rate": "Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+            "Shield": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy."
+        }
+    },
+    "thwackey": {
+        "pokedex_data": {
+            "National №": "0811",
+            "Type": " Grass ",
+            "Species": "Beat Pokémon",
+            "Height": "0.7m (2′04″)",
+            "Weight": "14.0kg (30.9lbs)",
+            "Abilities": "1. OvergrowGrassy Surge (hidden ability)",
+            "Local №": "0002 (Sword/Shield)0228 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "85",
+            "Defense": "70",
+            "Sp. Atk": "55",
+            "Sp. Def": "60",
+            "Speed": "80"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "147",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Grass",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",
+            "Shield": "When it’s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won’t even notice that it’s already knocked out its opponent."
+        }
+    },
+    "toxel": {
+        "pokedex_data": {
+            "National №": "0848",
+            "Type": " Electric Poison ",
+            "Species": "Baby Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "11.0kg (24.3lbs)",
+            "Abilities": "1. Rattled2. StaticKlutz (hidden ability)",
+            "Local №": "0310 (Sword/Shield)0198 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "38",
+            "Defense": "35",
+            "Sp. Atk": "54",
+            "Sp. Def": "35",
+            "Speed": "40"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk ",
+            "Catch rate": " 75 (9.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "48",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows.",
+            "Shield": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.",
+            "Scarlet": "It has no problem drinking dirty water. An organ inside Toxel’s body filters such water into a poisonous liquid that is harmless to Toxel.",
+            "Violet": "This selfish, attention-seeking Pokémon stores poison and electricity in two different sacs inside its body."
+        }
+    },
+    "toxtricity": {
+        "pokedex_data": {
+            "National №": "0849",
+            "Type": " Electric Poison ",
+            "Species": "Punk Pokémon",
+            "Height": "1.6m (5′03″)",
+            "Weight": "40.0kg (88.2lbs)",
+            "Abilities": "1. Punk Rock2. PlusTechnician (hidden ability)",
+            "Local №": "0311 (Sword/Shield)0199 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "75",
+            "Attack": "98",
+            "Defense": "70",
+            "Sp. Atk": "114",
+            "Sp. Def": "70",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "176",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Human-Like",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "When this Pokémon sounds as if it’s strumming a guitar, it’s actually clawing at the protrusions on its chest to generate electricity.",
+            "Shield": "This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.",
+            "Scarlet": "As it scatters toxic sweat and emits electricity, a melody that sounds like it came from a guitar reverberates through the surrounding area.",
+            "Violet": "The jolts of electricity it launches by violently strumming the protrusions on its chest easily exceed 15,000 volts."
+        }
+    },
+    "ursaluna": {
+        "pokedex_data": {
+            "National №": "0901",
+            "Type": " Ground Normal ",
+            "Species": "Peat Pokémon",
+            "Height": "2.4m (7′10″)",
+            "Weight": "290.0kg (639.3lbs)",
+            "Abilities": "1. Guts2. BulletproofUnnerve (hidden ability)",
+            "Local №": "0114 (Legends: Arceus)0196 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "130",
+            "Attack": "140",
+            "Defense": "105",
+            "Sp. Atk": "45",
+            "Sp. Def": "80",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 20 (2.6% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "275",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Legends: Arceus": "I believe it was Hisui’s swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will."
+        }
+    },
+    "urshifu": {
+        "pokedex_data": {
+            "National №": "0892",
+            "Type": " Fighting Dark ",
+            "Species": "Wushu Pokémon",
+            "Height": "1.9m (6′03″)",
+            "Weight": "105.0kg (231.5lbs)",
+            "Abilities": "1. Unseen Fist",
+            "Local №": "0101 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "100",
+            "Attack": "130",
+            "Defense": "100",
+            "Sp. Atk": "63",
+            "Sp. Def": "60",
+            "Speed": "97"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "275",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "People call it the embodiment of rage. It’s said that this Pokémon’s terrifying expression and shout will rid the world of malevolence.",
+            "Shield": "The energy released by this Pokémon’s fists forms shock waves that can blow away Dynamax Pokémon in just one hit."
+        }
+    },
+    "wooloo": {
+        "pokedex_data": {
+            "National №": "0831",
+            "Type": " Normal ",
+            "Species": "Sheep Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "6.0kg (13.2lbs)",
+            "Abilities": "1. Fluffy2. Run AwayBulletproof (hidden ability)",
+            "Local №": "0034 (Sword/Shield)0003 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "42",
+            "Attack": "40",
+            "Defense": "55",
+            "Sp. Atk": "40",
+            "Sp. Def": "45",
+            "Speed": "48"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "122",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.",
+            "Shield": "If its fleece grows too long, Wooloo won’t be able to move. Cloth made with the wool of this Pokémon is surprisingly strong."
+        }
+    },
+    "wyrdeer": {
+        "pokedex_data": {
+            "National №": "0899",
+            "Type": " Normal Psychic ",
+            "Species": "Big Horn Pokémon",
+            "Height": "1.8m (5′11″)",
+            "Weight": "95.1kg (209.7lbs)",
+            "Abilities": "1. Intimidate2. FriskSap Sipper (hidden ability)",
+            "Local №": "0050 (Legends: Arceus)"
+        },
+        "base_stats": {
+            "HP": "103",
+            "Attack": "105",
+            "Defense": "72",
+            "Sp. Atk": "105",
+            "Sp. Def": "75",
+            "Speed": "65"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack, 1 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "263",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Legends: Arceus": "The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing."
+        }
+    },
+    "yamper": {
+        "pokedex_data": {
+            "National №": "0835",
+            "Type": " Electric ",
+            "Species": "Puppy Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "13.5kg (29.8lbs)",
+            "Abilities": "1. Ball FetchRattled (hidden ability)",
+            "Local №": "0046 (Sword/Shield)0155 (The Crown Tundra)"
+        },
+        "base_stats": {
+            "HP": "59",
+            "Attack": "45",
+            "Defense": "50",
+            "Sp. Atk": "40",
+            "Sp. Def": "50",
+            "Speed": "26"
+        },
+        "trainig": {
+            "EV yield": " 1 HP ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "54",
+            "Growth Rate": "Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
+            "Shield": "This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity."
+        }
+    },
+    "zacian": {
+        "pokedex_data": {
+            "National №": "0888",
+            "Type": " Fairy ",
+            "Species": "Warrior Pokémon",
+            "Height": "2.8m (9′02″)",
+            "Weight": "110.0kg (242.5lbs)",
+            "Abilities": "1. Intrepid Sword",
+            "Local №": "0398 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "92",
+            "Attack": "120",
+            "Defense": "115",
+            "Sp. Atk": "80",
+            "Sp. Def": "115",
+            "Speed": "138"
+        },
+        "trainig": {
+            "EV yield": " 3 Speed ",
+            "Catch rate": " 10 (1.3% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "330",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Known as a legendary hero, this Pokémon absorbs metal particles, transforming them into a weapon it uses to battle.",
+            "Shield": "This Pokémon has slumbered for many years. Some say it’s Zamazenta’s elder sister—others say the two Pokémon are rivals."
+        }
+    },
+    "zamazenta": {
+        "pokedex_data": {
+            "National №": "0889",
+            "Type": " Fighting ",
+            "Species": "Warrior Pokémon",
+            "Height": "2.9m (9′06″)",
+            "Weight": "210.0kg (463.0lbs)",
+            "Abilities": "1. Dauntless Shield",
+            "Local №": "0399 (Sword/Shield)"
+        },
+        "base_stats": {
+            "HP": "92",
+            "Attack": "120",
+            "Defense": "115",
+            "Sp. Atk": "80",
+            "Sp. Def": "115",
+            "Speed": "138"
+        },
+        "trainig": {
+            "EV yield": " 3 Speed ",
+            "Catch rate": " 10 (1.3% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "330",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "In times past, it worked together with a king of the people to save the Galar region. It absorbs metal that it then uses in battle.",
+            "Shield": "This Pokémon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed."
+        }
+    },
+    "zarude": {
+        "pokedex_data": {
+            "National №": "0893",
+            "Type": " Dark Grass ",
+            "Species": "Rogue Monkey Pokémon",
+            "Height": "1.8m (5′11″)",
+            "Weight": "70.0kg (154.3lbs)",
+            "Abilities": "1. Leaf Guard",
+            "Local №": "0211 (The Isle of Armor)"
+        },
+        "base_stats": {
+            "HP": "105",
+            "Attack": "120",
+            "Defense": "105",
+            "Sp. Atk": "70",
+            "Sp. Def": "95",
+            "Speed": "105"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "120 (30,584–30,840 steps) "
+        },
+        "pokedex_entries": {
+            "Sword": "Within dense forests, this Pokémon lives in a pack with others of its kind. It’s incredibly aggressive, and the other Pokémon of the forest fear it.",
+            "Shield": "Once the vines on Zarude’s body tear off, they become nutrients in the soil. This helps the plants of the forest grow."
+        }
+    }
+}

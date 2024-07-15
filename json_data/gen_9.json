@@ -1,0 +1,4185 @@
+{
+    "annihilape": {
+        "pokedex_data": {
+            "National №": "0979",
+            "Type": " Fighting Ghost ",
+            "Species": "Rage Monkey Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "56.0kg (123.5lbs)",
+            "Abilities": "1. Vital Spirit2. Inner FocusDefiant (hidden ability)",
+            "Local №": "0160 (Scarlet/Violet)0101 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "110",
+            "Attack": "115",
+            "Defense": "80",
+            "Sp. Atk": "50",
+            "Sp. Def": "90",
+            "Speed": "90"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "268",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.",
+            "Violet": "It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core."
+        }
+    },
+    "arboliva": {
+        "pokedex_data": {
+            "National №": "0930",
+            "Type": " Grass Normal ",
+            "Species": "Olive Pokémon",
+            "Height": "1.4m (4′07″)",
+            "Weight": "48.2kg (106.3lbs)",
+            "Abilities": "1. Seed SowerHarvest (hidden ability)",
+            "Local №": "0086 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "78",
+            "Attack": "69",
+            "Defense": "90",
+            "Sp. Atk": "125",
+            "Sp. Def": "109",
+            "Speed": "39"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "255",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
+            "Violet": "This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder."
+        }
+    },
+    "archaludon": {
+        "pokedex_data": {
+            "National №": "1018",
+            "Type": " Steel Dragon ",
+            "Species": "Alloy Pokémon",
+            "Height": "2.0m (6′07″)",
+            "Weight": "60.0kg (132.3lbs)",
+            "Abilities": "1. Stamina2. SturdyStalwart (hidden ability)",
+            "Local №": "0162 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "105",
+            "Defense": "130",
+            "Sp. Atk": "125",
+            "Sp. Def": "65",
+            "Speed": "85"
+        },
+        "trainig": {
+            "EV yield": " 3 Defense ",
+            "Catch rate": " 10 (1.3% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "arctibax": {
+        "pokedex_data": {
+            "National №": "0997",
+            "Type": " Dragon Ice ",
+            "Species": "Ice Fin Pokémon",
+            "Height": "0.8m (2′07″)",
+            "Weight": "30.0kg (66.1lbs)",
+            "Abilities": "1. Thermal ExchangeIce Body (hidden ability)",
+            "Local №": "0389 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "95",
+            "Defense": "66",
+            "Sp. Atk": "45",
+            "Sp. Def": "65",
+            "Speed": "62"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 25 (3.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "148",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "40 (10,024–10,280 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
+            "Violet": "It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax’s strong back and legs allow it to pull off this technique."
+        }
+    },
+    "armarouge": {
+        "pokedex_data": {
+            "National №": "0936",
+            "Type": " Fire Psychic ",
+            "Species": "Fire Warrior Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "85.0kg (187.4lbs)",
+            "Abilities": "1. Flash FireWeak Armor (hidden ability)",
+            "Local №": "0166 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "85",
+            "Attack": "60",
+            "Defense": "100",
+            "Sp. Atk": "125",
+            "Sp. Def": "80",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 25 (3.3% with PokéBall, full HP) ",
+            "Base Friendship": " 20 (lower than normal) ",
+            "Base Exp.": "263",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Human-Like",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "35 (8,739–8,995 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
+            "Violet": "This Pokémon clads itself in armor that has been fortified by psychic and fire energy, and it shoots blazing fireballs."
+        }
+    },
+    "baxcalibur": {
+        "pokedex_data": {
+            "National №": "0998",
+            "Type": " Dragon Ice ",
+            "Species": "Ice Dragon Pokémon",
+            "Height": "2.1m (6′11″)",
+            "Weight": "210.0kg (463.0lbs)",
+            "Abilities": "1. Thermal ExchangeIce Body (hidden ability)",
+            "Local №": "0390 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "115",
+            "Attack": "145",
+            "Defense": "92",
+            "Sp. Atk": "75",
+            "Sp. Def": "86",
+            "Speed": "87"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 10 (1.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "300",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "40 (10,024–10,280 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
+            "Violet": "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade."
+        }
+    },
+    "bellibolt": {
+        "pokedex_data": {
+            "National №": "0939",
+            "Type": " Electric ",
+            "Species": "EleFrog Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "113.0kg (249.1lbs)",
+            "Abilities": "1. Electromorphosis2. StaticDamp (hidden ability)",
+            "Local №": "0171 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "109",
+            "Attack": "64",
+            "Defense": "91",
+            "Sp. Atk": "103",
+            "Sp. Def": "83",
+            "Speed": "45"
+        },
+        "trainig": {
+            "EV yield": " 2 HP ",
+            "Catch rate": " 50 (6.5% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "173",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "When this Pokémon expands and contracts its wobbly body, the belly-button dynamo in its stomach produces a huge amount of electricity.",
+            "Violet": "What appear to be eyeballs are actually organs for discharging the electricity generated by Bellibolt’s belly-button dynamo."
+        }
+    },
+    "bombirdier": {
+        "pokedex_data": {
+            "National №": "0962",
+            "Type": " Flying Dark ",
+            "Species": "Item Drop Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "42.9kg (94.6lbs)",
+            "Abilities": "1. Big Pecks2. Keen EyeRocky Payload (hidden ability)",
+            "Local №": "0290 (Scarlet/Violet)0134 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "103",
+            "Defense": "85",
+            "Sp. Atk": "60",
+            "Sp. Def": "85",
+            "Speed": "82"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 25 (3.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "243",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "35 (8,739–8,995 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It gathers things up in an apron made from shed feathers added to the Pokémon’s chest feathers, then drops those things from high places for fun.",
+            "Violet": "Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises."
+        }
+    },
+    "brambleghast": {
+        "pokedex_data": {
+            "National №": "0947",
+            "Type": " Grass Ghost ",
+            "Species": "Tumbleweed Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "6.0kg (13.2lbs)",
+            "Abilities": "1. Wind RiderInfiltrator (hidden ability)",
+            "Local №": "0243 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "55",
+            "Attack": "115",
+            "Defense": "70",
+            "Sp. Atk": "80",
+            "Sp. Def": "70",
+            "Speed": "90"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
+            "Violet": "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town."
+        }
+    },
+    "bramblin": {
+        "pokedex_data": {
+            "National №": "0946",
+            "Type": " Grass Ghost ",
+            "Species": "Tumbleweed Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "0.6kg (1.3lbs)",
+            "Abilities": "1. Wind RiderInfiltrator (hidden ability)",
+            "Local №": "0242 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "65",
+            "Defense": "30",
+            "Sp. Atk": "45",
+            "Sp. Def": "35",
+            "Speed": "60"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "55",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.",
+            "Violet": "Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet."
+        }
+    },
+    "brute-bonnet": {
+        "pokedex_data": {
+            "National №": "0986",
+            "Type": " Grass Dark ",
+            "Species": "Paradox Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "21.0kg (46.3lbs)",
+            "Abilities": "1. Protosynthesis",
+            "Local №": "0378 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "111",
+            "Attack": "127",
+            "Defense": "99",
+            "Sp. Atk": "79",
+            "Sp. Def": "99",
+            "Speed": "55"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 50 (6.5% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon.",
+            "Violet": "It bears a slight resemblance to a Pokémon described in a dubious magazine as a cross between a dinosaur and a mushroom."
+        }
+    },
+    "capsakid": {
+        "pokedex_data": {
+            "National №": "0951",
+            "Type": " Grass ",
+            "Species": "Spicy Pepper Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "3.0kg (6.6lbs)",
+            "Abilities": "1. Chlorophyll2. InsomniaKlutz (hidden ability)",
+            "Local №": "0250 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "62",
+            "Defense": "40",
+            "Sp. Atk": "62",
+            "Sp. Def": "40",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "61",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
+            "Violet": "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients."
+        }
+    },
+    "ceruledge": {
+        "pokedex_data": {
+            "National №": "0937",
+            "Type": " Fire Ghost ",
+            "Species": "Fire Blades Pokémon",
+            "Height": "1.6m (5′03″)",
+            "Weight": "62.0kg (136.7lbs)",
+            "Abilities": "1. Flash FireWeak Armor (hidden ability)",
+            "Local №": "0167 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "75",
+            "Attack": "125",
+            "Defense": "80",
+            "Sp. Atk": "60",
+            "Sp. Def": "100",
+            "Speed": "85"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 25 (3.3% with PokéBall, full HP) ",
+            "Base Friendship": " 20 (lower than normal) ",
+            "Base Exp.": "263",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Human-Like",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "35 (8,739–8,995 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
+            "Violet": "An old set of armor steeped in grudges caused this Pokémon’s evolution. Ceruledge cuts its enemies to pieces without mercy."
+        }
+    },
+    "cetitan": {
+        "pokedex_data": {
+            "National №": "0975",
+            "Type": " Ice ",
+            "Species": "Terra Whale Pokémon",
+            "Height": "4.5m (14′09″)",
+            "Weight": "700.0kg (1543.2lbs)",
+            "Abilities": "1. Thick Fat2. Slush RushSheer Force (hidden ability)",
+            "Local №": "0362 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "170",
+            "Attack": "113",
+            "Defense": "65",
+            "Sp. Atk": "45",
+            "Sp. Def": "55",
+            "Speed": "73"
+        },
+        "trainig": {
+            "EV yield": " 2 HP ",
+            "Catch rate": " 50 (6.5% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "182",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.",
+            "Violet": "Ice energy builds up in the horn on its upper jaw, causing the horn to reach cryogenic temperatures that freeze its surroundings."
+        }
+    },
+    "cetoddle": {
+        "pokedex_data": {
+            "National №": "0974",
+            "Type": " Ice ",
+            "Species": "Terra Whale Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "45.0kg (99.2lbs)",
+            "Abilities": "1. Thick Fat2. Snow CloakSheer Force (hidden ability)",
+            "Local №": "0361 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "108",
+            "Attack": "68",
+            "Defense": "45",
+            "Sp. Atk": "30",
+            "Sp. Def": "40",
+            "Speed": "43"
+        },
+        "trainig": {
+            "EV yield": " 1 HP ",
+            "Catch rate": " 150 (19.6% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "67",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "25 (6,169–6,425 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.",
+            "Violet": "It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice."
+        }
+    },
+    "charcadet": {
+        "pokedex_data": {
+            "National №": "0935",
+            "Type": " Fire ",
+            "Species": "Fire Child Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "10.5kg (23.1lbs)",
+            "Abilities": "1. Flash FireFlame Body (hidden ability)",
+            "Local №": "0165 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "50",
+            "Defense": "40",
+            "Sp. Atk": "50",
+            "Sp. Def": "40",
+            "Speed": "35"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk ",
+            "Catch rate": " 90 (11.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "51",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Human-Like",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "35 (8,739–8,995 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
+            "Violet": "Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat."
+        }
+    },
+    "chi-yu": {
+        "pokedex_data": {
+            "National №": "1004",
+            "Type": " Dark Fire ",
+            "Species": "Ruinous Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "4.9kg (10.8lbs)",
+            "Abilities": "1. Beads of Ruin",
+            "Local №": "0396 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "55",
+            "Attack": "80",
+            "Defense": "80",
+            "Sp. Atk": "135",
+            "Sp. Def": "120",
+            "Speed": "100"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 6 (0.8% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.",
+            "Violet": "The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon."
+        }
+    },
+    "chien-pao": {
+        "pokedex_data": {
+            "National №": "1002",
+            "Type": " Dark Ice ",
+            "Species": "Ruinous Pokémon",
+            "Height": "1.9m (6′03″)",
+            "Weight": "152.2kg (335.5lbs)",
+            "Abilities": "1. Sword of Ruin",
+            "Local №": "0394 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "120",
+            "Defense": "80",
+            "Sp. Atk": "90",
+            "Sp. Def": "65",
+            "Speed": "135"
+        },
+        "trainig": {
+            "EV yield": " 3 Speed ",
+            "Catch rate": " 6 (0.8% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.",
+            "Violet": "The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon."
+        }
+    },
+    "clodsire": {
+        "pokedex_data": {
+            "National №": "0980",
+            "Type": " Poison Ground ",
+            "Species": "Spiny Fish Pokémon",
+            "Height": "1.8m (5′11″)",
+            "Weight": "223.0kg (491.6lbs)",
+            "Abilities": "1. Poison Point2. Water AbsorbUnaware (hidden ability)",
+            "Local №": "0054 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "130",
+            "Attack": "75",
+            "Defense": "60",
+            "Sp. Atk": "45",
+            "Sp. Def": "100",
+            "Speed": "20"
+        },
+        "trainig": {
+            "EV yield": " 2 HP ",
+            "Catch rate": " 90 (11.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "151",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
+            "Violet": "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other."
+        }
+    },
+    "crocalor": {
+        "pokedex_data": {
+            "National №": "0910",
+            "Type": " Fire ",
+            "Species": "Fire Croc Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "30.7kg (67.7lbs)",
+            "Abilities": "1. BlazeUnaware (hidden ability)",
+            "Local №": "0005 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "81",
+            "Attack": "55",
+            "Defense": "78",
+            "Sp. Atk": "90",
+            "Sp. Def": "58",
+            "Speed": "49"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "144",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "The combination of Crocalor’s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon’s head.",
+            "Violet": "The valve in Crocalor’s flame sac is closely connected to its vocal cords. This Pokémon utters a guttural cry as it spews flames every which way."
+        }
+    },
+    "cyclizar": {
+        "pokedex_data": {
+            "National №": "0967",
+            "Type": " Dragon Normal ",
+            "Species": "Mount Pokémon",
+            "Height": "1.6m (5′03″)",
+            "Weight": "63.0kg (138.9lbs)",
+            "Abilities": "1. Shed SkinRegenerator (hidden ability)",
+            "Local №": "0295 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "95",
+            "Defense": "65",
+            "Sp. Atk": "85",
+            "Sp. Def": "65",
+            "Speed": "121"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "30 (7,454–7,710 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+            "Violet": "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit."
+        }
+    },
+    "dachsbun": {
+        "pokedex_data": {
+            "National №": "0927",
+            "Type": " Fairy ",
+            "Species": "Dog Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "14.9kg (32.8lbs)",
+            "Abilities": "1. Well-Baked BodyAroma Veil (hidden ability)",
+            "Local №": "0077 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "57",
+            "Attack": "80",
+            "Defense": "115",
+            "Sp. Atk": "50",
+            "Sp. Def": "80",
+            "Speed": "95"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 90 (11.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "167",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "The pleasant aroma that emanates from this Pokémon’s body helps wheat grow, so Dachsbun has been treasured by farming villages.",
+            "Violet": "The surface of this Pokémon’s skin hardens when exposed to intense heat, and its body has an appetizing aroma."
+        }
+    },
+    "dipplin": {
+        "pokedex_data": {
+            "National №": "1011",
+            "Type": " Grass Dragon ",
+            "Species": "Candy Apple Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "4.4kg (9.7lbs)",
+            "Abilities": "1. Supersweet Syrup2. GluttonySticky Hold (hidden ability)",
+            "Local №": "0036 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "80",
+            "Defense": "110",
+            "Sp. Atk": "95",
+            "Sp. Def": "80",
+            "Speed": "40"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Erratic"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "dolliv": {
+        "pokedex_data": {
+            "National №": "0929",
+            "Type": " Grass Normal ",
+            "Species": "Olive Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "11.9kg (26.2lbs)",
+            "Abilities": "1. Early BirdHarvest (hidden ability)",
+            "Local №": "0085 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "52",
+            "Attack": "53",
+            "Defense": "60",
+            "Sp. Atk": "78",
+            "Sp. Def": "78",
+            "Speed": "33"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "124",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
+            "Violet": "It basks in the sun to its heart’s content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey."
+        }
+    },
+    "dondozo": {
+        "pokedex_data": {
+            "National №": "0977",
+            "Type": " Water ",
+            "Species": "Big Catfish Pokémon",
+            "Height": "12.0m (39′04″)",
+            "Weight": "220.0kg (485.0lbs)",
+            "Abilities": "1. Unaware2. ObliviousWater Veil (hidden ability)",
+            "Local №": "0374 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "150",
+            "Attack": "100",
+            "Defense": "115",
+            "Sp. Atk": "65",
+            "Sp. Def": "65",
+            "Speed": "35"
+        },
+        "trainig": {
+            "EV yield": " 3 HP ",
+            "Catch rate": " 25 (3.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "265",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Water 2",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "40 (10,024–10,280 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon is a glutton, but it’s bad at getting food. It teams up with a Tatsugiri to catch prey.",
+            "Violet": "It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart."
+        }
+    },
+    "dudunsparce": {
+        "pokedex_data": {
+            "National №": "0982",
+            "Type": " Normal ",
+            "Species": "Land Snake Pokémon",
+            "Height": "3.6m (11′10″)",
+            "Weight": "39.2kg (86.4lbs)",
+            "Abilities": "1. Serene Grace2. Run AwayRattled (hidden ability)",
+            "Local №": "0189 (Scarlet/Violet)0161 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "125",
+            "Attack": "100",
+            "Defense": "80",
+            "Sp. Atk": "85",
+            "Sp. Def": "75",
+            "Speed": "55"
+        },
+        "trainig": {
+            "EV yield": " 2 HP ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "182",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
+            "Violet": "It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast."
+        }
+    },
+    "espathra": {
+        "pokedex_data": {
+            "National №": "0956",
+            "Type": " Psychic ",
+            "Species": "Ostrich Pokémon",
+            "Height": "1.9m (6′03″)",
+            "Weight": "90.0kg (198.4lbs)",
+            "Abilities": "1. Opportunist2. FriskSpeed Boost (hidden ability)",
+            "Local №": "0264 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "95",
+            "Attack": "60",
+            "Defense": "60",
+            "Sp. Atk": "101",
+            "Sp. Def": "60",
+            "Speed": "105"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 60 (7.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "168",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It immobilizes opponents by bathing them in psychic power from its large eyes. Despite its appearance, it has a vicious temperament.",
+            "Violet": "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph."
+        }
+    },
+    "farigiraf": {
+        "pokedex_data": {
+            "National №": "0981",
+            "Type": " Normal Psychic ",
+            "Species": "Long Neck Pokémon",
+            "Height": "3.2m (10′06″)",
+            "Weight": "160.0kg (352.7lbs)",
+            "Abilities": "1. Cud Chew2. Armor TailSap Sipper (hidden ability)",
+            "Local №": "0193 (Scarlet/Violet)0026 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "120",
+            "Attack": "90",
+            "Defense": "70",
+            "Sp. Atk": "110",
+            "Sp. Def": "70",
+            "Speed": "60"
+        },
+        "trainig": {
+            "EV yield": " 3 HP ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "260",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig’s.",
+            "Violet": "The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies."
+        }
+    },
+    "fezandipiti": {
+        "pokedex_data": {
+            "National №": "1016",
+            "Type": " Poison Fairy ",
+            "Species": "Retainer Pokémon",
+            "Height": "1.4m (4′07″)",
+            "Weight": "30.1kg (66.4lbs)",
+            "Abilities": "1. Toxic ChainTechnician (hidden ability)",
+            "Local №": "0199 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "88",
+            "Attack": "91",
+            "Defense": "82",
+            "Sp. Atk": "70",
+            "Sp. Def": "125",
+            "Speed": "99"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Def ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "100% male, 0% female",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "fidough": {
+        "pokedex_data": {
+            "National №": "0926",
+            "Type": " Fairy ",
+            "Species": "Puppy Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "10.9kg (24.0lbs)",
+            "Abilities": "1. Own TempoKlutz (hidden ability)",
+            "Local №": "0076 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "37",
+            "Attack": "55",
+            "Defense": "70",
+            "Sp. Atk": "30",
+            "Sp. Def": "55",
+            "Speed": "65"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity.",
+            "Violet": "The yeast in Fidough’s breath is useful for cooking, so this Pokémon has been protected by people since long ago."
+        }
+    },
+    "finizen": {
+        "pokedex_data": {
+            "National №": "0963",
+            "Type": " Water ",
+            "Species": "Dolphin Pokémon",
+            "Height": "1.3m (4′03″)",
+            "Weight": "60.2kg (132.7lbs)",
+            "Abilities": "1. Water Veil",
+            "Local №": "0291 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "45",
+            "Defense": "40",
+            "Sp. Atk": "45",
+            "Sp. Def": "40",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 200 (26.1% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "63",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Water 2",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "40 (10,024–10,280 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.",
+            "Violet": "Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole."
+        }
+    },
+    "flamigo": {
+        "pokedex_data": {
+            "National №": "0973",
+            "Type": " Flying Fighting ",
+            "Species": "Synchronize Pokémon",
+            "Height": "1.6m (5′03″)",
+            "Weight": "37.0kg (81.6lbs)",
+            "Abilities": "1. Scrappy2. Tangled FeetCostar (hidden ability)",
+            "Local №": "0346 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "82",
+            "Attack": "115",
+            "Defense": "74",
+            "Sp. Atk": "75",
+            "Sp. Def": "64",
+            "Speed": "90"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 100 (13.1% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
+            "Violet": "Thanks to a behavior of theirs known as “synchronizing,” an entire flock of these Pokémon can attack simultaneously in perfect harmony."
+        }
+    },
+    "flittle": {
+        "pokedex_data": {
+            "National №": "0955",
+            "Type": " Psychic ",
+            "Species": "Frill Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "1.5kg (3.3lbs)",
+            "Abilities": "1. Anticipation2. FriskSpeed Boost (hidden ability)",
+            "Local №": "0263 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "30",
+            "Attack": "35",
+            "Defense": "30",
+            "Sp. Atk": "55",
+            "Sp. Def": "30",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "51",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Flittle’s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon’s belly.",
+            "Violet": "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge."
+        }
+    },
+    "floragato": {
+        "pokedex_data": {
+            "National №": "0907",
+            "Type": " Grass ",
+            "Species": "Grass Cat Pokémon",
+            "Height": "0.9m (2′11″)",
+            "Weight": "12.2kg (26.9lbs)",
+            "Abilities": "1. OvergrowProtean (hidden ability)",
+            "Local №": "0002 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "61",
+            "Attack": "80",
+            "Defense": "63",
+            "Sp. Atk": "60",
+            "Sp. Def": "63",
+            "Speed": "83"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "144",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Grass",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
+            "Violet": "The hardness of Floragato’s fur depends on the Pokémon’s mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp."
+        }
+    },
+    "flutter-mane": {
+        "pokedex_data": {
+            "National №": "0987",
+            "Type": " Ghost Fairy ",
+            "Species": "Paradox Pokémon",
+            "Height": "1.4m (4′07″)",
+            "Weight": "4.0kg (8.8lbs)",
+            "Abilities": "1. Protosynthesis",
+            "Local №": "0379 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "55",
+            "Attack": "55",
+            "Defense": "55",
+            "Sp. Atk": "135",
+            "Sp. Def": "135",
+            "Speed": "135"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk, 1 Sp. Def, 1 Speed ",
+            "Catch rate": " 30 (3.9% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon has characteristics similar to those of Flutter Mane, a creature mentioned in a certain book.",
+            "Violet": "It has similar features to a ghostly pterosaur that was covered in a paranormal magazine, but the two have little else in common."
+        }
+    },
+    "frigibax": {
+        "pokedex_data": {
+            "National №": "0996",
+            "Type": " Dragon Ice ",
+            "Species": "Ice Fin Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "17.0kg (37.5lbs)",
+            "Abilities": "1. Thermal ExchangeIce Body (hidden ability)",
+            "Local №": "0388 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "65",
+            "Attack": "75",
+            "Defense": "45",
+            "Sp. Atk": "35",
+            "Sp. Def": "45",
+            "Speed": "55"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "64",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "40 (10,024–10,280 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
+            "Violet": "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator."
+        }
+    },
+    "fuecoco": {
+        "pokedex_data": {
+            "National №": "0909",
+            "Type": " Fire ",
+            "Species": "Fire Croc Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "9.8kg (21.6lbs)",
+            "Abilities": "1. BlazeUnaware (hidden ability)",
+            "Local №": "0004 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "67",
+            "Attack": "45",
+            "Defense": "59",
+            "Sp. Atk": "63",
+            "Sp. Def": "40",
+            "Speed": "36"
+        },
+        "trainig": {
+            "EV yield": " 1 HP ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
+            "Violet": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco’s head and flickers to and fro."
+        }
+    },
+    "garganacl": {
+        "pokedex_data": {
+            "National №": "0934",
+            "Type": " Rock ",
+            "Species": "Rock Salt Pokémon",
+            "Height": "2.3m (7′07″)",
+            "Weight": "240.0kg (529.1lbs)",
+            "Abilities": "1. Purifying Salt2. SturdyClear Body (hidden ability)",
+            "Local №": "0131 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "100",
+            "Attack": "100",
+            "Defense": "130",
+            "Sp. Atk": "45",
+            "Sp. Def": "90",
+            "Speed": "35"
+        },
+        "trainig": {
+            "EV yield": " 3 Defense ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "250",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
+            "Violet": "Many Pokémon gather around Garganacl, hoping to lick at its mineral-rich salt."
+        }
+    },
+    "gholdengo": {
+        "pokedex_data": {
+            "National №": "1000",
+            "Type": " Steel Ghost ",
+            "Species": "Coin Entity Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "30.0kg (66.1lbs)",
+            "Abilities": "1. Good as Gold",
+            "Local №": "0392 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "87",
+            "Attack": "60",
+            "Defense": "95",
+            "Sp. Atk": "133",
+            "Sp. Def": "91",
+            "Speed": "84"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "275",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+            "Violet": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession."
+        }
+    },
+    "gimmighoul": {
+        "pokedex_data": {
+            "National №": "0999",
+            "Type": " Ghost ",
+            "Species": "Coin Chest Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "5.0kg (11.0lbs)",
+            "Abilities": "1. Rattled",
+            "Local №": "0391 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "45",
+            "Attack": "30",
+            "Defense": "70",
+            "Sp. Atk": "75",
+            "Sp. Def": "70",
+            "Speed": "10"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "60",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
+            "Violet": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon."
+        }
+    },
+    "glimmet": {
+        "pokedex_data": {
+            "National №": "0969",
+            "Type": " Rock Poison ",
+            "Species": "Ore Pokémon",
+            "Height": "0.7m (2′04″)",
+            "Weight": "8.0kg (17.6lbs)",
+            "Abilities": "1. Toxic DebrisCorrosion (hidden ability)",
+            "Local №": "0308 (Scarlet/Violet)0156 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "48",
+            "Attack": "35",
+            "Defense": "42",
+            "Sp. Atk": "105",
+            "Sp. Def": "60",
+            "Speed": "60"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk ",
+            "Catch rate": " 70 (9.1% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "70",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "30 (7,454–7,710 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
+            "Violet": "Glimmet’s toxic mineral crystals look just like flower petals. This Pokémon scatters poisonous powder like pollen to protect itself."
+        }
+    },
+    "glimmora": {
+        "pokedex_data": {
+            "National №": "0970",
+            "Type": " Rock Poison ",
+            "Species": "Ore Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "45.0kg (99.2lbs)",
+            "Abilities": "1. Toxic DebrisCorrosion (hidden ability)",
+            "Local №": "0309 (Scarlet/Violet)0157 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "83",
+            "Attack": "55",
+            "Defense": "90",
+            "Sp. Atk": "130",
+            "Sp. Def": "81",
+            "Speed": "86"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 25 (3.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "184",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "30 (7,454–7,710 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
+            "Violet": "Glimmora’s petals are made of crystallized poison energy. It has recently become evident that these petals resemble Tera Jewels."
+        }
+    },
+    "gouging-fire": {
+        "pokedex_data": {
+            "National №": "1020",
+            "Type": " Fire Dragon ",
+            "Species": "Paradox Pokémon",
+            "Height": "3.5m (11′06″)",
+            "Weight": "590.0kg (1300.7lbs)",
+            "Abilities": "1. Protosynthesis",
+            "Local №": "0236 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "105",
+            "Attack": "115",
+            "Defense": "121",
+            "Sp. Atk": "65",
+            "Sp. Def": "93",
+            "Speed": "91"
+        },
+        "trainig": {
+            "EV yield": " 3 Defense ",
+            "Catch rate": " 10 (1.3% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "grafaiai": {
+        "pokedex_data": {
+            "National №": "0945",
+            "Type": " Poison Normal ",
+            "Species": "Toxic Monkey Pokémon",
+            "Height": "0.7m (2′04″)",
+            "Weight": "27.2kg (60.0lbs)",
+            "Abilities": "1. Unburden2. Poison TouchPrankster (hidden ability)",
+            "Local №": "0203 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "63",
+            "Attack": "95",
+            "Defense": "65",
+            "Sp. Atk": "80",
+            "Sp. Def": "72",
+            "Speed": "110"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 90 (11.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "170",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
+            "Violet": "Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life."
+        }
+    },
+    "great-tusk": {
+        "pokedex_data": {
+            "National №": "0984",
+            "Type": " Ground Fighting ",
+            "Species": "Paradox Pokémon",
+            "Height": "2.2m (7′03″)",
+            "Weight": "320.0kg (705.5lbs)",
+            "Abilities": "1. Protosynthesis",
+            "Local №": "0376 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "115",
+            "Attack": "131",
+            "Defense": "131",
+            "Sp. Atk": "53",
+            "Sp. Def": "53",
+            "Speed": "87"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 30 (3.9% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Sightings of this Pokémon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book.",
+            "Violet": "This creature resembles a mysterious Pokémon that, according to a paranormal magazine, has lived since ancient times."
+        }
+    },
+    "greavard": {
+        "pokedex_data": {
+            "National №": "0971",
+            "Type": " Ghost ",
+            "Species": "Ghost Dog Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "35.0kg (77.2lbs)",
+            "Abilities": "1. PickupFluffy (hidden ability)",
+            "Local №": "0311 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "61",
+            "Defense": "60",
+            "Sp. Atk": "30",
+            "Sp. Def": "55",
+            "Speed": "34"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.",
+            "Violet": "This friendly Pokémon doesn’t like being alone. Pay it even the slightest bit of attention, and it will follow you forever."
+        }
+    },
+    "houndstone": {
+        "pokedex_data": {
+            "National №": "0972",
+            "Type": " Ghost ",
+            "Species": "Ghost Dog Pokémon",
+            "Height": "2.0m (6′07″)",
+            "Weight": "15.0kg (33.1lbs)",
+            "Abilities": "1. Sand RushFluffy (hidden ability)",
+            "Local №": "0312 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "72",
+            "Attack": "101",
+            "Defense": "100",
+            "Sp. Atk": "50",
+            "Sp. Def": "97",
+            "Speed": "68"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 60 (7.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "171",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master.",
+            "Violet": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone touching the protuberance atop its head."
+        }
+    },
+    "hydrapple": {
+        "pokedex_data": {
+            "National №": "1019",
+            "Type": " Grass Dragon ",
+            "Species": "—",
+            "Height": "1.8m (5′11″)",
+            "Weight": "93.0kg (205.0lbs)",
+            "Abilities": "1. Supersweet Syrup2. RegeneratorSticky Hold (hidden ability)",
+            "Local №": "0163 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "106",
+            "Attack": "80",
+            "Defense": "110",
+            "Sp. Atk": "120",
+            "Sp. Def": "80",
+            "Speed": "44"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 10 (1.3% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Erratic"
+        },
+        "breeding": {
+            "Egg Groups": "Dragon, Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "iron-boulder": {
+        "pokedex_data": {
+            "National №": "1022",
+            "Type": " Rock Psychic ",
+            "Species": "Paradox Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "162.5kg (358.3lbs)",
+            "Abilities": "1. Quark Drive",
+            "Local №": "0239 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "120",
+            "Defense": "80",
+            "Sp. Atk": "68",
+            "Sp. Def": "108",
+            "Speed": "124"
+        },
+        "trainig": {
+            "EV yield": " 3 Speed ",
+            "Catch rate": " 10 (1.3% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "iron-bundle": {
+        "pokedex_data": {
+            "National №": "0991",
+            "Type": " Ice Water ",
+            "Species": "Paradox Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "11.0kg (24.3lbs)",
+            "Abilities": "1. Quark Drive",
+            "Local №": "0383 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "56",
+            "Attack": "80",
+            "Defense": "114",
+            "Sp. Atk": "124",
+            "Sp. Def": "60",
+            "Speed": "136"
+        },
+        "trainig": {
+            "EV yield": " 3 Speed ",
+            "Catch rate": " 50 (6.5% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization.",
+            "Violet": "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon."
+        }
+    },
+    "iron-crown": {
+        "pokedex_data": {
+            "National №": "1023",
+            "Type": " Steel Psychic ",
+            "Species": "Paradox Pokémon",
+            "Height": "1.6m (5′03″)",
+            "Weight": "156.0kg (343.9lbs)",
+            "Abilities": "1. Quark Drive",
+            "Local №": "0238 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "72",
+            "Defense": "100",
+            "Sp. Atk": "122",
+            "Sp. Def": "108",
+            "Speed": "98"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 10 (1.3% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "iron-hands": {
+        "pokedex_data": {
+            "National №": "0992",
+            "Type": " Fighting Electric ",
+            "Species": "Paradox Pokémon",
+            "Height": "1.8m (5′11″)",
+            "Weight": "380.7kg (839.3lbs)",
+            "Abilities": "1. Quark Drive",
+            "Local №": "0384 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "154",
+            "Attack": "140",
+            "Defense": "108",
+            "Sp. Atk": "50",
+            "Sp. Def": "68",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 50 (6.5% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It is very similar to a cyborg covered exclusively by a paranormal magazine. The cyborg was said to be the modified form of a certain athlete.",
+            "Violet": "This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal."
+        }
+    },
+    "iron-jugulis": {
+        "pokedex_data": {
+            "National №": "0993",
+            "Type": " Dark Flying ",
+            "Species": "Paradox Pokémon",
+            "Height": "1.3m (4′03″)",
+            "Weight": "111.0kg (244.7lbs)",
+            "Abilities": "1. Quark Drive",
+            "Local №": "0385 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "94",
+            "Attack": "80",
+            "Defense": "86",
+            "Sp. Atk": "122",
+            "Sp. Def": "80",
+            "Speed": "108"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 30 (3.9% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It resembles a certain Pokémon introduced in a paranormal magazine, described as the offspring of a Hydreigon that fell in love with a robot.",
+            "Violet": "It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon."
+        }
+    },
+    "iron-leaves": {
+        "pokedex_data": {
+            "National №": "1010",
+            "Type": " Grass Psychic ",
+            "Species": "Paradox Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "125.0kg (275.6lbs)",
+            "Abilities": "1. Quark Drive",
+            "Local №": "0242 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "130",
+            "Defense": "88",
+            "Sp. Atk": "70",
+            "Sp. Def": "108",
+            "Speed": "104"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 5 (0.7% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "iron-moth": {
+        "pokedex_data": {
+            "National №": "0994",
+            "Type": " Fire Poison ",
+            "Species": "Paradox Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "36.0kg (79.4lbs)",
+            "Abilities": "1. Quark Drive",
+            "Local №": "0386 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "70",
+            "Defense": "60",
+            "Sp. Atk": "140",
+            "Sp. Def": "110",
+            "Speed": "110"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 30 (3.9% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity.",
+            "Violet": "No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book."
+        }
+    },
+    "iron-thorns": {
+        "pokedex_data": {
+            "National №": "0995",
+            "Type": " Rock Electric ",
+            "Species": "Paradox Pokémon",
+            "Height": "1.6m (5′03″)",
+            "Weight": "303.0kg (668.0lbs)",
+            "Abilities": "1. Quark Drive",
+            "Local №": "0387 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "100",
+            "Attack": "134",
+            "Defense": "110",
+            "Sp. Atk": "70",
+            "Sp. Def": "84",
+            "Speed": "72"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 30 (3.9% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It has some similarities to a Pokémon introduced in a dubious magazine as a Tyranitar from one billion years into the future.",
+            "Violet": "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns."
+        }
+    },
+    "iron-treads": {
+        "pokedex_data": {
+            "National №": "0990",
+            "Type": " Ground Steel ",
+            "Species": "Paradox Pokémon",
+            "Height": "0.9m (2′11″)",
+            "Weight": "240.0kg (529.1lbs)",
+            "Abilities": "1. Quark Drive",
+            "Local №": "0382 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "112",
+            "Defense": "120",
+            "Sp. Atk": "72",
+            "Sp. Def": "70",
+            "Speed": "106"
+        },
+        "trainig": {
+            "EV yield": " 3 Defense ",
+            "Catch rate": " 30 (3.9% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
+            "Violet": "Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal."
+        }
+    },
+    "iron-valiant": {
+        "pokedex_data": {
+            "National №": "1006",
+            "Type": " Fairy Fighting ",
+            "Species": "Paradox Pokémon",
+            "Height": "1.4m (4′07″)",
+            "Weight": "35.0kg (77.2lbs)",
+            "Abilities": "1. Quark Drive",
+            "Local №": "0398 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "74",
+            "Attack": "130",
+            "Defense": "90",
+            "Sp. Atk": "120",
+            "Sp. Def": "60",
+            "Speed": "116"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 10 (1.3% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "295",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It has some similarities to a mad scientist’s invention covered in a paranormal magazine.",
+            "Violet": "It’s possible that this is the object listed as Iron Valiant in a certain expedition journal."
+        }
+    },
+    "kilowattrel": {
+        "pokedex_data": {
+            "National №": "0941",
+            "Type": " Electric Flying ",
+            "Species": "Frigatebird Pokémon",
+            "Height": "1.4m (4′07″)",
+            "Weight": "38.6kg (85.1lbs)",
+            "Abilities": "1. Wind Power2. Volt AbsorbCompetitive (hidden ability)",
+            "Local №": "0178 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "70",
+            "Defense": "60",
+            "Sp. Atk": "105",
+            "Sp. Def": "60",
+            "Speed": "125"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 90 (11.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "172",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying, Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.",
+            "Violet": "It uses its throat sac to store electricity generated by its wings. There’s hardly any oil in its feathers, so it is a poor swimmer."
+        }
+    },
+    "kingambit": {
+        "pokedex_data": {
+            "National №": "0983",
+            "Type": " Dark Steel ",
+            "Species": "Big Blade Pokémon",
+            "Height": "2.0m (6′07″)",
+            "Weight": "120.0kg (264.6lbs)",
+            "Abilities": "1. Defiant2. Supreme OverlordPressure (hidden ability)",
+            "Local №": "0369 (Scarlet/Violet)0188 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "100",
+            "Attack": "135",
+            "Defense": "120",
+            "Sp. Atk": "60",
+            "Sp. Def": "85",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 25 (3.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "275",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Human-Like",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
+            "Violet": "Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing."
+        }
+    },
+    "klawf": {
+        "pokedex_data": {
+            "National №": "0950",
+            "Type": " Rock ",
+            "Species": "Ambush Pokémon",
+            "Height": "1.3m (4′03″)",
+            "Weight": "79.0kg (174.2lbs)",
+            "Abilities": "1. Anger Shell2. Shell ArmorRegenerator (hidden ability)",
+            "Local №": "0249 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "100",
+            "Defense": "115",
+            "Sp. Atk": "35",
+            "Sp. Def": "55",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "158",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Water 3",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "35 (8,739–8,995 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Klawf hangs upside-down from cliffs, waiting for prey. But Klawf can’t remain in this position for long because its blood rushes to its head.",
+            "Violet": "This Pokémon lives on sheer cliffs. It sidesteps opponents’ attacks, then lunges for their weak spots with its claws."
+        }
+    },
+    "koraidon": {
+        "pokedex_data": {
+            "National №": "1007",
+            "Type": " Fighting Dragon ",
+            "Species": "Paradox Pokémon",
+            "Height": "2.5m (8′02″)",
+            "Weight": "303.0kg (668.0lbs)",
+            "Abilities": "1. Orichalcum Pulse",
+            "Local №": "0399 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "100",
+            "Attack": "135",
+            "Defense": "115",
+            "Sp. Atk": "85",
+            "Sp. Def": "100",
+            "Speed": "135"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "335",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
+            "Violet": "This Pokémon resembles Cyclizar, but it is far burlier and more ferocious. Nothing is known about its ecology or other features."
+        }
+    },
+    "lechonk": {
+        "pokedex_data": {
+            "National №": "0915",
+            "Type": " Normal ",
+            "Species": "Hog Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "10.2kg (22.5lbs)",
+            "Abilities": "1. Aroma Veil2. GluttonyThick Fat (hidden ability)",
+            "Local №": "0010 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "54",
+            "Attack": "45",
+            "Defense": "40",
+            "Sp. Atk": "35",
+            "Sp. Def": "45",
+            "Speed": "35"
+        },
+        "trainig": {
+            "EV yield": " 1 HP ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "51",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It searches for food all day. It possesses a keen sense of smell but doesn’t use it for anything other than foraging.",
+            "Violet": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest."
+        }
+    },
+    "lokix": {
+        "pokedex_data": {
+            "National №": "0920",
+            "Type": " Bug Dark ",
+            "Species": "Grasshopper Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "17.5kg (38.6lbs)",
+            "Abilities": "1. SwarmTinted Lens (hidden ability)",
+            "Local №": "0015 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "71",
+            "Attack": "102",
+            "Defense": "78",
+            "Sp. Atk": "52",
+            "Sp. Def": "55",
+            "Speed": "92"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 30 (3.9% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "158",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
+            "Violet": "It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can’t stay in this mode for long."
+        }
+    },
+    "mabosstiff": {
+        "pokedex_data": {
+            "National №": "0943",
+            "Type": " Dark ",
+            "Species": "Boss Pokémon",
+            "Height": "1.1m (3′07″)",
+            "Weight": "61.0kg (134.5lbs)",
+            "Abilities": "1. Intimidate2. Guard DogStakeout (hidden ability)",
+            "Local №": "0197 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "120",
+            "Defense": "90",
+            "Sp. Atk": "60",
+            "Sp. Def": "70",
+            "Speed": "85"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 75 (9.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "177",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
+            "Violet": "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family."
+        }
+    },
+    "maschiff": {
+        "pokedex_data": {
+            "National №": "0942",
+            "Type": " Dark ",
+            "Species": "Rascal Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "16.0kg (35.3lbs)",
+            "Abilities": "1. Intimidate2. Run AwayStakeout (hidden ability)",
+            "Local №": "0196 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "60",
+            "Attack": "78",
+            "Defense": "60",
+            "Sp. Atk": "40",
+            "Sp. Def": "51",
+            "Speed": "51"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 150 (19.6% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "68",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff’s face.",
+            "Violet": "Its well-developed jaw and fangs are strong enough to crunch through boulders, and its thick fat makes for an excellent defense."
+        }
+    },
+    "maushold": {
+        "pokedex_data": {
+            "National №": "0925",
+            "Type": " Normal ",
+            "Species": "Family Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "2.8kg (6.2lbs)",
+            "Abilities": "1. Friend Guard2. Cheek PouchTechnician (hidden ability)",
+            "Local №": "0072 (Scarlet/Violet)0098 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "74",
+            "Attack": "75",
+            "Defense": "70",
+            "Sp. Atk": "65",
+            "Sp. Def": "75",
+            "Speed": "111"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 75 (9.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "165",
+            "Growth Rate": "Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy, Field",
+            "Gender": "Genderless",
+            "Egg cycles": "10 (2,314–2,570 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "The two little ones just appeared one day. The group might be a family of related Pokémon, but nobody knows for sure.",
+            "Violet": "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight."
+        }
+    },
+    "meowscarada": {
+        "pokedex_data": {
+            "National №": "0908",
+            "Type": " Grass Dark ",
+            "Species": "Magician Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "31.2kg (68.8lbs)",
+            "Abilities": "1. OvergrowProtean (hidden ability)",
+            "Local №": "0003 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "76",
+            "Attack": "110",
+            "Defense": "70",
+            "Sp. Atk": "81",
+            "Sp. Def": "70",
+            "Speed": "123"
+        },
+        "trainig": {
+            "EV yield": " 3 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Grass",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
+            "Violet": "With skillful misdirection, it rigs foes with pollen-packed flower bombs. Meowscarada sets off the bombs before its foes realize what’s going on."
+        }
+    },
+    "miraidon": {
+        "pokedex_data": {
+            "National №": "1008",
+            "Type": " Electric Dragon ",
+            "Species": "Paradox Pokémon",
+            "Height": "3.5m (11′06″)",
+            "Weight": "240.0kg (529.1lbs)",
+            "Abilities": "1. Hadron Engine",
+            "Local №": "0400 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "100",
+            "Attack": "85",
+            "Defense": "100",
+            "Sp. Atk": "135",
+            "Sp. Def": "115",
+            "Speed": "135"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "335",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+            "Violet": "This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning."
+        }
+    },
+    "munkidori": {
+        "pokedex_data": {
+            "National №": "1015",
+            "Type": " Poison Psychic ",
+            "Species": "Retainer Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "12.2kg (26.9lbs)",
+            "Abilities": "1. Toxic ChainFrisk (hidden ability)",
+            "Local №": "0198 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "88",
+            "Attack": "75",
+            "Defense": "66",
+            "Sp. Atk": "130",
+            "Sp. Def": "90",
+            "Speed": "106"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "100% male, 0% female",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "nacli": {
+        "pokedex_data": {
+            "National №": "0932",
+            "Type": " Rock ",
+            "Species": "Rock Salt Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "16.0kg (35.3lbs)",
+            "Abilities": "1. Purifying Salt2. SturdyClear Body (hidden ability)",
+            "Local №": "0129 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "55",
+            "Attack": "55",
+            "Defense": "75",
+            "Sp. Atk": "35",
+            "Sp. Def": "35",
+            "Speed": "25"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
+            "Violet": "The ground scrapes its body as it travels, causing it to leave salt behind. Salt is constantly being created and replenished inside Nacli’s body."
+        }
+    },
+    "naclstack": {
+        "pokedex_data": {
+            "National №": "0933",
+            "Type": " Rock ",
+            "Species": "Rock Salt Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "105.0kg (231.5lbs)",
+            "Abilities": "1. Purifying Salt2. SturdyClear Body (hidden ability)",
+            "Local №": "0130 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "60",
+            "Attack": "60",
+            "Defense": "100",
+            "Sp. Atk": "35",
+            "Sp. Def": "65",
+            "Speed": "35"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "124",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body.",
+            "Violet": "It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet."
+        }
+    },
+    "nymble": {
+        "pokedex_data": {
+            "National №": "0919",
+            "Type": " Bug ",
+            "Species": "Grasshopper Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "1.0kg (2.2lbs)",
+            "Abilities": "1. SwarmTinted Lens (hidden ability)",
+            "Local №": "0014 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "33",
+            "Attack": "46",
+            "Defense": "40",
+            "Sp. Atk": "21",
+            "Sp. Def": "25",
+            "Speed": "45"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 20 (lower than normal) ",
+            "Base Exp.": "42",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.",
+            "Violet": "It’s highly skilled at a fighting style in which it uses its jumping capabilities to dodge incoming attacks while also dealing damage to opponents."
+        }
+    },
+    "ogerpon": {
+        "pokedex_data": {
+            "National №": "1017",
+            "Type": " Grass ",
+            "Species": "Mask Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "39.8kg (87.7lbs)",
+            "Abilities": "1. DefiantEmbody Aspect (hidden ability)",
+            "Local №": "0200 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "120",
+            "Defense": "84",
+            "Sp. Atk": "60",
+            "Sp. Def": "96",
+            "Speed": "110"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 5 (0.7% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "0% male, 100% female",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "oinkologne": {
+        "pokedex_data": {
+            "National №": "0916",
+            "Type": " Normal ",
+            "Species": "Hog Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "120.0kg (264.6lbs)",
+            "Abilities": "1. Lingering Aroma2. GluttonyThick Fat (hidden ability)",
+            "Local №": "0011 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "110",
+            "Attack": "100",
+            "Defense": "75",
+            "Sp. Atk": "59",
+            "Sp. Def": "80",
+            "Speed": "65"
+        },
+        "trainig": {
+            "EV yield": " 2 HP ",
+            "Catch rate": " 100 (13.1% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "171",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "100% male, 0% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.",
+            "Violet": "It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body."
+        }
+    },
+    "okidogi": {
+        "pokedex_data": {
+            "National №": "1014",
+            "Type": " Poison Fighting ",
+            "Species": "Retainer Pokémon",
+            "Height": "1.8m (5′11″)",
+            "Weight": "92.0kg (202.8lbs)",
+            "Abilities": "1. Toxic ChainGuard Dog (hidden ability)",
+            "Local №": "0197 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "88",
+            "Attack": "128",
+            "Defense": "115",
+            "Sp. Atk": "58",
+            "Sp. Def": "86",
+            "Speed": "80"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "100% male, 0% female",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "orthworm": {
+        "pokedex_data": {
+            "National №": "0968",
+            "Type": " Steel ",
+            "Species": "Earthworm Pokémon",
+            "Height": "2.5m (8′02″)",
+            "Weight": "310.0kg (683.4lbs)",
+            "Abilities": "1. Earth EaterSand Veil (hidden ability)",
+            "Local №": "0296 (Scarlet/Violet)0096 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "85",
+            "Defense": "145",
+            "Sp. Atk": "60",
+            "Sp. Def": "55",
+            "Speed": "65"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 25 (3.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "240",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "35 (8,739–8,995 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
+            "Violet": "This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil."
+        }
+    },
+    "palafin": {
+        "pokedex_data": {
+            "National №": "0964",
+            "Type": " Water ",
+            "Species": "Dolphin Pokémon",
+            "Height": "1.3m (4′03″)",
+            "Weight": "60.2kg (132.7lbs)",
+            "Abilities": "1. Zero to Hero",
+            "Local №": "0292 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "100",
+            "Attack": "70",
+            "Defense": "72",
+            "Sp. Atk": "53",
+            "Sp. Def": "62",
+            "Speed": "100"
+        },
+        "trainig": {
+            "EV yield": " 2 HP ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "160",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Water 2",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "40 (10,024–10,280 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation.",
+            "Violet": "Its physical capabilities are no different than a Finizen’s, but when its allies are in danger, it transforms and powers itself up."
+        }
+    },
+    "pawmi": {
+        "pokedex_data": {
+            "National №": "0921",
+            "Type": " Electric ",
+            "Species": "Mouse Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "2.5kg (5.5lbs)",
+            "Abilities": "1. Static2. Natural CureIron Fist (hidden ability)",
+            "Local №": "0022 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "45",
+            "Attack": "50",
+            "Defense": "20",
+            "Sp. Atk": "40",
+            "Sp. Def": "25",
+            "Speed": "60"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "48",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
+            "Violet": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs."
+        }
+    },
+    "pawmo": {
+        "pokedex_data": {
+            "National №": "0922",
+            "Type": " Electric Fighting ",
+            "Species": "Mouse Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "6.5kg (14.3lbs)",
+            "Abilities": "1. Volt Absorb2. Natural CureIron Fist (hidden ability)",
+            "Local №": "0023 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "60",
+            "Attack": "75",
+            "Defense": "40",
+            "Sp. Atk": "50",
+            "Sp. Def": "40",
+            "Speed": "85"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 80 (10.5% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "123",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
+            "Violet": "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously."
+        }
+    },
+    "pawmot": {
+        "pokedex_data": {
+            "National №": "0923",
+            "Type": " Electric Fighting ",
+            "Species": "Hands-On Pokémon",
+            "Height": "0.9m (2′11″)",
+            "Weight": "41.0kg (90.4lbs)",
+            "Abilities": "1. Volt Absorb2. Natural CureIron Fist (hidden ability)",
+            "Local №": "0024 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "115",
+            "Defense": "70",
+            "Sp. Atk": "70",
+            "Sp. Def": "60",
+            "Speed": "105"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "245",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
+            "Violet": "Pawmot’s fluffy fur acts as a battery. It can store the same amount of electricity as an electric car."
+        }
+    },
+    "pecharunt": {
+        "pokedex_data": {
+            "National №": "1025",
+            "Type": " Poison Ghost ",
+            "Species": "Subjugation Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "0.3kg (0.7lbs)",
+            "Abilities": "1. Poison Puppeteer",
+            "Local №": "0243 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "88",
+            "Attack": "88",
+            "Defense": "160",
+            "Sp. Atk": "88",
+            "Sp. Def": "88",
+            "Speed": "88"
+        },
+        "trainig": {
+            "EV yield": " 3 Defense ",
+            "Catch rate": " 3 (0.4% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "poltchageist": {
+        "pokedex_data": {
+            "National №": "1012",
+            "Type": " Grass Ghost ",
+            "Species": "Matcha Pokémon",
+            "Height": "0.1m (0′04″)",
+            "Weight": "1.1kg (2.4lbs)",
+            "Abilities": "1. HospitalityHeatproof (hidden ability)",
+            "Local №": "0076 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "45",
+            "Defense": "45",
+            "Sp. Atk": "74",
+            "Sp. Def": "54",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous, Mineral",
+            "Gender": "Genderless",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "quaquaval": {
+        "pokedex_data": {
+            "National №": "0914",
+            "Type": " Water Fighting ",
+            "Species": "Dancer Pokémon",
+            "Height": "1.8m (5′11″)",
+            "Weight": "61.9kg (136.5lbs)",
+            "Abilities": "1. TorrentMoxie (hidden ability)",
+            "Local №": "0009 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "85",
+            "Attack": "120",
+            "Defense": "80",
+            "Sp. Atk": "85",
+            "Sp. Def": "75",
+            "Speed": "85"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying, Water 1",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "A single kick from a Quaquaval can send a truck rolling. This Pokémon uses its powerful legs to perform striking dances from far-off lands.",
+            "Violet": "Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes."
+        }
+    },
+    "quaxly": {
+        "pokedex_data": {
+            "National №": "0912",
+            "Type": " Water ",
+            "Species": "Duckling Pokémon",
+            "Height": "0.5m (1′08″)",
+            "Weight": "6.1kg (13.4lbs)",
+            "Abilities": "1. TorrentMoxie (hidden ability)",
+            "Local №": "0007 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "55",
+            "Attack": "65",
+            "Defense": "45",
+            "Sp. Atk": "50",
+            "Sp. Def": "45",
+            "Speed": "50"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying, Water 1",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
+            "Violet": "Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things."
+        }
+    },
+    "quaxwell": {
+        "pokedex_data": {
+            "National №": "0913",
+            "Type": " Water ",
+            "Species": "Practicing Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "21.5kg (47.4lbs)",
+            "Abilities": "1. TorrentMoxie (hidden ability)",
+            "Local №": "0008 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "70",
+            "Attack": "85",
+            "Defense": "65",
+            "Sp. Atk": "65",
+            "Sp. Def": "60",
+            "Speed": "65"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "144",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying, Water 1",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.",
+            "Violet": "The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines."
+        }
+    },
+    "rabsca": {
+        "pokedex_data": {
+            "National №": "0954",
+            "Type": " Bug Psychic ",
+            "Species": "Rolling Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "3.5kg (7.7lbs)",
+            "Abilities": "1. SynchronizeTelepathy (hidden ability)",
+            "Local №": "0255 (Scarlet/Violet)0031 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "75",
+            "Attack": "50",
+            "Defense": "85",
+            "Sp. Atk": "115",
+            "Sp. Def": "100",
+            "Speed": "45"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "165",
+            "Growth Rate": "Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.",
+            "Violet": "An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably."
+        }
+    },
+    "raging-bolt": {
+        "pokedex_data": {
+            "National №": "1021",
+            "Type": " Electric Dragon ",
+            "Species": "Paradox Pokémon",
+            "Height": "5.2m (17′01″)",
+            "Weight": "480.0kg (1058.2lbs)",
+            "Abilities": "1. Protosynthesis",
+            "Local №": "0237 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "125",
+            "Attack": "73",
+            "Defense": "91",
+            "Sp. Atk": "137",
+            "Sp. Def": "89",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 10 (1.3% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "rellor": {
+        "pokedex_data": {
+            "National №": "0953",
+            "Type": " Bug ",
+            "Species": "Rolling Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "1.0kg (2.2lbs)",
+            "Abilities": "1. Compound EyesShed Skin (hidden ability)",
+            "Local №": "0254 (Scarlet/Violet)0030 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "41",
+            "Attack": "50",
+            "Defense": "60",
+            "Sp. Atk": "31",
+            "Sp. Def": "58",
+            "Speed": "30"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "54",
+            "Growth Rate": "Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
+            "Violet": "It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve."
+        }
+    },
+    "revavroom": {
+        "pokedex_data": {
+            "National №": "0966",
+            "Type": " Steel Poison ",
+            "Species": "Multi-Cyl Pokémon",
+            "Height": "1.8m (5′11″)",
+            "Weight": "120.0kg (264.6lbs)",
+            "Abilities": "1. OvercoatFilter (hidden ability)",
+            "Local №": "0294 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "119",
+            "Defense": "90",
+            "Sp. Atk": "54",
+            "Sp. Def": "67",
+            "Speed": "90"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 75 (9.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "175",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders—now numbering eight—to generate energy.",
+            "Violet": "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids."
+        }
+    },
+    "roaring-moon": {
+        "pokedex_data": {
+            "National №": "1005",
+            "Type": " Dragon Dark ",
+            "Species": "Paradox Pokémon",
+            "Height": "2.0m (6′07″)",
+            "Weight": "380.0kg (837.8lbs)",
+            "Abilities": "1. Protosynthesis",
+            "Local №": "0397 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "105",
+            "Attack": "139",
+            "Defense": "71",
+            "Sp. Atk": "55",
+            "Sp. Def": "101",
+            "Speed": "119"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 10 (1.3% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "295",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
+            "Violet": "According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region."
+        }
+    },
+    "sandy-shocks": {
+        "pokedex_data": {
+            "National №": "0989",
+            "Type": " Electric Ground ",
+            "Species": "Paradox Pokémon",
+            "Height": "2.3m (7′07″)",
+            "Weight": "60.0kg (132.3lbs)",
+            "Abilities": "1. Protosynthesis",
+            "Local №": "0381 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "85",
+            "Attack": "81",
+            "Defense": "97",
+            "Sp. Atk": "121",
+            "Sp. Def": "85",
+            "Speed": "101"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 30 (3.9% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "No records exist of this Pokémon being caught. Data is lacking, but the Pokémon’s traits match up with a creature shown in an expedition journal.",
+            "Violet": "It slightly resembles a Magneton that lived for 10,000 years and was featured in an article in a paranormal magazine."
+        }
+    },
+    "scovillain": {
+        "pokedex_data": {
+            "National №": "0952",
+            "Type": " Grass Fire ",
+            "Species": "Spicy Pepper Pokémon",
+            "Height": "0.9m (2′11″)",
+            "Weight": "15.0kg (33.1lbs)",
+            "Abilities": "1. Chlorophyll2. InsomniaMoody (hidden ability)",
+            "Local №": "0251 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "65",
+            "Attack": "108",
+            "Defense": "65",
+            "Sp. Atk": "108",
+            "Sp. Def": "65",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 75 (9.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "170",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
+            "Violet": "The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it."
+        }
+    },
+    "scream-tail": {
+        "pokedex_data": {
+            "National №": "0985",
+            "Type": " Fairy Psychic ",
+            "Species": "Paradox Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "8.0kg (17.6lbs)",
+            "Abilities": "1. Protosynthesis",
+            "Local №": "0377 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "115",
+            "Attack": "65",
+            "Defense": "99",
+            "Sp. Atk": "65",
+            "Sp. Def": "115",
+            "Speed": "111"
+        },
+        "trainig": {
+            "EV yield": " 3 HP ",
+            "Catch rate": " 50 (6.5% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.",
+            "Violet": "It resembles a mysterious Pokémon described in a paranormal magazine as a Jigglypuff from one billion years ago."
+        }
+    },
+    "shroodle": {
+        "pokedex_data": {
+            "National №": "0944",
+            "Type": " Poison Normal ",
+            "Species": "Toxic Mouse Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "0.7kg (1.5lbs)",
+            "Abilities": "1. Unburden2. PickpocketPrankster (hidden ability)",
+            "Local №": "0202 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "65",
+            "Defense": "35",
+            "Sp. Atk": "40",
+            "Sp. Def": "35",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "58",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
+            "Violet": "To keep enemies away from its territory, it paints markings around its nest using a poisonous liquid that has an acrid odor."
+        }
+    },
+    "sinistcha": {
+        "pokedex_data": {
+            "National №": "1013",
+            "Type": " Grass Ghost ",
+            "Species": "Matcha Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "2.2kg (4.9lbs)",
+            "Abilities": "1. HospitalityHeatproof (hidden ability)",
+            "Local №": "0077 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "71",
+            "Attack": "60",
+            "Defense": "106",
+            "Sp. Atk": "121",
+            "Sp. Def": "80",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 60 (7.8% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Amorphous, Mineral",
+            "Gender": "Genderless",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "skeledirge": {
+        "pokedex_data": {
+            "National №": "0911",
+            "Type": " Fire Ghost ",
+            "Species": "Singer Pokémon",
+            "Height": "1.6m (5′03″)",
+            "Weight": "326.5kg (719.8lbs)",
+            "Abilities": "1. BlazeUnaware (hidden ability)",
+            "Local №": "0006 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "104",
+            "Attack": "75",
+            "Defense": "100",
+            "Sp. Atk": "110",
+            "Sp. Def": "75",
+            "Speed": "66"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "265",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirge’s head gained a soul.",
+            "Violet": "Skeledirge’s gentle singing soothes the souls of all that hear it. It burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit."
+        }
+    },
+    "slither-wing": {
+        "pokedex_data": {
+            "National №": "0988",
+            "Type": " Bug Fighting ",
+            "Species": "Paradox Pokémon",
+            "Height": "3.2m (10′06″)",
+            "Weight": "92.0kg (202.8lbs)",
+            "Abilities": "1. Protosynthesis",
+            "Local №": "0380 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "85",
+            "Attack": "135",
+            "Defense": "79",
+            "Sp. Atk": "85",
+            "Sp. Def": "105",
+            "Speed": "81"
+        },
+        "trainig": {
+            "EV yield": " 3 Attack ",
+            "Catch rate": " 30 (3.9% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.",
+            "Violet": "This Pokémon somewhat resembles an ancient form of Volcarona that was introduced in a dubious magazine."
+        }
+    },
+    "smoliv": {
+        "pokedex_data": {
+            "National №": "0928",
+            "Type": " Grass Normal ",
+            "Species": "Olive Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "6.5kg (14.3lbs)",
+            "Abilities": "1. Early BirdHarvest (hidden ability)",
+            "Local №": "0084 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "41",
+            "Attack": "35",
+            "Defense": "45",
+            "Sp. Atk": "58",
+            "Sp. Def": "51",
+            "Speed": "30"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Atk ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "52",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.",
+            "Violet": "This Pokémon converts nutrients into oil, which it stores in the fruit on its head. It can easily go a whole week without eating or drinking."
+        }
+    },
+    "spidops": {
+        "pokedex_data": {
+            "National №": "0918",
+            "Type": " Bug ",
+            "Species": "Trap Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "16.5kg (36.4lbs)",
+            "Abilities": "1. InsomniaStakeout (hidden ability)",
+            "Local №": "0013 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "60",
+            "Attack": "79",
+            "Defense": "92",
+            "Sp. Atk": "52",
+            "Sp. Def": "86",
+            "Speed": "35"
+        },
+        "trainig": {
+            "EV yield": " 2 Defense ",
+            "Catch rate": " 120 (15.7% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "141",
+            "Growth Rate": "Erratic"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
+            "Violet": "Spidops covers its territory in tough, sticky threads to set up traps for intruders."
+        }
+    },
+    "sprigatito": {
+        "pokedex_data": {
+            "National №": "0906",
+            "Type": " Grass ",
+            "Species": "Grass Cat Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "4.1kg (9.0lbs)",
+            "Abilities": "1. OvergrowProtean (hidden ability)",
+            "Local №": "0001 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "61",
+            "Defense": "54",
+            "Sp. Atk": "45",
+            "Sp. Def": "45",
+            "Speed": "65"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "62",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Field, Grass",
+            "Gender": "87.5% male, 12.5% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+            "Violet": "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun."
+        }
+    },
+    "squawkabilly": {
+        "pokedex_data": {
+            "National №": "0931",
+            "Type": " Normal Flying ",
+            "Species": "Parrot Pokémon",
+            "Height": "0.6m (2′00″)",
+            "Weight": "2.4kg (5.3lbs)",
+            "Abilities": "1. Intimidate2. HustleGuts (hidden ability)",
+            "Local №": "0113 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "82",
+            "Attack": "96",
+            "Defense": "51",
+            "Sp. Atk": "45",
+            "Sp. Def": "51",
+            "Speed": "92"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "146",
+            "Growth Rate": "Erratic"
+        },
+        "breeding": {
+            "Egg Groups": "Flying",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "These Pokémon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.",
+            "Violet": "Green-feathered flocks hold the most sway. When they’re out searching for food in the mornings and evenings, it gets very noisy."
+        }
+    },
+    "tadbulb": {
+        "pokedex_data": {
+            "National №": "0938",
+            "Type": " Electric ",
+            "Species": "EleTadpole Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "0.4kg (0.9lbs)",
+            "Abilities": "1. Own Tempo2. StaticDamp (hidden ability)",
+            "Local №": "0170 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "61",
+            "Attack": "31",
+            "Defense": "41",
+            "Sp. Atk": "59",
+            "Sp. Def": "35",
+            "Speed": "45"
+        },
+        "trainig": {
+            "EV yield": " 1 HP ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "54",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
+            "Violet": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground."
+        }
+    },
+    "tandemaus": {
+        "pokedex_data": {
+            "National №": "0924",
+            "Type": " Normal ",
+            "Species": "Couple Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "1.8kg (4.0lbs)",
+            "Abilities": "1. Run Away2. PickupOwn Tempo (hidden ability)",
+            "Local №": "0071 (Scarlet/Violet)0097 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "50",
+            "Defense": "45",
+            "Sp. Atk": "40",
+            "Sp. Def": "45",
+            "Speed": "75"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 150 (19.6% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "61",
+            "Growth Rate": "Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy, Field",
+            "Gender": "Genderless",
+            "Egg cycles": "10 (2,314–2,570 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
+            "Violet": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together."
+        }
+    },
+    "tarountula": {
+        "pokedex_data": {
+            "National №": "0917",
+            "Type": " Bug ",
+            "Species": "String Ball Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "4.0kg (8.8lbs)",
+            "Abilities": "1. InsomniaStakeout (hidden ability)",
+            "Local №": "0012 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "35",
+            "Attack": "41",
+            "Defense": "45",
+            "Sp. Atk": "29",
+            "Sp. Def": "40",
+            "Speed": "20"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "42",
+            "Growth Rate": "Erratic"
+        },
+        "breeding": {
+            "Egg Groups": "Bug",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "15 (3,599–3,855 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon’s natural enemy.",
+            "Violet": "The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research."
+        }
+    },
+    "tatsugiri": {
+        "pokedex_data": {
+            "National №": "0978",
+            "Type": " Dragon Water ",
+            "Species": "Mimicry Pokémon",
+            "Height": "0.3m (1′00″)",
+            "Weight": "8.0kg (17.6lbs)",
+            "Abilities": "1. CommanderStorm Drain (hidden ability)",
+            "Local №": "0375 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "68",
+            "Attack": "50",
+            "Defense": "60",
+            "Sp. Atk": "120",
+            "Sp. Def": "95",
+            "Speed": "82"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Atk ",
+            "Catch rate": " 100 (13.1% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "166",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Water 2",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "35 (8,739–8,995 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.",
+            "Violet": "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack."
+        }
+    },
+    "terapagos": {
+        "pokedex_data": {
+            "National №": "1024",
+            "Type": " Normal ",
+            "Species": "Tera Pokémon",
+            "Height": "0.2m (0′08″)",
+            "Weight": "6.5kg (14.3lbs)",
+            "Abilities": "1. Tera Shift",
+            "Local №": "0240 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "65",
+            "Defense": "85",
+            "Sp. Atk": "65",
+            "Sp. Def": "85",
+            "Speed": "60"
+        },
+        "trainig": {
+            "EV yield": " 1 Defense ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "ting-lu": {
+        "pokedex_data": {
+            "National №": "1003",
+            "Type": " Dark Ground ",
+            "Species": "Ruinous Pokémon",
+            "Height": "2.7m (8′10″)",
+            "Weight": "699.7kg (1542.6lbs)",
+            "Abilities": "1. Vessel of Ruin",
+            "Local №": "0395 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "155",
+            "Attack": "110",
+            "Defense": "125",
+            "Sp. Atk": "55",
+            "Sp. Def": "80",
+            "Speed": "45"
+        },
+        "trainig": {
+            "EV yield": " 3 Defense ",
+            "Catch rate": " 6 (0.8% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.",
+            "Violet": "It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep."
+        }
+    },
+    "tinkatink": {
+        "pokedex_data": {
+            "National №": "0957",
+            "Type": " Fairy Steel ",
+            "Species": "Metalsmith Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "8.9kg (19.6lbs)",
+            "Abilities": "1. Mold Breaker2. Own TempoPickpocket (hidden ability)",
+            "Local №": "0279 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "50",
+            "Attack": "45",
+            "Defense": "45",
+            "Sp. Atk": "35",
+            "Sp. Def": "64",
+            "Speed": "58"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Def ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "59",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "0% male, 100% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
+            "Violet": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it’s satisfied with the result."
+        }
+    },
+    "tinkaton": {
+        "pokedex_data": {
+            "National №": "0959",
+            "Type": " Fairy Steel ",
+            "Species": "Hammer Pokémon",
+            "Height": "0.7m (2′04″)",
+            "Weight": "112.8kg (248.7lbs)",
+            "Abilities": "1. Mold Breaker2. Own TempoPickpocket (hidden ability)",
+            "Local №": "0281 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "85",
+            "Attack": "75",
+            "Defense": "77",
+            "Sp. Atk": "70",
+            "Sp. Def": "105",
+            "Speed": "94"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Def ",
+            "Catch rate": " 45 (5.9% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "253",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "0% male, 100% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight.",
+            "Violet": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home."
+        }
+    },
+    "tinkatuff": {
+        "pokedex_data": {
+            "National №": "0958",
+            "Type": " Fairy Steel ",
+            "Species": "Hammer Pokémon",
+            "Height": "0.7m (2′04″)",
+            "Weight": "59.1kg (130.3lbs)",
+            "Abilities": "1. Mold Breaker2. Own TempoPickpocket (hidden ability)",
+            "Local №": "0280 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "65",
+            "Attack": "55",
+            "Defense": "55",
+            "Sp. Atk": "45",
+            "Sp. Def": "82",
+            "Speed": "78"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Def ",
+            "Catch rate": " 90 (11.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "133",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Fairy",
+            "Gender": "0% male, 100% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",
+            "Violet": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other’s hammers by smashing them together."
+        }
+    },
+    "toedscool": {
+        "pokedex_data": {
+            "National №": "0948",
+            "Type": " Ground Grass ",
+            "Species": "Woodear Pokémon",
+            "Height": "0.9m (2′11″)",
+            "Weight": "33.0kg (72.8lbs)",
+            "Abilities": "1. Mycelium Might",
+            "Local №": "0244 (Scarlet/Violet)0074 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "40",
+            "Defense": "35",
+            "Sp. Atk": "50",
+            "Sp. Def": "100",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 1 Sp. Def ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "67",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.",
+            "Violet": "Though it looks like Tentacool, Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph."
+        }
+    },
+    "toedscruel": {
+        "pokedex_data": {
+            "National №": "0949",
+            "Type": " Ground Grass ",
+            "Species": "Woodear Pokémon",
+            "Height": "1.9m (6′03″)",
+            "Weight": "58.0kg (127.9lbs)",
+            "Abilities": "1. Mycelium Might",
+            "Local №": "0245 (Scarlet/Violet)0075 (The Teal Mask)"
+        },
+        "base_stats": {
+            "HP": "80",
+            "Attack": "70",
+            "Defense": "65",
+            "Sp. Atk": "80",
+            "Sp. Def": "120",
+            "Speed": "100"
+        },
+        "trainig": {
+            "EV yield": " 2 Sp. Def ",
+            "Catch rate": " 90 (11.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "180",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Grass",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
+            "Violet": "It coils its 10 tentacles around prey and sucks out their nutrients, causing the prey pain. The folds along the rim of its head are a popular delicacy."
+        }
+    },
+    "varoom": {
+        "pokedex_data": {
+            "National №": "0965",
+            "Type": " Steel Poison ",
+            "Species": "Single-Cyl Pokémon",
+            "Height": "1.0m (3′03″)",
+            "Weight": "35.0kg (77.2lbs)",
+            "Abilities": "1. OvercoatSlow Start (hidden ability)",
+            "Local №": "0293 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "45",
+            "Attack": "70",
+            "Defense": "63",
+            "Sp. Atk": "30",
+            "Sp. Def": "45",
+            "Speed": "47"
+        },
+        "trainig": {
+            "EV yield": " 1 Attack ",
+            "Catch rate": " 190 (24.8% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "60",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Mineral",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
+            "Violet": "The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities."
+        }
+    },
+    "veluza": {
+        "pokedex_data": {
+            "National №": "0976",
+            "Type": " Water Psychic ",
+            "Species": "Jettison Pokémon",
+            "Height": "2.5m (8′02″)",
+            "Weight": "90.0kg (198.4lbs)",
+            "Abilities": "1. Mold BreakerSharpness (hidden ability)",
+            "Local №": "0373 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "90",
+            "Attack": "102",
+            "Defense": "73",
+            "Sp. Atk": "78",
+            "Sp. Def": "65",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 2 Attack ",
+            "Catch rate": " 100 (13.1% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "167",
+            "Growth Rate": "Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Water 2",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
+            "Violet": "Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey."
+        }
+    },
+    "walking-wake": {
+        "pokedex_data": {
+            "National №": "1009",
+            "Type": " Water Dragon ",
+            "Species": "Paradox Pokémon",
+            "Height": "3.5m (11′06″)",
+            "Weight": "280.0kg (617.3lbs)",
+            "Abilities": "1. Protosynthesis",
+            "Local №": "0241 (The Indigo Disk)"
+        },
+        "base_stats": {
+            "HP": "99",
+            "Attack": "83",
+            "Defense": "91",
+            "Sp. Atk": "125",
+            "Sp. Def": "83",
+            "Speed": "109"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Atk ",
+            "Catch rate": " 5 (0.7% with PokéBall, full HP) ",
+            "Base Friendship": " — ",
+            "Base Exp.": "—",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "—"
+        },
+        "pokedex_entries": {
+            "Pokédex entries": null
+        }
+    },
+    "wattrel": {
+        "pokedex_data": {
+            "National №": "0940",
+            "Type": " Electric Flying ",
+            "Species": "Storm Petrel Pokémon",
+            "Height": "0.4m (1′04″)",
+            "Weight": "3.6kg (7.9lbs)",
+            "Abilities": "1. Wind Power2. Volt AbsorbCompetitive (hidden ability)",
+            "Local №": "0177 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "40",
+            "Attack": "40",
+            "Defense": "35",
+            "Sp. Atk": "55",
+            "Sp. Def": "40",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 180 (23.5% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "56",
+            "Growth Rate": "Medium Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Flying, Water 1",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
+            "Violet": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy."
+        }
+    },
+    "wiglett": {
+        "pokedex_data": {
+            "National №": "0960",
+            "Type": " Water ",
+            "Species": "Garden Eel Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "1.8kg (4.0lbs)",
+            "Abilities": "1. Gooey2. RattledSand Veil (hidden ability)",
+            "Local №": "0288 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "10",
+            "Attack": "55",
+            "Defense": "25",
+            "Sp. Atk": "35",
+            "Sp. Def": "25",
+            "Speed": "95"
+        },
+        "trainig": {
+            "EV yield": " 1 Speed ",
+            "Catch rate": " 255 (33.3% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "49",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Water 3",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
+            "Violet": "Though it looks like Diglett, Wiglett is an entirely different species. The resemblance seems to be a coincidental result of environmental adaptation."
+        }
+    },
+    "wo-chien": {
+        "pokedex_data": {
+            "National №": "1001",
+            "Type": " Dark Grass ",
+            "Species": "Ruinous Pokémon",
+            "Height": "1.5m (4′11″)",
+            "Weight": "74.2kg (163.6lbs)",
+            "Abilities": "1. Tablets of Ruin",
+            "Local №": "0393 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "85",
+            "Attack": "85",
+            "Defense": "100",
+            "Sp. Atk": "95",
+            "Sp. Def": "135",
+            "Speed": "70"
+        },
+        "trainig": {
+            "EV yield": " 3 Sp. Def ",
+            "Catch rate": " 6 (0.8% with PokéBall, full HP) ",
+            "Base Friendship": " 0 (lower than normal) ",
+            "Base Exp.": "285",
+            "Growth Rate": "Slow"
+        },
+        "breeding": {
+            "Egg Groups": "Undiscovered",
+            "Gender": "Genderless",
+            "Egg cycles": "50 (12,594–12,850 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.",
+            "Violet": "It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren."
+        }
+    },
+    "wugtrio": {
+        "pokedex_data": {
+            "National №": "0961",
+            "Type": " Water ",
+            "Species": "Garden Eel Pokémon",
+            "Height": "1.2m (3′11″)",
+            "Weight": "5.4kg (11.9lbs)",
+            "Abilities": "1. Gooey2. RattledSand Veil (hidden ability)",
+            "Local №": "0289 (Scarlet/Violet)"
+        },
+        "base_stats": {
+            "HP": "35",
+            "Attack": "100",
+            "Defense": "50",
+            "Sp. Atk": "50",
+            "Sp. Def": "70",
+            "Speed": "120"
+        },
+        "trainig": {
+            "EV yield": " 2 Speed ",
+            "Catch rate": " 50 (6.5% with PokéBall, full HP) ",
+            "Base Friendship": " 50 (normal) ",
+            "Base Exp.": "149",
+            "Growth Rate": "Medium Fast"
+        },
+        "breeding": {
+            "Egg Groups": "Water 3",
+            "Gender": "50% male, 50% female",
+            "Egg cycles": "20 (4,884–5,140 steps) "
+        },
+        "pokedex_entries": {
+            "Scarlet": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
+            "Violet": "A variety of fish Pokémon, Wugtrio was once considered to be a regional form of Dugtrio."
+        }
+    }
+}

@@ -3,11 +3,23 @@ from pathlib import Path
 import requests
 
 BASE_DIR = Path('./data_extraction/source')
+BASE_JSON_DIR = Path('./json_data')
+
 
 def create_json_data_dir() -> None:
-    if Path('./json_data').is_dir():
-        return 
-    Path('./json_data').mkdir()
+    if BASE_JSON_DIR.is_dir():
+        return
+    BASE_JSON_DIR.mkdir()
+
+
+def create_json_gen_file(gen_name: str) -> Path:
+    target_dir = BASE_JSON_DIR / f'{gen_name}.json'
+    if not target_dir.exists():
+        try:
+            target_dir.touch()
+        except Exception as e:
+            raise IOError(f'failed to create the file {target_dir}: {e}')
+    return target_dir
 
 
 def create_gen_dir(gen_index: int) -> None:
@@ -25,4 +37,3 @@ def save_pokemon_source_html(pokedex_url: str, gen_index: int, poke_name: str) -
     file_name.touch()
     with open(file=file_name, mode='w', encoding='utf8') as file:
         file.write(response.text)
-

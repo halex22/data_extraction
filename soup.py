@@ -1,7 +1,8 @@
 from time import sleep
 
 from bs4 import BeautifulSoup, Tag
-from utils import create_gen_dir, save_pokemon_source_html
+
+from path_generator import create_gen_dir, save_pokemon_source_html
 
 BASE_URL = 'https://pokemondb.net'
 

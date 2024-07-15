@@ -7,6 +7,8 @@ class TableNames(StrEnum):
     base_stats = 'Base stats'
     trainig = 'Training'
     breeding = 'Breeding'
+    pokedex_entries = "Pokédex entries"
+
 
 # for name in TableNames:
 #     print(name.value, name.value)
