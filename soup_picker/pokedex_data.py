@@ -3,6 +3,10 @@ from bs4 import BeautifulSoup, PageElement, ResultSet, Tag
 from utils.enums import TableNames
 
 
+def clean_tn_data(table_name: str) -> str:
+    result = table_name.replace(' №', '').replace(' ', '_').replace('.', '').lower() 
+    return result
+
 def get_general_data(soup_instance: BeautifulSoup) -> dict:
     data = {}
     sections_name = soup_instance.find_all('h2')
@@ -20,7 +24,7 @@ def get_table_info(table_name: str, sections: ResultSet) -> dict[str, str]:
         rows = pokedex_data_table.find_all('tr')
         for row in rows:
             name, value = extract_table_row_info(row)
-            table_info[name] = value
+            table_info[clean_tn_data(name)] = value
     except ValueError:
         table_info[table_name] = None
     return table_info
