@@ -5,7 +5,7 @@ class TableNames(StrEnum):
 
     pokedex_data =  "Pokédex data"
     base_stats = 'Base stats'
-    trainig = 'Training'
+    training = 'Training'
     breeding = 'Breeding'
     pokedex_entries = "Pokédex entries"
 
