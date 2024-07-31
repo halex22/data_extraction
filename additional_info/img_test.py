@@ -6,9 +6,12 @@ path_dir = Path('./source/gen_1')
 
 
 def get_src_attr(soup: BeautifulSoup) -> str:
-    anchor_tag_target: Tag = soup.find('a', attrs={'rel':'lightbox'})
-    pokemon_img: Tag = anchor_tag_target.find('img')
-    return pokemon_img.get(key='src', default=None)
+    try:
+        anchor_tag_target: Tag = soup.find('a', attrs={'rel':'lightbox'})
+        pokemon_img: Tag = anchor_tag_target.find('img')
+        return pokemon_img.get(key='src', default=None)
+    except AttributeError:
+        return None
 
 
 for _ in path_dir.iterdir():
