@@ -1,26 +1,24 @@
-import os
 from pathlib import Path
 
-import requests
+from bs4 import BeautifulSoup
 
-SCRIPT_FILE_DIR = Path(os.path.dirname(os.path.abspath(__file__)))
+from utils.dirs import gen_dir_handler
 
-
-def verify_html_exits(dir_name: str = 'source') -> None:
-    target_dir = SCRIPT_FILE_DIR / dir_name
-    if not target_dir.is_dir():
-        target_dir.mkdir()
-
-
-def get_source_html_code(url: str = 'https://pokemondb.net/pokedex/national') -> None:
-    res = requests.get(url=url)
-    file_name = SCRIPT_FILE_DIR / 'source' / 'html_source.html'
-    with open(file_name, 'w', encoding='utf8') as file:
-        file.write(res.text)
-
-
+OUTPUT_DIR = Path('./pokemon json')
+INPUT_DIR = Path('./source')
 
 if __name__ == '__main__':
-    verify_html_exits()
-    get_source_html_code()
-# requests.get()
+
+    for generation in INPUT_DIR.iterdir():
+        gen_index = generation.name[-1]
+
+        print(f'Extracting generation {gen_index} info')
+        gen_target = OUTPUT_DIR / f'gen_{gen_index}'
+        gen_dir_handler(path_name=gen_target)
+
+        for pokemon_file in generation.iterdir():
+            # with open(pokemon_file, mode='r', encoding='utf8') as file:
+            #     source_code = file.read()
+
+            # soup = BeautifulSoup(source_code, 'html.parser')
+            print(pokemon_file)

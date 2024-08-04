@@ -2,7 +2,7 @@ from pathlib import Path
 
 import requests
 
-BASE_DIR = Path('./data_extraction/source')
+BASE_DIR = Path('./source')
 BASE_JSON_DIR = Path('./json_data')
 
 

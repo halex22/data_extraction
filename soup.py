@@ -21,7 +21,7 @@ def get_single_link(div: Tag) -> str:
 if __name__ == '__main__':
     gens_list = [_ for _ in range(1, 10)]
 
-    with open('./data_extraction/source/html_source.html', 'r', encoding='utf8') as file:
+    with open('./html_source.html', 'r', encoding='utf8') as file:
         source = file.read()
 
     soup = BeautifulSoup(source, 'html.parser')
