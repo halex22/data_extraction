@@ -1,3 +1,4 @@
+import json
 from pathlib import Path
 
 from bs4 import BeautifulSoup
@@ -9,6 +10,13 @@ OUTPUT_DIR = Path('./pokemon json')
 INPUT_DIR = Path('./source')
 
 
+def save_scrapped_info(destination_dir: Path, file_name: str, info_section: dict):
+    target_file = destination_dir / f'{file_name}.json'
+
+    with open(target_file, mode='w', encoding='utf8') as file:
+        json.dump(info_section, file, ensure_ascii=False)
+
+
 def process_pokemon_info(source_file_path: Path) -> None:
     pokemon_output_dir = gen_target / source_file_path.stem
     dir_handler(path_name=pokemon_output_dir)
@@ -17,7 +25,11 @@ def process_pokemon_info(source_file_path: Path) -> None:
         source_code = file.read()
     soup = BeautifulSoup(source_code, 'html.parser')
     info = get_general_data(soup_instance=soup)
-    print(info)
+    for key, value in info.items():
+        # print('\n', key)
+        # print(value)
+        save_scrapped_info(destination_dir=pokemon_output_dir,
+                           file_name=key, info_section=value)
 
 
 if __name__ == '__main__':

@@ -9,9 +9,9 @@ def get_src_attr(soup: BeautifulSoup) -> str:
     try:
         anchor_tag_target: Tag = soup.find('a', attrs={'rel': 'lightbox'})
         pokemon_img: Tag = anchor_tag_target.find('img')
-        return pokemon_img.get(key='src', default=None)
+        return {'img': pokemon_img.get(key='src', default=None)}
     except AttributeError:
-        return None
+        return {'img': None}
 
 
 if __name__ == '__main__':

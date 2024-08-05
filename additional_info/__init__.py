@@ -1,3 +1,4 @@
+from .entries import extract_tr_many
 from .evolutions import get_evolutions
 from .img_test import get_src_attr
 from .languages import get_languages

@@ -3,7 +3,7 @@ from typing import Dict
 
 from bs4 import BeautifulSoup, PageElement, ResultSet, Tag
 
-from additional_info import (get_evolutions, get_languages, get_src_attr,
+from additional_info import (extract_tr_many, get_evolutions, get_src_attr,
                              get_types_effect)
 from utils.enums import TableNames
 
@@ -26,28 +26,37 @@ def get_general_data(soup_instance: BeautifulSoup) -> dict:
         dict: dict containing the info ready to be parsed into json format 
     """
     data = {}
+    pokemon_name = soup_instance.find('h1').text
+    where_to_find_table_name = f'Where to find {pokemon_name}'
     sections_name = soup_instance.find_all('h2')
     for table_name in TableNames:
         table_info = get_table_info(
             sections=sections_name, table_name=table_name)
         data[table_name.name] = table_info
+    data['where_to_find'] = get_table_info(
+        sections=sections_name, table_name=where_to_find_table_name, where_to_find=True)
     data['evolutions'] = get_evolutions(soup=soup_instance)
-    data['languages'] = get_languages(soup=soup_instance)
+    # data['languages'] = get_languages(soup=soup_instance)
     data['img_link'] = get_src_attr(soup=soup_instance)
     data['types_effect'] = get_types_effect(soup=soup_instance)
     return data
 
 
-def get_table_info(table_name: str, sections: ResultSet) -> dict[str, str]:
+def get_table_info(table_name: str, sections: ResultSet, where_to_find: bool = False) -> dict[str, str]:
 
     table_info = {}
+
+    if table_name == TableNames.pokedex_entries or where_to_find:
+        pokedex_data_table = get_desired_table(sections, filter=table_name)
+        table_info = extract_tr_many(table=pokedex_data_table)
+        return table_info
+
     try:
         pokedex_data_table = get_desired_table(sections, filter=table_name)
         rows = pokedex_data_table.find_all('tr')
         for row in rows:
             name, value = extract_table_row_info(row)
-            name = clean_tn_data(
-                name) if table_name != TableNames.pokedex_entries else name
+            name = clean_tn_data(name)
             table_info[name] = value
     except ValueError:
         table_info[table_name] = None
