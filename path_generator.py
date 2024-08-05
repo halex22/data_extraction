@@ -1,4 +1,5 @@
 from pathlib import Path
+from time import sleep
 
 import requests
 
@@ -31,9 +32,15 @@ def create_gen_dir(gen_index: int) -> None:
     print(f'dir created for gen {gen_index}')
 
 
-def save_pokemon_source_html(pokedex_url: str, gen_index: int, poke_name: str) -> None:
+def save_pokemon_source_html(pokedex_url: str, file_path: Path) -> None:
+    """Downloads and saves the sour html code for the given pokemon. Sleeps 
+    2 seconds on each request
+
+    Args:
+        pokedex_url (str): The url index to make the request
+        file_path (Path): The path to save the source code info
+    """
     response = requests.get(pokedex_url)
-    file_name = BASE_DIR / f'gen_{gen_index}' / f'{poke_name}.html'
-    file_name.touch()
-    with open(file=file_name, mode='w', encoding='utf8') as file:
+    sleep(2)
+    with open(file=file_path, mode='w', encoding='utf8') as file:
         file.write(response.text)

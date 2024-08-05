@@ -1,3 +1,6 @@
+from dataclasses import dataclass, field
+from typing import Dict
+
 from bs4 import BeautifulSoup, PageElement, ResultSet, Tag
 
 from additional_info import (get_evolutions, get_languages, get_src_attr,
@@ -7,11 +10,21 @@ from utils.enums import TableNames
 
 def clean_tn_data(table_name: str) -> str:
     """Strips the name from unwanted characters"""
-    result = table_name.replace(' №', '').replace(' ', '_').replace('.', '').lower() 
+    result = table_name.replace(' №', '').replace(
+        ' ', '_').replace('.', '').lower()
     return result
 
 
 def get_general_data(soup_instance: BeautifulSoup) -> dict:
+    """Extract the info from the tables in the `TableNames` enum subclass from the utils
+    module.
+
+    Args:
+        soup_instance (BeautifulSoup): The html source code parsed into a bs4 instance
+
+    Returns:
+        dict: dict containing the info ready to be parsed into json format 
+    """
     data = {}
     sections_name = soup_instance.find_all('h2')
     for table_name in TableNames:
@@ -26,13 +39,15 @@ def get_general_data(soup_instance: BeautifulSoup) -> dict:
 
 
 def get_table_info(table_name: str, sections: ResultSet) -> dict[str, str]:
+
     table_info = {}
     try:
         pokedex_data_table = get_desired_table(sections, filter=table_name)
         rows = pokedex_data_table.find_all('tr')
         for row in rows:
             name, value = extract_table_row_info(row)
-            name = clean_tn_data(name) if table_name != TableNames.pokedex_entries else name
+            name = clean_tn_data(
+                name) if table_name != TableNames.pokedex_entries else name
             table_info[name] = value
     except ValueError:
         table_info[table_name] = None
@@ -40,7 +55,18 @@ def get_table_info(table_name: str, sections: ResultSet) -> dict[str, str]:
 
 
 def get_desired_table(result: list[PageElement], filter: str) -> Tag:
-    """Filters all the tables found and return the one matching the filter given"""
+    """Filters all the tables found and return the one matching the filter given
+
+    Args:
+        result (list[PageElement]): Array of `h2` elemetns
+        filter (str): Name of the table to extract from the array.
+
+    Raises:
+        ValueError: If no `h2` is found wit the given name.
+
+    Returns:
+        Tag: return the next `tbody` element in the soup 
+    """
     for _ in result:
         if _.text == filter:
             return _.find_next('tbody')
@@ -52,3 +78,12 @@ def extract_table_row_info(row: PageElement) -> None:
     row_name = row.find_next('th').text
     row_value = row.find_next('td').text.replace('\n', ' ').replace('\xa0', '')
     return row_name, row_value
+
+
+@dataclass
+class InfoExtractor:
+    soup: BeautifulSoup
+    extracted_info: Dict[str, str] = field(init=False, default_factory={})
+
+    def __post_init__(self):
+        ...
