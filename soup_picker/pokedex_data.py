@@ -1,10 +1,11 @@
 from dataclasses import dataclass, field
-from typing import Dict
+from typing import Dict, Union
 
 from bs4 import BeautifulSoup, PageElement, ResultSet, Tag
 
 from additional_info import (extract_tr_many, get_evolutions, get_src_attr,
                              get_types_effect)
+from additional_info.base_stats import get_base_stats_info
 from utils.enums import TableNames
 
 
@@ -26,7 +27,8 @@ def get_general_data(soup_instance: BeautifulSoup) -> dict:
         dict: dict containing the info ready to be parsed into json format 
     """
     data = {}
-    pokemon_name = soup_instance.find('h1').text
+    pokemon_name = soup_instance.find('h1').text.split(' (')[0]
+    print(pokemon_name)
     where_to_find_table_name = f'Where to find {pokemon_name}'
     sections_name = soup_instance.find_all('h2')
     for table_name in TableNames:
@@ -35,6 +37,7 @@ def get_general_data(soup_instance: BeautifulSoup) -> dict:
         data[table_name.name] = table_info
     data['where_to_find'] = get_table_info(
         sections=sections_name, table_name=where_to_find_table_name, where_to_find=True)
+    # data['base_stats'] = get_base_stats_info()
     data['evolutions'] = get_evolutions(soup=soup_instance)
     # data['languages'] = get_languages(soup=soup_instance)
     data['img_link'] = get_src_attr(soup=soup_instance)
@@ -45,41 +48,40 @@ def get_general_data(soup_instance: BeautifulSoup) -> dict:
 def get_table_info(table_name: str, sections: ResultSet, where_to_find: bool = False) -> dict[str, str]:
 
     table_info = {}
+    pokedex_data_table = get_desired_table(sections, filter=table_name)
+
+    if not pokedex_data_table:
+        return {table_name: None}
 
     if table_name == TableNames.pokedex_entries or where_to_find:
-        pokedex_data_table = get_desired_table(sections, filter=table_name)
-        table_info = extract_tr_many(table=pokedex_data_table)
-        return table_info
+        return extract_tr_many(table=pokedex_data_table)
 
-    try:
-        pokedex_data_table = get_desired_table(sections, filter=table_name)
-        rows = pokedex_data_table.find_all('tr')
-        for row in rows:
-            name, value = extract_table_row_info(row)
-            name = clean_tn_data(name)
-            table_info[name] = value
-    except ValueError:
-        table_info[table_name] = None
+    if table_name == TableNames.base_stats:
+        return get_base_stats_info(table=pokedex_data_table)
+
+    rows = pokedex_data_table.find_all('tr')
+    for row in rows:
+        name, value = extract_table_row_info(row)
+        name = clean_tn_data(name)
+        table_info[name] = value
+
     return table_info
 
 
-def get_desired_table(result: list[PageElement], filter: str) -> Tag:
+def get_desired_table(result: list[PageElement], filter: str) -> Union[Tag, None]:
     """Filters all the tables found and return the one matching the filter given
 
     Args:
         result (list[PageElement]): Array of `h2` elemetns
         filter (str): Name of the table to extract from the array.
 
-    Raises:
-        ValueError: If no `h2` is found wit the given name.
-
     Returns:
-        Tag: return the next `tbody` element in the soup 
+        Union[Tag, None]: the next `tbody` element in the soup if available
     """
     for _ in result:
         if _.text == filter:
             return _.find_next('tbody')
-    raise ValueError(f'No section named -- {filter} -- was found')
+    return None
 
 
 def extract_table_row_info(row: PageElement) -> None:

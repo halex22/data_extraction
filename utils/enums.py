@@ -1,4 +1,4 @@
-from enum import StrEnum
+from enum import StrEnum, auto
 
 
 class TableNames(StrEnum):
@@ -10,6 +10,12 @@ class TableNames(StrEnum):
     pokedex_entries = "Pokédex entries"
     languages = 'Other languages'
 
+
+class Stats(StrEnum):
+
+    base = auto()
+    min = auto()
+    max = auto()
 
 # for name in TableNames:
 #     print(name.value, name.value)

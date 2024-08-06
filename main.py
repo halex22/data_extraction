@@ -4,17 +4,10 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 from soup_picker import get_general_data
-from utils.dirs import dir_handler
+from utils.dirs import dir_handler, save_scrapped_info
 
 OUTPUT_DIR = Path('./pokemon json')
 INPUT_DIR = Path('./source')
-
-
-def save_scrapped_info(destination_dir: Path, file_name: str, info_section: dict):
-    target_file = destination_dir / f'{file_name}.json'
-
-    with open(target_file, mode='w', encoding='utf8') as file:
-        json.dump(info_section, file, ensure_ascii=False)
 
 
 def process_pokemon_info(source_file_path: Path) -> None:
@@ -26,8 +19,6 @@ def process_pokemon_info(source_file_path: Path) -> None:
     soup = BeautifulSoup(source_code, 'html.parser')
     info = get_general_data(soup_instance=soup)
     for key, value in info.items():
-        # print('\n', key)
-        # print(value)
         save_scrapped_info(destination_dir=pokemon_output_dir,
                            file_name=key, info_section=value)
 
@@ -42,9 +33,5 @@ if __name__ == '__main__':
         gen_target = OUTPUT_DIR / f'gen_{gen_index}'
         dir_handler(path_name=gen_target)
 
-        # for pokemon_file in generation.iterdir():
-        #     process_pokemon_info(pokemon_file)
-
-        test_file = next(generation.iterdir().__iter__())
-        process_pokemon_info(test_file)
-        break  # to test just the first file
+        for pokemon_file in generation.iterdir():
+            process_pokemon_info(pokemon_file)
