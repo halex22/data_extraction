@@ -1,1 +1,1 @@
-from .pokedex_data import get_general_data
+from .pokedex_data import get_additional_info, get_general_data

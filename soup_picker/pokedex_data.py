@@ -1,5 +1,5 @@
 from dataclasses import dataclass, field
-from typing import Dict, Union
+from typing import Dict, List, Union
 
 from bs4 import BeautifulSoup, PageElement, ResultSet, Tag
 
@@ -16,7 +16,11 @@ def clean_tn_data(table_name: str) -> str:
     return result
 
 
-def get_general_data(soup_instance: BeautifulSoup) -> dict:
+def get_current_pokemon_name(soup_instance: BeautifulSoup) -> str:
+    return soup_instance.find('h1').text.split(' (')[0]
+
+
+def get_general_data(soup_instance: BeautifulSoup, tables: Union[List[str], str]) -> dict:
     """Extract the info from the tables in the `TableNames` enum subclass from the utils
     module.
 
@@ -27,21 +31,28 @@ def get_general_data(soup_instance: BeautifulSoup) -> dict:
         dict: dict containing the info ready to be parsed into json format 
     """
     data = {}
-    pokemon_name = soup_instance.find('h1').text.split(' (')[0]
-    print(pokemon_name)
-    where_to_find_table_name = f'Where to find {pokemon_name}'
+    where_to_find_table_name = f'Where to find {get_current_pokemon_name(soup_instance)}'
     sections_name = soup_instance.find_all('h2')
-    for table_name in TableNames:
+
+    tables_to_search = [
+        _.value for _ in TableNames] if tables == 'all' else tables
+
+    for table_name in tables_to_search:
         table_info = get_table_info(
             sections=sections_name, table_name=table_name)
-        data[table_name.name] = table_info
+        data[clean_tn_data(table_name)] = table_info
+
     data['where_to_find'] = get_table_info(
         sections=sections_name, table_name=where_to_find_table_name, where_to_find=True)
-    # data['base_stats'] = get_base_stats_info()
-    data['evolutions'] = get_evolutions(soup=soup_instance)
-    # data['languages'] = get_languages(soup=soup_instance)
-    data['img_link'] = get_src_attr(soup=soup_instance)
-    data['types_effect'] = get_types_effect(soup=soup_instance)
+
+    return data
+
+
+def get_additional_info(soup: BeautifulSoup) -> dict:
+    data = {}
+    data['evolutions'] = get_evolutions(soup=soup)
+    data['img_link'] = get_src_attr(soup=soup)
+    data['types_effect'] = get_types_effect(soup=soup)
     return data
 
 
